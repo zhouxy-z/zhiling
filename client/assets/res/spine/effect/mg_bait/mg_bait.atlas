@@ -1,0 +1,41 @@
+
+mg_bait.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/bait
+  rotate: true
+  xy: 36, 8
+  size: 111, 107
+  orig: 111, 107
+  offset: 0, 0
+  index: -1
+image/ksg
+  rotate: false
+  xy: 2, 265
+  size: 221, 223
+  orig: 240, 239
+  offset: 7, 7
+  index: -1
+image/shuzikuang
+  rotate: true
+  xy: 2, 121
+  size: 142, 36
+  orig: 142, 36
+  offset: 0, 0
+  index: -1
+image/tx1
+  rotate: false
+  xy: 40, 218
+  size: 45, 45
+  orig: 57, 57
+  offset: 6, 6
+  index: -1
+image/累积饲料
+  rotate: true
+  xy: 2, 2
+  size: 117, 32
+  orig: 122, 36
+  offset: 2, 1
+  index: -1

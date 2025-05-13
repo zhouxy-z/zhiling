@@ -1,0 +1,47 @@
+{
+"skeleton": {
+	"hash": "jgtz1igZjNDo4eL+J12eWpl63Wo",
+	"spine": "3.8.99",
+	"x": -111.79,
+	"y": 2,
+	"width": 266,
+	"height": 110,
+	"images": "./images/",
+	"audio": ""
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "qipao", "parent": "root" },
+	{ "name": "wenzi", "parent": "qipao", "x": 26, "y": 67 }
+],
+"slots": [
+	{ "name": "qipao", "bone": "qipao", "attachment": "qipao" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"qipao": {
+				"qipao": { "x": 21.21, "y": 57, "width": 266, "height": 110 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {
+		"bones": {
+			"qipao": {
+				"scale": [
+					{ "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.2, "x": 0.5, "y": 0.5, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.4, "x": 1.2, "y": 1.2, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.6333, "x": 0.95, "y": 0.95, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.8667, "x": 1.05, "y": 1.05, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.3333, "curve": "stepped" },
+					{ "time": 6 }
+				]
+			}
+		}
+	}
+}
+}

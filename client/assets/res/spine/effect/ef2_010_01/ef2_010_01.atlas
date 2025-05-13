@@ -1,0 +1,62 @@
+
+ef2_010_01.png
+size: 534,120
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+feijian02_1
+  rotate: true
+  xy: 450, 14
+  size: 59, 48
+  orig: 117, 112
+  offset: 44, 12
+  index: -1
+feijian02_2
+  rotate: true
+  xy: 116, 20
+  size: 98, 96
+  orig: 117, 112
+  offset: 15, 4
+  index: -1
+feijian02_3
+  rotate: true
+  xy: 2, 2
+  size: 116, 112
+  orig: 117, 112
+  offset: 0, 0
+  index: -1
+feijian02_4
+  rotate: true
+  xy: 214, 9
+  size: 109, 86
+  orig: 117, 112
+  offset: 7, 18
+  index: -1
+feijian02_5
+  rotate: true
+  xy: 302, 12
+  size: 106, 84
+  orig: 117, 112
+  offset: 11, 23
+  index: -1
+feijian02_6
+  rotate: true
+  xy: 388, 14
+  size: 104, 60
+  orig: 117, 112
+  offset: 13, 48
+  index: -1
+feijian02_7
+  rotate: false
+  xy: 450, 75
+  size: 82, 43
+  orig: 117, 112
+  offset: 14, 66
+  index: -1
+feijian02_8
+  rotate: false
+  xy: 116, 3
+  size: 65, 15
+  orig: 117, 112
+  offset: 29, 73
+  index: -1

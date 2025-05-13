@@ -1,0 +1,216 @@
+
+ui_FFL_icon_03.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX_00000
+  rotate: false
+  xy: 2, 283
+  size: 172, 182
+  orig: 205, 205
+  offset: 23, 22
+  index: -1
+FX_00001
+  rotate: false
+  xy: 2, 651
+  size: 174, 184
+  orig: 205, 205
+  offset: 22, 21
+  index: -1
+FX_00002
+  rotate: false
+  xy: 2, 837
+  size: 175, 184
+  orig: 205, 205
+  offset: 21, 21
+  index: -1
+FX_00003
+  rotate: false
+  xy: 2, 467
+  size: 174, 182
+  orig: 205, 205
+  offset: 21, 22
+  index: -1
+FX_00004
+  rotate: false
+  xy: 2, 101
+  size: 173, 180
+  orig: 205, 205
+  offset: 21, 23
+  index: -1
+FX_00005
+  rotate: false
+  xy: 177, 110
+  size: 171, 174
+  orig: 205, 205
+  offset: 22, 25
+  index: -1
+FX_00006
+  rotate: true
+  xy: 350, 151
+  size: 167, 165
+  orig: 205, 205
+  offset: 23, 27
+  index: -1
+FX_00007
+  rotate: true
+  xy: 841, 216
+  size: 154, 159
+  orig: 205, 205
+  offset: 23, 25
+  index: -1
+FX_00008
+  rotate: false
+  xy: 863, 859
+  size: 158, 162
+  orig: 205, 205
+  offset: 21, 24
+  index: -1
+FX_00009
+  rotate: true
+  xy: 845, 695
+  size: 161, 164
+  orig: 205, 205
+  offset: 19, 23
+  index: -1
+FX_00010
+  rotate: true
+  xy: 694, 858
+  size: 163, 167
+  orig: 205, 205
+  offset: 18, 21
+  index: -1
+FX_00011
+  rotate: false
+  xy: 346, 679
+  size: 166, 170
+  orig: 205, 205
+  offset: 16, 20
+  index: -1
+FX_00012
+  rotate: false
+  xy: 179, 851
+  size: 167, 170
+  orig: 205, 205
+  offset: 16, 20
+  index: -1
+FX_00013
+  rotate: false
+  xy: 345, 489
+  size: 168, 168
+  orig: 205, 205
+  offset: 15, 21
+  index: -1
+FX_00014
+  rotate: true
+  xy: 347, 320
+  size: 167, 166
+  orig: 205, 205
+  offset: 16, 22
+  index: -1
+FX_00015
+  rotate: true
+  xy: 681, 522
+  size: 165, 160
+  orig: 205, 205
+  offset: 17, 25
+  index: -1
+FX_00016
+  rotate: true
+  xy: 680, 193
+  size: 160, 152
+  orig: 205, 205
+  offset: 20, 27
+  index: -1
+FX_00017
+  rotate: true
+  xy: 834, 63
+  size: 151, 155
+  orig: 205, 205
+  offset: 22, 25
+  index: -1
+FX_00018
+  rotate: true
+  xy: 680, 355
+  size: 155, 159
+  orig: 205, 205
+  offset: 20, 23
+  index: -1
+FX_00019
+  rotate: true
+  xy: 843, 372
+  size: 158, 161
+  orig: 205, 205
+  offset: 18, 22
+  index: -1
+FX_00020
+  rotate: true
+  xy: 845, 532
+  size: 161, 164
+  orig: 205, 205
+  offset: 16, 20
+  index: -1
+FX_00021
+  rotate: false
+  xy: 515, 343
+  size: 163, 167
+  orig: 205, 205
+  offset: 15, 19
+  index: -1
+FX_00022
+  rotate: false
+  xy: 515, 512
+  size: 164, 168
+  orig: 205, 205
+  offset: 15, 18
+  index: -1
+FX_00023
+  rotate: false
+  xy: 679, 689
+  size: 164, 167
+  orig: 205, 205
+  offset: 15, 18
+  index: -1
+FX_00024
+  rotate: true
+  xy: 348, 856
+  size: 165, 171
+  orig: 205, 205
+  offset: 17, 19
+  index: -1
+FX_00025
+  rotate: false
+  xy: 178, 485
+  size: 165, 172
+  orig: 205, 205
+  offset: 20, 21
+  index: -1
+FX_00026
+  rotate: false
+  xy: 514, 682
+  size: 163, 172
+  orig: 205, 205
+  offset: 24, 24
+  index: -1
+FX_00027
+  rotate: true
+  xy: 521, 858
+  size: 163, 171
+  orig: 205, 205
+  offset: 27, 27
+  index: -1
+FX_00028
+  rotate: false
+  xy: 178, 659
+  size: 166, 176
+  orig: 205, 205
+  offset: 26, 25
+  index: -1
+FX_00029
+  rotate: false
+  xy: 176, 286
+  size: 169, 179
+  orig: 205, 205
+  offset: 24, 23
+  index: -1

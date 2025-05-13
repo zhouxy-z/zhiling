@@ -1,0 +1,153 @@
+
+ef2_002_02.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_00000
+  rotate: false
+  xy: 156, 99
+  size: 38, 38
+  orig: 90, 90
+  offset: 24, 29
+  index: -1
+1_00001
+  rotate: false
+  xy: 199, 198
+  size: 55, 56
+  orig: 90, 90
+  offset: 19, 19
+  index: -1
+1_00002
+  rotate: false
+  xy: 2, 72
+  size: 62, 58
+  orig: 90, 90
+  offset: 13, 18
+  index: -1
+1_00003
+  rotate: false
+  xy: 70, 194
+  size: 64, 60
+  orig: 90, 90
+  offset: 13, 17
+  index: -1
+1_00004
+  rotate: false
+  xy: 2, 194
+  size: 66, 60
+  orig: 90, 90
+  offset: 11, 17
+  index: -1
+1_00005
+  rotate: false
+  xy: 2, 132
+  size: 66, 60
+  orig: 90, 90
+  offset: 11, 17
+  index: -1
+1_00006
+  rotate: false
+  xy: 136, 197
+  size: 61, 57
+  orig: 90, 90
+  offset: 13, 18
+  index: -1
+1_00007
+  rotate: false
+  xy: 113, 92
+  size: 41, 41
+  orig: 90, 90
+  offset: 24, 19
+  index: -1
+1_00008
+  rotate: false
+  xy: 119, 49
+  size: 34, 41
+  orig: 90, 90
+  offset: 31, 18
+  index: -1
+1_00009
+  rotate: false
+  xy: 119, 7
+  size: 28, 40
+  orig: 90, 90
+  offset: 36, 18
+  index: -1
+shui_0000
+  rotate: true
+  xy: 155, 38
+  size: 27, 28
+  orig: 40, 42
+  offset: 8, 8
+  index: -1
+shui_0001
+  rotate: false
+  xy: 66, 79
+  size: 45, 51
+  orig: 60, 63
+  offset: 9, 7
+  index: -1
+shui_0002
+  rotate: true
+  xy: 197, 142
+  size: 53, 57
+  orig: 60, 63
+  offset: 4, 3
+  index: -1
+shui_0004
+  rotate: true
+  xy: 136, 139
+  size: 56, 59
+  orig: 60, 63
+  offset: 2, 2
+  index: -1
+shui_0006
+  rotate: false
+  xy: 2, 9
+  size: 57, 61
+  orig: 60, 63
+  offset: 2, 1
+  index: -1
+shui_0008
+  rotate: true
+  xy: 70, 135
+  size: 57, 62
+  orig: 60, 63
+  offset: 2, 0
+  index: -1
+shui_0010
+  rotate: false
+  xy: 61, 8
+  size: 56, 62
+  orig: 60, 63
+  offset: 2, 0
+  index: -1
+slsp_1
+  rotate: false
+  xy: 173, 17
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+slsp_2
+  rotate: false
+  xy: 149, 18
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+slsp_3
+  rotate: true
+  xy: 188, 77
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+slsp_4
+  rotate: false
+  xy: 156, 67
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

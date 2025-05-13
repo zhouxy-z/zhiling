@@ -1,0 +1,146 @@
+
+mg_dgchange.png
+size: 1970,962
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/dgg1
+  rotate: true
+  xy: 1610, 322
+  size: 279, 358
+  orig: 540, 960
+  offset: 0, 350
+  index: -1
+image/dgg2
+  rotate: true
+  xy: 1208, 2
+  size: 277, 359
+  orig: 540, 960
+  offset: 0, 348
+  index: -1
+image/dgg3
+  rotate: false
+  xy: 1647, 603
+  size: 277, 357
+  orig: 540, 960
+  offset: 0, 349
+  index: -1
+image/dgg4
+  rotate: true
+  xy: 1610, 38
+  size: 282, 357
+  orig: 540, 960
+  offset: 0, 349
+  index: -1
+image/sjg_1
+  rotate: false
+  xy: 39, 735
+  size: 400, 225
+  orig: 400, 225
+  offset: 0, 0
+  index: -1
+image/sjg_10
+  rotate: false
+  xy: 404, 281
+  size: 400, 225
+  orig: 400, 225
+  offset: 0, 0
+  index: -1
+image/sjg_11
+  rotate: false
+  xy: 806, 281
+  size: 400, 225
+  orig: 400, 225
+  offset: 0, 0
+  index: -1
+image/sjg_12
+  rotate: false
+  xy: 1208, 281
+  size: 400, 225
+  orig: 400, 225
+  offset: 0, 0
+  index: -1
+image/sjg_13
+  rotate: false
+  xy: 2, 54
+  size: 400, 225
+  orig: 400, 225
+  offset: 0, 0
+  index: -1
+image/sjg_14
+  rotate: false
+  xy: 404, 54
+  size: 400, 225
+  orig: 400, 225
+  offset: 0, 0
+  index: -1
+image/sjg_15
+  rotate: false
+  xy: 806, 54
+  size: 400, 225
+  orig: 400, 225
+  offset: 0, 0
+  index: -1
+image/sjg_2
+  rotate: false
+  xy: 441, 735
+  size: 400, 225
+  orig: 400, 225
+  offset: 0, 0
+  index: -1
+image/sjg_3
+  rotate: false
+  xy: 843, 735
+  size: 400, 225
+  orig: 400, 225
+  offset: 0, 0
+  index: -1
+image/sjg_4
+  rotate: false
+  xy: 1245, 735
+  size: 400, 225
+  orig: 400, 225
+  offset: 0, 0
+  index: -1
+image/sjg_5
+  rotate: false
+  xy: 2, 508
+  size: 400, 225
+  orig: 400, 225
+  offset: 0, 0
+  index: -1
+image/sjg_6
+  rotate: false
+  xy: 404, 508
+  size: 400, 225
+  orig: 400, 225
+  offset: 0, 0
+  index: -1
+image/sjg_7
+  rotate: false
+  xy: 806, 508
+  size: 400, 225
+  orig: 400, 225
+  offset: 0, 0
+  index: -1
+image/sjg_8
+  rotate: false
+  xy: 1208, 508
+  size: 400, 225
+  orig: 400, 225
+  offset: 0, 0
+  index: -1
+image/sjg_9
+  rotate: false
+  xy: 2, 281
+  size: 400, 225
+  orig: 400, 225
+  offset: 0, 0
+  index: -1
+image/xingxing1
+  rotate: false
+  xy: 2, 926
+  size: 35, 34
+  orig: 59, 59
+  offset: 12, 13
+  index: -1

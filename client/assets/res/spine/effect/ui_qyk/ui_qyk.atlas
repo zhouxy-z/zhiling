@@ -1,0 +1,69 @@
+
+ui_qyk.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+duandai1
+  rotate: false
+  xy: 2, 348
+  size: 136, 62
+  orig: 138, 64
+  offset: 1, 1
+  index: -1
+duandai2
+  rotate: false
+  xy: 288, 397
+  size: 130, 56
+  orig: 133, 58
+  offset: 1, 1
+  index: -1
+moon
+  rotate: true
+  xy: 346, 298
+  size: 97, 107
+  orig: 100, 109
+  offset: 1, 1
+  index: -1
+moon2
+  rotate: true
+  xy: 140, 319
+  size: 91, 101
+  orig: 94, 103
+  offset: 1, 1
+  index: -1
+shadow
+  rotate: false
+  xy: 35, 414
+  size: 100, 39
+  orig: 102, 41
+  offset: 1, 1
+  index: -1
+sun
+  rotate: true
+  xy: 2, 248
+  size: 98, 106
+  orig: 100, 108
+  offset: 1, 1
+  index: -1
+sun2
+  rotate: true
+  xy: 243, 303
+  size: 92, 101
+  orig: 94, 103
+  offset: 1, 1
+  index: -1
+xx1
+  rotate: false
+  xy: 2, 422
+  size: 31, 31
+  orig: 33, 33
+  offset: 1, 1
+  index: -1
+权益卡
+  rotate: false
+  xy: 137, 412
+  size: 149, 41
+  orig: 153, 45
+  offset: 2, 2
+  index: -1

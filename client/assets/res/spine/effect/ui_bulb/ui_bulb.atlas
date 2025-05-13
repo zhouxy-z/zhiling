@@ -1,0 +1,27 @@
+
+ui_bulb.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+D
+  rotate: true
+  xy: 2, 2
+  size: 44, 55
+  orig: 44, 55
+  offset: 0, 0
+  index: -1
+D_00000
+  rotate: true
+  xy: 59, 15
+  size: 31, 36
+  orig: 512, 512
+  offset: 239, 276
+  index: -1
+D_00001
+  rotate: false
+  xy: 2, 48
+  size: 157, 157
+  orig: 512, 512
+  offset: 176, 184
+  index: -1

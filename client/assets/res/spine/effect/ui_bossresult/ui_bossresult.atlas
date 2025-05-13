@@ -1,0 +1,55 @@
+
+ui_bossresult.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dd
+  rotate: false
+  xy: 322, 92
+  size: 464, 53
+  orig: 486, 53
+  offset: 11, 0
+  index: -1
+hg
+  rotate: true
+  xy: 2, 28
+  size: 478, 318
+  orig: 484, 354
+  offset: 4, 36
+  index: -1
+tuwen1
+  rotate: true
+  xy: 322, 147
+  size: 359, 267
+  orig: 360, 354
+  offset: 0, 87
+  index: -1
+tuwen2
+  rotate: true
+  xy: 591, 202
+  size: 304, 240
+  orig: 360, 354
+  offset: 27, 87
+  index: -1
+x1
+  rotate: true
+  xy: 25, 5
+  size: 21, 20
+  orig: 25, 24
+  offset: 0, 0
+  index: -1
+x2
+  rotate: true
+  xy: 2, 2
+  size: 24, 21
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+战斗结算
+  rotate: false
+  xy: 322, 19
+  size: 230, 71
+  orig: 240, 80
+  offset: 4, 4
+  index: -1

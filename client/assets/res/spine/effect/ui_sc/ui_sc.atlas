@@ -1,0 +1,27 @@
+
+ui_sc.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/sc_1
+  rotate: false
+  xy: 82, 134
+  size: 71, 41
+  orig: 75, 45
+  offset: 2, 2
+  index: -1
+image/sc_2
+  rotate: false
+  xy: 2, 135
+  size: 78, 40
+  orig: 150, 160
+  offset: 46, 107
+  index: -1
+image/sc_3
+  rotate: true
+  xy: 2, 2
+  size: 130, 141
+  orig: 150, 160
+  offset: 10, 9
+  index: -1

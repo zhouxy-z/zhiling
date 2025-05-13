@@ -1,0 +1,27 @@
+
+cj_011_soil.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/jidi1_soil
+  rotate: true
+  xy: 2, 2
+  size: 112, 127
+  orig: 1000, 1000
+  offset: 476, 156
+  index: -1
+image/jidi1_soil1
+  rotate: false
+  xy: 2, 116
+  size: 143, 136
+  orig: 1000, 1000
+  offset: 451, 147
+  index: -1
+image/lizi2
+  rotate: true
+  xy: 131, 47
+  size: 67, 56
+  orig: 68, 56
+  offset: 1, 0
+  index: -1

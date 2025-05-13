@@ -1,0 +1,62 @@
+
+ef4_b0009_01.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_00000
+  rotate: false
+  xy: 48, 98
+  size: 44, 92
+  orig: 150, 150
+  offset: 53, 23
+  index: -1
+1_00001
+  rotate: false
+  xy: 48, 4
+  size: 44, 92
+  orig: 150, 150
+  offset: 53, 23
+  index: -1
+1_00002
+  rotate: false
+  xy: 2, 97
+  size: 44, 93
+  orig: 150, 150
+  offset: 53, 22
+  index: -1
+1_00003
+  rotate: false
+  xy: 94, 98
+  size: 44, 92
+  orig: 150, 150
+  offset: 53, 23
+  index: -1
+1_00004
+  rotate: false
+  xy: 94, 4
+  size: 44, 92
+  orig: 150, 150
+  offset: 53, 23
+  index: -1
+1_00005
+  rotate: false
+  xy: 140, 98
+  size: 44, 92
+  orig: 150, 150
+  offset: 53, 23
+  index: -1
+1_00006
+  rotate: false
+  xy: 2, 2
+  size: 44, 93
+  orig: 150, 150
+  offset: 53, 22
+  index: -1
+1_00007
+  rotate: false
+  xy: 140, 4
+  size: 44, 92
+  orig: 150, 150
+  offset: 53, 23
+  index: -1

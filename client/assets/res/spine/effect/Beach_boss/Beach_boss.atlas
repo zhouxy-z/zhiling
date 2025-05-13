@@ -1,0 +1,41 @@
+
+Beach_boss.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX5_00000
+  rotate: true
+  xy: 324, 280
+  size: 212, 69
+  orig: 217, 103
+  offset: 2, 17
+  index: -1
+FXW_00000
+  rotate: true
+  xy: 223, 283
+  size: 114, 56
+  orig: 128, 64
+  offset: 5, 8
+  index: -1
+w1
+  rotate: false
+  xy: 2, 399
+  size: 320, 93
+  orig: 320, 93
+  offset: 0, 0
+  index: -1
+w2
+  rotate: false
+  xy: 223, 2
+  size: 195, 276
+  orig: 306, 349
+  offset: 111, 21
+  index: -1
+wy
+  rotate: false
+  xy: 2, 128
+  size: 219, 269
+  orig: 320, 350
+  offset: 101, 47
+  index: -1

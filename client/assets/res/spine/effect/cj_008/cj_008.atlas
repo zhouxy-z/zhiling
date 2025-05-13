@@ -1,0 +1,90 @@
+
+cj_008.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_00020
+  rotate: true
+  xy: 240, 364
+  size: 65, 186
+  orig: 1024, 1024
+  offset: 498, 372
+  index: -1
+1_00021
+  rotate: false
+  xy: 428, 316
+  size: 69, 181
+  orig: 1024, 1024
+  offset: 495, 372
+  index: -1
+1_00022
+  rotate: true
+  xy: 2, 113
+  size: 68, 183
+  orig: 1024, 1024
+  offset: 496, 372
+  index: -1
+1_00023
+  rotate: false
+  xy: 428, 129
+  size: 68, 185
+  orig: 1024, 1024
+  offset: 495, 372
+  index: -1
+1_00024
+  rotate: true
+  xy: 2, 183
+  size: 63, 186
+  orig: 1024, 1024
+  offset: 495, 372
+  index: -1
+1_00025
+  rotate: true
+  xy: 2, 248
+  size: 64, 186
+  orig: 1024, 1024
+  offset: 496, 372
+  index: -1
+1_00026
+  rotate: true
+  xy: 233, 164
+  size: 65, 181
+  orig: 1024, 1024
+  offset: 496, 372
+  index: -1
+1_00027
+  rotate: true
+  xy: 240, 431
+  size: 66, 186
+  orig: 1024, 1024
+  offset: 496, 372
+  index: -1
+1_00028
+  rotate: true
+  xy: 240, 297
+  size: 65, 186
+  orig: 1024, 1024
+  offset: 497, 372
+  index: -1
+1_00029
+  rotate: true
+  xy: 233, 231
+  size: 64, 183
+  orig: 1024, 1024
+  offset: 498, 372
+  index: -1
+1_00032
+  rotate: false
+  xy: 190, 135
+  size: 41, 177
+  orig: 1024, 1024
+  offset: 495, 381
+  index: -1
+C1_49
+  rotate: false
+  xy: 2, 314
+  size: 236, 183
+  orig: 341, 1023
+  offset: 85, 205
+  index: -1

@@ -1,0 +1,111 @@
+
+ui_breed_water.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_00000
+  rotate: false
+  xy: 2, 1640
+  size: 756, 270
+  orig: 756, 358
+  offset: 0, 32
+  index: -1
+1_00001
+  rotate: false
+  xy: 760, 1640
+  size: 756, 270
+  orig: 756, 358
+  offset: 0, 32
+  index: -1
+1_00002
+  rotate: true
+  xy: 1518, 1154
+  size: 756, 271
+  orig: 756, 358
+  offset: 0, 32
+  index: -1
+1_00003
+  rotate: false
+  xy: 2, 1095
+  size: 756, 271
+  orig: 756, 358
+  offset: 0, 32
+  index: -1
+1_00004
+  rotate: false
+  xy: 760, 1095
+  size: 756, 271
+  orig: 756, 358
+  offset: 0, 32
+  index: -1
+1_00005
+  rotate: false
+  xy: 2, 822
+  size: 756, 271
+  orig: 756, 358
+  offset: 0, 32
+  index: -1
+1_00006
+  rotate: false
+  xy: 760, 822
+  size: 756, 271
+  orig: 756, 358
+  offset: 0, 32
+  index: -1
+1_00007
+  rotate: false
+  xy: 2, 549
+  size: 756, 271
+  orig: 756, 358
+  offset: 0, 32
+  index: -1
+1_00008
+  rotate: true
+  xy: 1518, 396
+  size: 756, 272
+  orig: 756, 358
+  offset: 0, 32
+  index: -1
+1_00009
+  rotate: false
+  xy: 760, 275
+  size: 756, 272
+  orig: 756, 358
+  offset: 0, 32
+  index: -1
+1_00010
+  rotate: false
+  xy: 2, 2
+  size: 756, 272
+  orig: 756, 358
+  offset: 0, 32
+  index: -1
+1_00011
+  rotate: false
+  xy: 2, 1368
+  size: 756, 270
+  orig: 756, 358
+  offset: 0, 32
+  index: -1
+1_00012
+  rotate: false
+  xy: 760, 549
+  size: 756, 271
+  orig: 756, 358
+  offset: 0, 32
+  index: -1
+1_00013
+  rotate: false
+  xy: 2, 276
+  size: 756, 271
+  orig: 756, 358
+  offset: 0, 32
+  index: -1
+1_00014
+  rotate: false
+  xy: 760, 1368
+  size: 756, 270
+  orig: 756, 358
+  offset: 0, 32
+  index: -1

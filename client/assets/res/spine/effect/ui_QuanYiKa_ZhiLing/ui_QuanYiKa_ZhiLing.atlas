@@ -1,0 +1,132 @@
+
+ui_QuanYiKa_ZhiLing.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_00000
+  rotate: true
+  xy: 857, 872
+  size: 35, 40
+  orig: 256, 256
+  offset: 69, 61
+  index: -1
+1_00001
+  rotate: true
+  xy: 652, 146
+  size: 66, 119
+  orig: 256, 256
+  offset: 64, 51
+  index: -1
+1_00002
+  rotate: true
+  xy: 708, 678
+  size: 111, 135
+  orig: 256, 256
+  offset: 58, 49
+  index: -1
+1_00003
+  rotate: true
+  xy: 708, 791
+  size: 116, 147
+  orig: 256, 256
+  offset: 56, 48
+  index: -1
+1_00004
+  rotate: false
+  xy: 652, 214
+  size: 122, 150
+  orig: 256, 256
+  offset: 55, 47
+  index: -1
+1_00005
+  rotate: true
+  xy: 551, 631
+  size: 135, 155
+  orig: 256, 256
+  offset: 54, 52
+  index: -1
+1_00006
+  rotate: true
+  xy: 551, 768
+  size: 139, 155
+  orig: 256, 256
+  offset: 60, 54
+  index: -1
+1_00007
+  rotate: true
+  xy: 551, 496
+  size: 133, 150
+  orig: 256, 256
+  offset: 67, 58
+  index: -1
+1_00008
+  rotate: true
+  xy: 551, 366
+  size: 128, 145
+  orig: 256, 256
+  offset: 71, 61
+  index: -1
+1_00009
+  rotate: true
+  xy: 708, 567
+  size: 109, 133
+  orig: 256, 256
+  offset: 89, 70
+  index: -1
+1_00010
+  rotate: false
+  xy: 773, 109
+  size: 61, 103
+  orig: 256, 256
+  offset: 126, 93
+  index: -1
+B0
+  rotate: true
+  xy: 698, 391
+  size: 73, 77
+  orig: 73, 77
+  offset: 0, 0
+  index: -1
+B1
+  rotate: true
+  xy: 698, 367
+  size: 22, 60
+  orig: 28, 60
+  offset: 1, 0
+  index: -1
+B2
+  rotate: false
+  xy: 824, 519
+  size: 48, 46
+  orig: 48, 46
+  offset: 0, 0
+  index: -1
+DS
+  rotate: false
+  xy: 2, 355
+  size: 547, 552
+  orig: 547, 552
+  offset: 0, 0
+  index: -1
+Star
+  rotate: true
+  xy: 2, 2
+  size: 351, 371
+  orig: 413, 431
+  offset: 25, 30
+  index: -1
+star_X
+  rotate: true
+  xy: 703, 466
+  size: 99, 119
+  orig: 256, 256
+  offset: 78, 71
+  index: -1
+zl
+  rotate: true
+  xy: 375, 113
+  size: 240, 275
+  orig: 240, 275
+  offset: 0, 0
+  index: -1

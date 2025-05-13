@@ -1,0 +1,48 @@
+
+ui_jinhua_kazu.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_00000
+  rotate: true
+  xy: 2, 71
+  size: 128, 201
+  orig: 128, 201
+  offset: 0, 0
+  index: -1
+R
+  rotate: false
+  xy: 196, 262
+  size: 128, 201
+  orig: 128, 201
+  offset: 0, 0
+  index: -1
+SR
+  rotate: false
+  xy: 205, 59
+  size: 128, 201
+  orig: 128, 201
+  offset: 0, 0
+  index: -1
+SSR
+  rotate: false
+  xy: 335, 262
+  size: 128, 201
+  orig: 128, 201
+  offset: 0, 0
+  index: -1
+UR
+  rotate: false
+  xy: 335, 59
+  size: 128, 201
+  orig: 128, 201
+  offset: 0, 0
+  index: -1
+g_00000
+  rotate: false
+  xy: 2, 201
+  size: 192, 262
+  orig: 256, 400
+  offset: 32, 71
+  index: -1

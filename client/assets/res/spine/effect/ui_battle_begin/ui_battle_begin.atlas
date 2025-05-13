@@ -1,0 +1,90 @@
+
+ui_battle_begin.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/kszd_1
+  rotate: false
+  xy: 2, 1766
+  size: 952, 160
+  orig: 972, 160
+  offset: 10, 0
+  index: -1
+image/kszd_10
+  rotate: false
+  xy: 834, 508
+  size: 620, 625
+  orig: 621, 626
+  offset: 0, 1
+  index: -1
+image/kszd_11
+  rotate: true
+  xy: 956, 1135
+  size: 791, 789
+  orig: 792, 791
+  offset: 0, 1
+  index: -1
+image/kszd_12
+  rotate: false
+  xy: 1456, 314
+  size: 340, 340
+  orig: 340, 340
+  offset: 0, 0
+  index: -1
+image/kszd_2
+  rotate: false
+  xy: 760, 377
+  size: 135, 129
+  orig: 145, 138
+  offset: 4, 5
+  index: -1
+image/kszd_3
+  rotate: true
+  xy: 629, 571
+  size: 134, 130
+  orig: 145, 140
+  offset: 5, 5
+  index: -1
+image/kszd_4
+  rotate: true
+  xy: 629, 433
+  size: 136, 129
+  orig: 146, 140
+  offset: 4, 6
+  index: -1
+image/kszd_5
+  rotate: true
+  xy: 629, 707
+  size: 137, 131
+  orig: 147, 140
+  offset: 5, 5
+  index: -1
+image/kszd_6
+  rotate: false
+  xy: 2, 313
+  size: 625, 625
+  orig: 645, 645
+  offset: 10, 10
+  index: -1
+image/kszd_7
+  rotate: false
+  xy: 2, 940
+  size: 634, 824
+  orig: 665, 856
+  offset: 17, 16
+  index: -1
+image/kszd_8
+  rotate: true
+  xy: 638, 846
+  size: 918, 194
+  orig: 950, 217
+  offset: 16, 12
+  index: -1
+image/kszd_9
+  rotate: false
+  xy: 1456, 656
+  size: 470, 477
+  orig: 470, 478
+  offset: 0, 1
+  index: -1

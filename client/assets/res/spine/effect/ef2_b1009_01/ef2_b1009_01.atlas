@@ -1,0 +1,251 @@
+
+ef2_b1009_01.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/feijian008_1
+  rotate: true
+  xy: 180, 670
+  size: 31, 29
+  orig: 140, 140
+  offset: 39, 37
+  index: -1
+image/feijian008_2
+  rotate: true
+  xy: 290, 334
+  size: 53, 46
+  orig: 140, 140
+  offset: 35, 32
+  index: -1
+image/feijian008_3
+  rotate: false
+  xy: 598, 340
+  size: 74, 75
+  orig: 140, 140
+  offset: 28, 25
+  index: -1
+image/feijian008_4
+  rotate: false
+  xy: 633, 681
+  size: 102, 107
+  orig: 140, 140
+  offset: 20, 17
+  index: -1
+image/feijian008_5
+  rotate: true
+  xy: 592, 901
+  size: 119, 109
+  orig: 140, 140
+  offset: 9, 15
+  index: -1
+image/feijian008_6
+  rotate: true
+  xy: 529, 417
+  size: 121, 114
+  orig: 140, 140
+  offset: 10, 10
+  index: -1
+image/fire_1
+  rotate: true
+  xy: 529, 540
+  size: 184, 102
+  orig: 252, 373
+  offset: 26, 15
+  index: -1
+image/fire_2
+  rotate: false
+  xy: 476, 71
+  size: 228, 267
+  orig: 252, 373
+  offset: 9, 9
+  index: -1
+image/fire_3
+  rotate: false
+  xy: 2, 670
+  size: 176, 350
+  orig: 252, 373
+  offset: 41, 9
+  index: -1
+image/fire_4
+  rotate: false
+  xy: 2, 326
+  size: 121, 342
+  orig: 252, 373
+  offset: 66, 24
+  index: -1
+image/yanwu04_1
+  rotate: true
+  xy: 350, 711
+  size: 309, 146
+  orig: 333, 218
+  offset: 10, 11
+  index: -1
+image/yanwu04_2
+  rotate: true
+  xy: 324, 28
+  size: 304, 150
+  orig: 333, 218
+  offset: 11, 7
+  index: -1
+image/yanwu04_3
+  rotate: true
+  xy: 2, 2
+  size: 322, 156
+  orig: 333, 218
+  offset: 6, 12
+  index: -1
+image/yanwu04_4
+  rotate: true
+  xy: 160, 4
+  size: 325, 162
+  orig: 333, 218
+  offset: 6, 11
+  index: -1
+image/yanwu04_5
+  rotate: true
+  xy: 180, 703
+  size: 317, 168
+  orig: 333, 218
+  offset: 11, 17
+  index: -1
+image/yanwu04_6
+  rotate: true
+  xy: 125, 343
+  size: 325, 163
+  orig: 333, 218
+  offset: 7, 16
+  index: -1
+image/yanwu04_7
+  rotate: true
+  xy: 290, 389
+  size: 312, 136
+  orig: 333, 218
+  offset: 21, 21
+  index: -1
+image/yanwu04_8
+  rotate: true
+  xy: 428, 408
+  size: 301, 99
+  orig: 333, 218
+  offset: 21, 20
+  index: -1
+image/yanwu04_9
+  rotate: true
+  xy: 498, 726
+  size: 294, 92
+  orig: 333, 218
+  offset: 28, 18
+  index: -1
+image/yanwu06_1
+  rotate: true
+  xy: 338, 337
+  size: 50, 48
+  orig: 128, 128
+  offset: 33, 45
+  index: -1
+image/yanwu06_10
+  rotate: false
+  xy: 694, 792
+  size: 100, 107
+  orig: 128, 128
+  offset: 4, 17
+  index: -1
+image/yanwu06_11
+  rotate: false
+  xy: 703, 915
+  size: 95, 105
+  orig: 128, 128
+  offset: 4, 19
+  index: -1
+image/yanwu06_12
+  rotate: true
+  xy: 732, 583
+  size: 96, 92
+  orig: 128, 128
+  offset: 4, 27
+  index: -1
+image/yanwu06_13
+  rotate: true
+  xy: 796, 821
+  size: 92, 82
+  orig: 128, 128
+  offset: 5, 32
+  index: -1
+image/yanwu06_14
+  rotate: false
+  xy: 504, 346
+  size: 92, 60
+  orig: 128, 128
+  offset: 7, 50
+  index: -1
+image/yanwu06_15
+  rotate: true
+  xy: 135, 331
+  size: 10, 26
+  orig: 128, 128
+  offset: 90, 76
+  index: -1
+image/yanwu06_16
+  rotate: false
+  xy: 125, 326
+  size: 8, 15
+  orig: 128, 128
+  offset: 92, 82
+  index: -1
+image/yanwu06_2
+  rotate: true
+  xy: 476, 11
+  size: 58, 57
+  orig: 128, 128
+  offset: 27, 39
+  index: -1
+image/yanwu06_3
+  rotate: true
+  xy: 428, 340
+  size: 66, 74
+  orig: 128, 128
+  offset: 23, 27
+  index: -1
+image/yanwu06_4
+  rotate: false
+  xy: 674, 395
+  size: 77, 83
+  orig: 128, 128
+  offset: 19, 23
+  index: -1
+image/yanwu06_5
+  rotate: false
+  xy: 800, 934
+  size: 82, 86
+  orig: 128, 128
+  offset: 15, 22
+  index: -1
+image/yanwu06_6
+  rotate: false
+  xy: 737, 697
+  size: 89, 93
+  orig: 128, 128
+  offset: 11, 19
+  index: -1
+image/yanwu06_7
+  rotate: false
+  xy: 645, 480
+  size: 94, 96
+  orig: 128, 128
+  offset: 8, 19
+  index: -1
+image/yanwu06_8
+  rotate: false
+  xy: 633, 578
+  size: 97, 101
+  orig: 128, 128
+  offset: 7, 18
+  index: -1
+image/yanwu06_9
+  rotate: false
+  xy: 592, 790
+  size: 100, 109
+  orig: 128, 128
+  offset: 5, 17
+  index: -1

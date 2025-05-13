@@ -1,0 +1,153 @@
+
+role_z21_R.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX/1_00000
+  rotate: true
+  xy: 85, 144
+  size: 16, 7
+  orig: 102, 102
+  offset: 42, 64
+  index: -1
+FX/1_00001
+  rotate: false
+  xy: 109, 78
+  size: 22, 26
+  orig: 102, 102
+  offset: 35, 45
+  index: -1
+FX/1_00002
+  rotate: false
+  xy: 47, 120
+  size: 17, 40
+  orig: 102, 102
+  offset: 35, 31
+  index: -1
+FX/1_00003
+  rotate: false
+  xy: 66, 121
+  size: 17, 39
+  orig: 102, 102
+  offset: 35, 31
+  index: -1
+FX/1_00004
+  rotate: false
+  xy: 109, 41
+  size: 17, 35
+  orig: 102, 102
+  offset: 35, 30
+  index: -1
+FX/1_00005
+  rotate: false
+  xy: 44, 36
+  size: 18, 25
+  orig: 102, 102
+  offset: 35, 30
+  index: -1
+Shadow
+  rotate: false
+  xy: 2, 162
+  size: 91, 17
+  orig: 93, 17
+  offset: 1, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 113
+  size: 47, 43
+  orig: 47, 43
+  offset: 0, 0
+  index: -1
+body_back
+  rotate: true
+  xy: 2, 64
+  size: 47, 43
+  orig: 47, 43
+  offset: 0, 0
+  index: -1
+dbj1
+  rotate: false
+  xy: 95, 106
+  size: 54, 73
+  orig: 54, 73
+  offset: 0, 0
+  index: -1
+dead
+  rotate: true
+  xy: 79, 22
+  size: 21, 10
+  orig: 21, 10
+  offset: 0, 0
+  index: -1
+e_l
+  rotate: false
+  xy: 44, 6
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+e_r
+  rotate: false
+  xy: 80, 108
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+h_l
+  rotate: true
+  xy: 64, 47
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+h_l_back
+  rotate: true
+  xy: 44, 18
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+h_r
+  rotate: true
+  xy: 79, 45
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+h_r_back
+  rotate: true
+  xy: 64, 31
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+m
+  rotate: false
+  xy: 47, 106
+  size: 31, 12
+  orig: 31, 12
+  offset: 0, 0
+  index: -1
+tou_r
+  rotate: true
+  xy: 2, 2
+  size: 60, 40
+  orig: 60, 40
+  offset: 0, 0
+  index: -1
+tou_r_back
+  rotate: false
+  xy: 47, 63
+  size: 60, 41
+  orig: 60, 41
+  offset: 0, 0
+  index: -1
+win
+  rotate: true
+  xy: 58, 10
+  size: 19, 9
+  orig: 19, 9
+  offset: 0, 0
+  index: -1

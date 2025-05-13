@@ -1,0 +1,27 @@
+
+ui_HCS_xf.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LS
+  rotate: true
+  xy: 305, 115
+  size: 153, 168
+  orig: 205, 205
+  offset: 22, 21
+  index: -1
+effect
+  rotate: false
+  xy: 2, 2
+  size: 301, 266
+  orig: 322, 283
+  offset: 9, 10
+  index: -1
+grow
+  rotate: false
+  xy: 2, 270
+  size: 680, 688
+  orig: 819, 819
+  offset: 64, 73
+  index: -1

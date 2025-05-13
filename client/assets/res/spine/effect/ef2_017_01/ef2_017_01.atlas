@@ -1,0 +1,90 @@
+
+ef2_017_01.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_00000
+  rotate: true
+  xy: 542, 682
+  size: 229, 250
+  orig: 410, 410
+  offset: 93, 86
+  index: -1
+1_00001
+  rotate: true
+  xy: 581, 404
+  size: 276, 282
+  orig: 410, 410
+  offset: 58, 66
+  index: -1
+1_00002
+  rotate: false
+  xy: 306, 108
+  size: 297, 294
+  orig: 410, 410
+  offset: 46, 62
+  index: -1
+1_00003
+  rotate: false
+  xy: 605, 106
+  size: 306, 296
+  orig: 410, 410
+  offset: 42, 64
+  index: -1
+1_00004
+  rotate: false
+  xy: 2, 167
+  size: 302, 276
+  orig: 410, 410
+  offset: 50, 86
+  index: -1
+1_00005
+  rotate: false
+  xy: 292, 445
+  size: 287, 235
+  orig: 410, 410
+  offset: 66, 85
+  index: -1
+1_00006
+  rotate: false
+  xy: 2, 462
+  size: 288, 234
+  orig: 410, 410
+  offset: 66, 85
+  index: -1
+1_00007
+  rotate: false
+  xy: 283, 698
+  size: 257, 213
+  orig: 410, 410
+  offset: 98, 90
+  index: -1
+1_00008
+  rotate: false
+  xy: 50, 739
+  size: 231, 172
+  orig: 410, 410
+  offset: 120, 119
+  index: -1
+1_00009
+  rotate: false
+  xy: 28, 903
+  size: 20, 8
+  orig: 410, 410
+  offset: 326, 182
+  index: -1
+1_00010
+  rotate: false
+  xy: 13, 905
+  size: 13, 6
+  orig: 410, 410
+  offset: 333, 182
+  index: -1
+1_00011
+  rotate: false
+  xy: 2, 908
+  size: 9, 3
+  orig: 410, 410
+  offset: 337, 183
+  index: -1

@@ -1,0 +1,5 @@
+{
+    "imports": {
+        "proto": "./assets/scripts/protobuf/proto.js"
+    }
+}

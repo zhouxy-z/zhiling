@@ -1,0 +1,574 @@
+{
+"skeleton": {
+	"hash": "oDpBk2Xi5Ge9u9vv5yvph1E4wWg",
+	"spine": "3.8.99",
+	"x": -498,
+	"y": -15,
+	"width": 997,
+	"height": 30,
+	"images": "./images/",
+	"audio": ""
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "DG_1", "parent": "root", "x": -482.45 },
+	{ "name": "DG_2", "parent": "root", "x": -394.71 },
+	{ "name": "DG_3", "parent": "root", "x": -307.65 },
+	{ "name": "DG_4", "parent": "root", "x": -218.06 },
+	{ "name": "DG_5", "parent": "root", "x": -130.21 },
+	{ "name": "DG_6", "parent": "root", "x": -42.68 },
+	{ "name": "DG_7", "parent": "root", "x": 44.38 },
+	{ "name": "DG_8", "parent": "root", "x": 131.9 },
+	{ "name": "DG_9", "parent": "root", "x": 220.8 },
+	{ "name": "DG_10", "parent": "root", "x": 309.98 },
+	{ "name": "DG_11", "parent": "root", "x": 396.01 },
+	{ "name": "DG_12", "parent": "root", "x": 485.18 },
+	{ "name": "DG_13", "parent": "root", "x": -482.45 },
+	{ "name": "DG_14", "parent": "root", "x": -394.71 },
+	{ "name": "DG_15", "parent": "root", "x": -307.65 },
+	{ "name": "DG_16", "parent": "root", "x": -218.06 },
+	{ "name": "DG_17", "parent": "root", "x": -130.21 },
+	{ "name": "DG_18", "parent": "root", "x": -42.68 },
+	{ "name": "DG_19", "parent": "root", "x": 44.38 },
+	{ "name": "DG_20", "parent": "root", "x": 131.9 },
+	{ "name": "DG_21", "parent": "root", "x": 220.8 },
+	{ "name": "DG_22", "parent": "root", "x": 309.98 },
+	{ "name": "DG_23", "parent": "root", "x": 396.01 },
+	{ "name": "DG_24", "parent": "root", "x": 485.18 },
+	{ "name": "DG_25", "parent": "root", "x": -482.45 },
+	{ "name": "DG_26", "parent": "root", "x": -394.71 },
+	{ "name": "DG_27", "parent": "root", "x": -307.65 },
+	{ "name": "DG_28", "parent": "root", "x": -218.06 },
+	{ "name": "DG_29", "parent": "root", "x": -130.21 },
+	{ "name": "DG_30", "parent": "root", "x": -42.68 },
+	{ "name": "DG_31", "parent": "root", "x": 44.38 },
+	{ "name": "DG_32", "parent": "root", "x": 131.9 },
+	{ "name": "DG_33", "parent": "root", "x": 220.8 },
+	{ "name": "DG_34", "parent": "root", "x": 309.98 },
+	{ "name": "DG_35", "parent": "root", "x": 396.01 },
+	{ "name": "DG_36", "parent": "root", "x": 485.18 }
+],
+"slots": [
+	{ "name": "DJ", "bone": "root", "attachment": "DJ" },
+	{ "name": "DG_01", "bone": "DG_1" },
+	{ "name": "DG_9", "bone": "DG_13" },
+	{ "name": "DG_21", "bone": "DG_25" },
+	{ "name": "DG_1", "bone": "DG_5" },
+	{ "name": "DG_13", "bone": "DG_17" },
+	{ "name": "DG_25", "bone": "DG_29" },
+	{ "name": "DG_5", "bone": "DG_9" },
+	{ "name": "DG_17", "bone": "DG_21" },
+	{ "name": "DG_29", "bone": "DG_33" },
+	{ "name": "DG_02", "bone": "DG_2" },
+	{ "name": "DG_10", "bone": "DG_14" },
+	{ "name": "DG_22", "bone": "DG_26" },
+	{ "name": "DG_2", "bone": "DG_6" },
+	{ "name": "DG_14", "bone": "DG_18" },
+	{ "name": "DG_26", "bone": "DG_30" },
+	{ "name": "DG_6", "bone": "DG_10" },
+	{ "name": "DG_18", "bone": "DG_22" },
+	{ "name": "DG_30", "bone": "DG_34" },
+	{ "name": "DG_03", "bone": "DG_3" },
+	{ "name": "DG_11", "bone": "DG_15" },
+	{ "name": "DG_23", "bone": "DG_27" },
+	{ "name": "DG_3", "bone": "DG_7" },
+	{ "name": "DG_15", "bone": "DG_19" },
+	{ "name": "DG_27", "bone": "DG_31" },
+	{ "name": "DG_7", "bone": "DG_11" },
+	{ "name": "DG_19", "bone": "DG_23" },
+	{ "name": "DG_31", "bone": "DG_35" },
+	{ "name": "DG_04", "bone": "DG_4" },
+	{ "name": "DG_12", "bone": "DG_16" },
+	{ "name": "DG_24", "bone": "DG_28" },
+	{ "name": "DG_4", "bone": "DG_8" },
+	{ "name": "DG_16", "bone": "DG_20" },
+	{ "name": "DG_28", "bone": "DG_32" },
+	{ "name": "DG_8", "bone": "DG_12" },
+	{ "name": "DG_20", "bone": "DG_24" },
+	{ "name": "DG_32", "bone": "DG_36" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"DG_01": {
+				"DG_00000": { "width": 256, "height": 256 }
+			},
+			"DG_1": {
+				"DG_00000": { "width": 256, "height": 256 }
+			},
+			"DG_02": {
+				"DG_00001": { "width": 256, "height": 256 }
+			},
+			"DG_2": {
+				"DG_00001": { "width": 256, "height": 256 }
+			},
+			"DG_03": {
+				"DG_00002": { "width": 256, "height": 256 }
+			},
+			"DG_3": {
+				"DG_00002": { "width": 256, "height": 256 }
+			},
+			"DG_04": {
+				"DG_00003": { "width": 256, "height": 256 }
+			},
+			"DG_4": {
+				"DG_00003": { "width": 256, "height": 256 }
+			},
+			"DG_5": {
+				"DG_00000": { "width": 256, "height": 256 }
+			},
+			"DG_6": {
+				"DG_00001": { "width": 256, "height": 256 }
+			},
+			"DG_7": {
+				"DG_00002": { "width": 256, "height": 256 }
+			},
+			"DG_8": {
+				"DG_00003": { "width": 256, "height": 256 }
+			},
+			"DG_9": {
+				"DG_00000": { "width": 256, "height": 256 }
+			},
+			"DG_10": {
+				"DG_00001": { "width": 256, "height": 256 }
+			},
+			"DG_11": {
+				"DG_00002": { "width": 256, "height": 256 }
+			},
+			"DG_12": {
+				"DG_00003": { "width": 256, "height": 256 }
+			},
+			"DG_13": {
+				"DG_00000": { "width": 256, "height": 256 }
+			},
+			"DG_14": {
+				"DG_00001": { "width": 256, "height": 256 }
+			},
+			"DG_15": {
+				"DG_00002": { "width": 256, "height": 256 }
+			},
+			"DG_16": {
+				"DG_00003": { "width": 256, "height": 256 }
+			},
+			"DG_17": {
+				"DG_00000": { "width": 256, "height": 256 }
+			},
+			"DG_18": {
+				"DG_00001": { "width": 256, "height": 256 }
+			},
+			"DG_19": {
+				"DG_00002": { "width": 256, "height": 256 }
+			},
+			"DG_20": {
+				"DG_00003": { "width": 256, "height": 256 }
+			},
+			"DG_21": {
+				"DG_00000": { "width": 256, "height": 256 }
+			},
+			"DG_22": {
+				"DG_00001": { "width": 256, "height": 256 }
+			},
+			"DG_23": {
+				"DG_00002": { "width": 256, "height": 256 }
+			},
+			"DG_24": {
+				"DG_00003": { "width": 256, "height": 256 }
+			},
+			"DG_25": {
+				"DG_00000": { "width": 256, "height": 256 }
+			},
+			"DG_26": {
+				"DG_00001": { "width": 256, "height": 256 }
+			},
+			"DG_27": {
+				"DG_00002": { "width": 256, "height": 256 }
+			},
+			"DG_28": {
+				"DG_00003": { "width": 256, "height": 256 }
+			},
+			"DG_29": {
+				"DG_00000": { "width": 256, "height": 256 }
+			},
+			"DG_30": {
+				"DG_00001": { "width": 256, "height": 256 }
+			},
+			"DG_31": {
+				"DG_00002": { "width": 256, "height": 256 }
+			},
+			"DG_32": {
+				"DG_00003": { "width": 256, "height": 256 }
+			},
+			"DJ": {
+				"DJ": { "x": 0.5, "width": 997, "height": 30 }
+			}
+		}
+	}
+],
+"animations": {
+	"Idle": {
+		"slots": {
+			"DG_01": {
+				"color": [
+					{ "color": "ffffffff" },
+					{ "time": 0.3333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "name": "DG_00000" },
+					{ "time": 0.3333, "name": null }
+				]
+			},
+			"DG_1": {
+				"color": [
+					{ "time": 0.6667, "color": "ffffffff" },
+					{ "time": 1, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0.6667, "name": "DG_00000" },
+					{ "time": 1, "name": null }
+				]
+			},
+			"DG_02": {
+				"color": [
+					{ "time": 2, "color": "ffffffff" },
+					{ "time": 2.3333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 2, "name": "DG_00001" },
+					{ "time": 2.3333, "name": null }
+				]
+			},
+			"DG_2": {
+				"color": [
+					{ "time": 2.6667, "color": "ffffffff" },
+					{ "time": 3, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 2.6667, "name": "DG_00001" },
+					{ "time": 3, "name": null }
+				]
+			},
+			"DG_03": {
+				"color": [
+					{ "time": 0.3333, "color": "ffffffff" },
+					{ "time": 0.6667, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0.3333, "name": "DG_00002" },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"DG_3": {
+				"color": [
+					{ "time": 1, "color": "ffffffff" },
+					{ "time": 1.3333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 1, "name": "DG_00002" },
+					{ "time": 1.3333, "name": null }
+				]
+			},
+			"DG_04": {
+				"color": [
+					{ "time": 2.3333, "color": "ffffffff" },
+					{ "time": 2.6667, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 2.3333, "name": "DG_00003" },
+					{ "time": 2.6667, "name": null }
+				]
+			},
+			"DG_4": {
+				"color": [
+					{ "time": 3, "color": "ffffffff" },
+					{ "time": 3.3333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 3, "name": "DG_00003" },
+					{ "time": 3.3333, "name": null }
+				]
+			},
+			"DG_5": {
+				"color": [
+					{ "time": 1.3333, "color": "ffffffff" },
+					{ "time": 1.6667, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 1.3333, "name": "DG_00000" },
+					{ "time": 1.6667, "name": null }
+				]
+			},
+			"DG_6": {
+				"color": [
+					{ "time": 3.3333, "color": "ffffffff" },
+					{ "time": 3.6667, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 3.3333, "name": "DG_00001" },
+					{ "time": 3.6667, "name": null }
+				]
+			},
+			"DG_7": {
+				"color": [
+					{ "time": 1.6667, "color": "ffffffff" },
+					{ "time": 2, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 1.6667, "name": "DG_00002" },
+					{ "time": 2, "name": null }
+				]
+			},
+			"DG_8": {
+				"color": [
+					{ "time": 3.6667, "color": "ffffffff" },
+					{ "time": 4, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 3.6667, "name": "DG_00003" },
+					{ "time": 4, "name": null }
+				]
+			}
+		}
+	},
+	"Start": {
+		"slots": {
+			"DG_01": {
+				"attachment": [
+					{ "name": "DG_00000" },
+					{ "time": 0.1, "name": null }
+				]
+			},
+			"DG_1": {
+				"attachment": [
+					{ "time": 0.3333, "name": "DG_00000" },
+					{ "time": 0.4333, "name": null }
+				]
+			},
+			"DG_02": {
+				"attachment": [
+					{ "time": 0.1, "name": "DG_00001" },
+					{ "time": 0.1667, "name": null }
+				]
+			},
+			"DG_2": {
+				"attachment": [
+					{ "time": 0.4333, "name": "DG_00001" },
+					{ "time": 0.5, "name": null }
+				]
+			},
+			"DG_03": {
+				"attachment": [
+					{ "time": 0.1667, "name": "DG_00002" },
+					{ "time": 0.2667, "name": null }
+				]
+			},
+			"DG_3": {
+				"attachment": [
+					{ "time": 0.5, "name": "DG_00002" },
+					{ "time": 0.6, "name": null }
+				]
+			},
+			"DG_04": {
+				"attachment": [
+					{ "time": 0.2667, "name": "DG_00003" },
+					{ "time": 0.3333, "name": null }
+				]
+			},
+			"DG_4": {
+				"attachment": [
+					{ "time": 0.6, "name": "DG_00003" },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"DG_5": {
+				"attachment": [
+					{ "time": 0.6667, "name": "DG_00000" },
+					{ "time": 0.7667, "name": null }
+				]
+			},
+			"DG_6": {
+				"attachment": [
+					{ "time": 0.7667, "name": "DG_00001" },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"DG_7": {
+				"attachment": [
+					{ "time": 0.8333, "name": "DG_00002" },
+					{ "time": 0.9333, "name": null }
+				]
+			},
+			"DG_8": {
+				"attachment": [
+					{ "time": 0.9333, "name": "DG_00003" },
+					{ "time": 1, "name": null }
+				]
+			},
+			"DG_9": {
+				"attachment": [
+					{ "time": 0.3333, "name": "DG_00000" },
+					{ "time": 0.4333, "name": null }
+				]
+			},
+			"DG_10": {
+				"attachment": [
+					{ "time": 0.3333, "name": null },
+					{ "time": 0.4333, "name": "DG_00001" },
+					{ "time": 0.5, "name": null }
+				]
+			},
+			"DG_11": {
+				"attachment": [
+					{ "time": 0.3333, "name": null },
+					{ "time": 0.5, "name": "DG_00002" },
+					{ "time": 0.6, "name": null }
+				]
+			},
+			"DG_12": {
+				"attachment": [
+					{ "time": 0.3333, "name": null },
+					{ "time": 0.6, "name": "DG_00003" },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"DG_13": {
+				"attachment": [
+					{ "time": 0.3333, "name": null },
+					{ "time": 0.6667, "name": "DG_00000" },
+					{ "time": 0.7667, "name": null }
+				]
+			},
+			"DG_14": {
+				"attachment": [
+					{ "time": 0.3333, "name": null },
+					{ "time": 0.7667, "name": "DG_00001" },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"DG_15": {
+				"attachment": [
+					{ "time": 0.3333, "name": null },
+					{ "time": 0.8333, "name": "DG_00002" },
+					{ "time": 0.9333, "name": null }
+				]
+			},
+			"DG_16": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.3333, "name": null },
+					{ "time": 0.9333, "name": "DG_00003" }
+				]
+			},
+			"DG_17": {
+				"attachment": [
+					{ "name": "DG_00000" },
+					{ "time": 0.1, "name": null },
+					{ "time": 0.3333, "name": null }
+				]
+			},
+			"DG_18": {
+				"attachment": [
+					{ "time": 0.1, "name": "DG_00001" },
+					{ "time": 0.1667, "name": null },
+					{ "time": 0.3333, "name": null }
+				]
+			},
+			"DG_19": {
+				"attachment": [
+					{ "time": 0.1667, "name": "DG_00002" },
+					{ "time": 0.2667, "name": null },
+					{ "time": 0.3333, "name": null }
+				]
+			},
+			"DG_20": {
+				"attachment": [
+					{ "time": 0.2667, "name": "DG_00003" },
+					{ "time": 0.3333, "name": null }
+				]
+			},
+			"DG_21": {
+				"attachment": [
+					{ "time": 0.6667, "name": "DG_00000" },
+					{ "time": 0.7667, "name": null }
+				]
+			},
+			"DG_22": {
+				"attachment": [
+					{ "time": 0.6667, "name": null },
+					{ "time": 0.7667, "name": "DG_00001" },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"DG_23": {
+				"attachment": [
+					{ "time": 0.6667, "name": null },
+					{ "time": 0.8333, "name": "DG_00002" },
+					{ "time": 0.9333, "name": null }
+				]
+			},
+			"DG_24": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null },
+					{ "time": 0.9333, "name": "DG_00003" }
+				]
+			},
+			"DG_25": {
+				"attachment": [
+					{ "name": "DG_00000" },
+					{ "time": 0.1, "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"DG_26": {
+				"attachment": [
+					{ "time": 0.1, "name": "DG_00001" },
+					{ "time": 0.1667, "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"DG_27": {
+				"attachment": [
+					{ "time": 0.1667, "name": "DG_00002" },
+					{ "time": 0.2667, "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"DG_28": {
+				"attachment": [
+					{ "time": 0.2667, "name": "DG_00003" },
+					{ "time": 0.3333, "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"DG_29": {
+				"attachment": [
+					{ "time": 0.3333, "name": "DG_00000" },
+					{ "time": 0.4333, "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"DG_30": {
+				"attachment": [
+					{ "time": 0.4333, "name": "DG_00001" },
+					{ "time": 0.5, "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"DG_31": {
+				"attachment": [
+					{ "time": 0.5, "name": "DG_00002" },
+					{ "time": 0.6, "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"DG_32": {
+				"attachment": [
+					{ "time": 0.6, "name": "DG_00003" },
+					{ "time": 0.6667, "name": null }
+				]
+			}
+		}
+	}
+}
+}

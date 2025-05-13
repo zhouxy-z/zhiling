@@ -1,0 +1,13 @@
+
+ef4_002_01.png
+size: 71,67
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bullet_1
+  rotate: false
+  xy: 2, 2
+  size: 67, 63
+  orig: 67, 63
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,153 @@
+
+mg_Balloon_3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DP01
+  rotate: false
+  xy: 752, 642
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+DP02
+  rotate: false
+  xy: 752, 642
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+DP03
+  rotate: false
+  xy: 752, 642
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+DP04
+  rotate: false
+  xy: 752, 642
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+DZT
+  rotate: true
+  xy: 872, 669
+  size: 215, 140
+  orig: 215, 140
+  offset: 0, 0
+  index: -1
+F1
+  rotate: false
+  xy: 752, 661
+  size: 60, 29
+  orig: 60, 29
+  offset: 0, 0
+  index: -1
+F2
+  rotate: true
+  xy: 718, 622
+  size: 74, 32
+  orig: 74, 32
+  offset: 0, 0
+  index: -1
+F3
+  rotate: false
+  xy: 718, 698
+  size: 38, 25
+  orig: 38, 25
+  offset: 0, 0
+  index: -1
+FIsh
+  rotate: true
+  xy: 814, 641
+  size: 49, 50
+  orig: 49, 50
+  offset: 0, 0
+  index: -1
+PD1
+  rotate: false
+  xy: 641, 666
+  size: 75, 57
+  orig: 75, 57
+  offset: 0, 0
+  index: -1
+PD2
+  rotate: true
+  xy: 759, 692
+  size: 66, 95
+  orig: 66, 95
+  offset: 0, 0
+  index: -1
+PD3
+  rotate: false
+  xy: 555, 680
+  size: 84, 78
+  orig: 84, 78
+  offset: 0, 0
+  index: -1
+PD4
+  rotate: true
+  xy: 555, 760
+  size: 67, 85
+  orig: 68, 85
+  offset: 0, 0
+  index: -1
+QQ2
+  rotate: false
+  xy: 2, 670
+  size: 371, 347
+  orig: 371, 347
+  offset: 0, 0
+  index: -1
+QQJJ
+  rotate: false
+  xy: 760, 760
+  size: 97, 66
+  orig: 97, 66
+  offset: 0, 0
+  index: -1
+SZ01
+  rotate: false
+  xy: 642, 794
+  size: 116, 32
+  orig: 117, 32
+  offset: 0, 0
+  index: -1
+SZ02
+  rotate: false
+  xy: 642, 725
+  size: 115, 67
+  orig: 115, 68
+  offset: 0, 0
+  index: -1
+SZZB
+  rotate: true
+  xy: 646, 828
+  size: 189, 224
+  orig: 189, 224
+  offset: 0, 0
+  index: -1
+SZZF
+  rotate: true
+  xy: 375, 829
+  size: 188, 269
+  orig: 188, 269
+  offset: 0, 0
+  index: -1
+YP
+  rotate: false
+  xy: 375, 707
+  size: 178, 120
+  orig: 178, 120
+  offset: 0, 0
+  index: -1
+lizi
+  rotate: false
+  xy: 872, 886
+  size: 145, 131
+  orig: 146, 131
+  offset: 0, 0
+  index: -1

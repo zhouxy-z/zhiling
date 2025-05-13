@@ -1,0 +1,20 @@
+
+mg_blizzard.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/baofengxue
+  rotate: false
+  xy: 2, 658
+  size: 1200, 800
+  orig: 1200, 800
+  offset: 0, 0
+  index: -1
+image/wuqi1
+  rotate: true
+  xy: 1204, 1202
+  size: 256, 254
+  orig: 256, 256
+  offset: 0, 2
+  index: -1

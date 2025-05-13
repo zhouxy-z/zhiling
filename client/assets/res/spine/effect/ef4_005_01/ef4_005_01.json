@@ -1,0 +1,24 @@
+{
+"skeleton": { "hash": "QLQt0w1+TGuoqHmY1XQBrguS3L4", "spine": "3.8.99", "images": "", "audio": "" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "bullet", "parent": "root", "rotation": -90 }
+],
+"slots": [
+	{ "name": "mg_bullet", "bone": "bullet", "attachment": "mg_bullet" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"mg_bullet": {
+				"mg_bullet": { "width": 64, "height": 32 }
+			}
+		}
+	}
+],
+"animations": {
+	"Back": {},
+	"Front": {}
+}
+}

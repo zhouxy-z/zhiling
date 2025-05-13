@@ -1,0 +1,20 @@
+
+ui_HeroBackground_01.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yh
+  rotate: false
+  xy: 2, 2
+  size: 50, 50
+  orig: 65, 65
+  offset: 7, 7
+  index: -1
+yht
+  rotate: false
+  xy: 2, 54
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

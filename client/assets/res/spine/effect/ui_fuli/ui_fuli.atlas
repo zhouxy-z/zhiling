@@ -1,0 +1,76 @@
+
+ui_fuli.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/fuli_1
+  rotate: false
+  xy: 107, 75
+  size: 74, 40
+  orig: 78, 44
+  offset: 2, 2
+  index: -1
+image/fuli_10
+  rotate: true
+  xy: 110, 184
+  size: 41, 42
+  orig: 148, 148
+  offset: 22, 75
+  index: -1
+image/fuli_2
+  rotate: false
+  xy: 2, 117
+  size: 106, 108
+  orig: 148, 148
+  offset: 17, 19
+  index: -1
+image/fuli_3
+  rotate: true
+  xy: 56, 71
+  size: 44, 49
+  orig: 148, 148
+  offset: 20, 82
+  index: -1
+image/fuli_4
+  rotate: false
+  xy: 181, 134
+  size: 42, 26
+  orig: 148, 148
+  offset: 78, 73
+  index: -1
+image/fuli_5
+  rotate: true
+  xy: 154, 161
+  size: 64, 25
+  orig: 148, 148
+  offset: 10, 76
+  index: -1
+image/fuli_6
+  rotate: true
+  xy: 181, 189
+  size: 36, 32
+  orig: 148, 148
+  offset: 87, 93
+  index: -1
+image/fuli_7
+  rotate: true
+  xy: 110, 134
+  size: 48, 32
+  orig: 148, 148
+  offset: 20, 46
+  index: -1
+image/fuli_8
+  rotate: true
+  xy: 181, 162
+  size: 25, 44
+  orig: 148, 148
+  offset: 56, 34
+  index: -1
+image/fuli_9
+  rotate: false
+  xy: 2, 65
+  size: 52, 50
+  orig: 148, 148
+  offset: 54, 93
+  index: -1

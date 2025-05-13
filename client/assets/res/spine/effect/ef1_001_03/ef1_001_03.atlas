@@ -1,0 +1,20 @@
+
+ef1_001_03.png
+size: 171,71
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ef_01
+  rotate: false
+  xy: 126, 20
+  size: 43, 49
+  orig: 54, 54
+  offset: 5, 0
+  index: -1
+ef_02
+  rotate: false
+  xy: 2, 2
+  size: 122, 67
+  orig: 128, 92
+  offset: 3, 8
+  index: -1

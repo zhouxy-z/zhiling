@@ -1,0 +1,27 @@
+
+ui_Click_01.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_00000
+  rotate: true
+  xy: 260, 321
+  size: 178, 174
+  orig: 256, 256
+  offset: 39, 41
+  index: -1
+2_00000
+  rotate: false
+  xy: 2, 2
+  size: 256, 239
+  orig: 256, 256
+  offset: 0, 17
+  index: -1
+3_00000
+  rotate: false
+  xy: 2, 243
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1

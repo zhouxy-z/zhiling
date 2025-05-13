@@ -1,0 +1,90 @@
+
+hc_ef1_015_01.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_00000
+  rotate: false
+  xy: 41, 238
+  size: 23, 21
+  orig: 256, 256
+  offset: 117, 168
+  index: -1
+1_00001
+  rotate: false
+  xy: 2, 226
+  size: 37, 33
+  orig: 256, 256
+  offset: 110, 161
+  index: -1
+1_00002
+  rotate: false
+  xy: 300, 223
+  size: 51, 51
+  orig: 256, 256
+  offset: 102, 149
+  index: -1
+1_00003
+  rotate: false
+  xy: 118, 256
+  size: 64, 75
+  orig: 256, 256
+  offset: 94, 131
+  index: -1
+1_00004
+  rotate: true
+  xy: 193, 269
+  size: 71, 105
+  orig: 256, 256
+  offset: 94, 106
+  index: -1
+1_00005
+  rotate: true
+  xy: 2, 261
+  size: 70, 114
+  orig: 256, 256
+  offset: 95, 96
+  index: -1
+1_00006
+  rotate: false
+  xy: 408, 354
+  size: 71, 130
+  orig: 256, 256
+  offset: 94, 79
+  index: -1
+1_00007
+  rotate: false
+  xy: 419, 254
+  size: 65, 98
+  orig: 256, 256
+  offset: 96, 110
+  index: -1
+1_00008
+  rotate: true
+  xy: 304, 276
+  size: 76, 113
+  orig: 256, 256
+  offset: 90, 100
+  index: -1
+1_00009
+  rotate: true
+  xy: 304, 373
+  size: 111, 102
+  orig: 256, 256
+  offset: 73, 76
+  index: -1
+1_00010
+  rotate: false
+  xy: 2, 333
+  size: 189, 151
+  orig: 256, 256
+  offset: 41, 3
+  index: -1
+1_00011
+  rotate: true
+  xy: 193, 342
+  size: 142, 109
+  orig: 256, 256
+  offset: 57, 12
+  index: -1

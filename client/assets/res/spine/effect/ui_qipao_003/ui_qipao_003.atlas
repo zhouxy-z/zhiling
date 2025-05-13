@@ -1,0 +1,13 @@
+
+ui_qipao_003.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qipao
+  rotate: false
+  xy: 2, 158
+  size: 266, 110
+  orig: 266, 110
+  offset: 0, 0
+  index: -1

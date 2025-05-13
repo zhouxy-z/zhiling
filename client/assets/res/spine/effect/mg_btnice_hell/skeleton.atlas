@@ -1,0 +1,83 @@
+
+skeleton.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/anniudi
+  rotate: false
+  xy: 2, 488
+  size: 184, 184
+  orig: 321, 329
+  offset: 68, 73
+  index: -1
+image/hell/ice_1
+  rotate: true
+  xy: 522, 543
+  size: 208, 209
+  orig: 321, 329
+  offset: 56, 62
+  index: -1
+image/hell/ice_2
+  rotate: false
+  xy: 506, 404
+  size: 208, 137
+  orig: 321, 329
+  offset: 56, 62
+  index: -1
+image/hell/ice_3
+  rotate: false
+  xy: 733, 404
+  size: 208, 150
+  orig: 321, 329
+  offset: 56, 62
+  index: -1
+image/hell/ice_4
+  rotate: false
+  xy: 733, 556
+  size: 208, 187
+  orig: 321, 329
+  offset: 56, 62
+  index: -1
+image/hell/ice_5
+  rotate: true
+  xy: 295, 523
+  size: 208, 209
+  orig: 321, 329
+  offset: 56, 62
+  index: -1
+image/hell/ice_6
+  rotate: true
+  xy: 295, 733
+  size: 224, 225
+  orig: 321, 329
+  offset: 50, 50
+  index: -1
+image/hell/ice_7
+  rotate: true
+  xy: 744, 745
+  size: 212, 213
+  orig: 321, 329
+  offset: 55, 61
+  index: -1
+image/hell/xuehua
+  rotate: false
+  xy: 188, 399
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+image/ice_8
+  rotate: false
+  xy: 2, 674
+  size: 291, 283
+  orig: 291, 283
+  offset: 0, 0
+  index: -1
+image/wuqi2
+  rotate: true
+  xy: 522, 753
+  size: 204, 220
+  orig: 248, 240
+  offset: 20, 8
+  index: -1

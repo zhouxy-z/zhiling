@@ -1,0 +1,69 @@
+
+ef2_008_01.png
+size: 525,308
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/sj1_018
+  rotate: false
+  xy: 280, 31
+  size: 135, 136
+  orig: 137, 138
+  offset: 1, 1
+  index: -1
+image/sj1_019
+  rotate: true
+  xy: 2, 166
+  size: 140, 139
+  orig: 142, 141
+  offset: 1, 1
+  index: -1
+image/sj1_020
+  rotate: true
+  xy: 2, 24
+  size: 140, 138
+  orig: 142, 140
+  offset: 1, 1
+  index: -1
+image/sj1_021
+  rotate: true
+  xy: 142, 26
+  size: 138, 136
+  orig: 140, 138
+  offset: 1, 1
+  index: -1
+image/sj1_022
+  rotate: false
+  xy: 143, 169
+  size: 136, 137
+  orig: 138, 139
+  offset: 1, 1
+  index: -1
+image/sj1_023
+  rotate: true
+  xy: 281, 182
+  size: 124, 119
+  orig: 128, 125
+  offset: 4, 3
+  index: -1
+image/sj1_024
+  rotate: false
+  xy: 402, 192
+  size: 117, 114
+  orig: 125, 121
+  offset: 4, 4
+  index: -1
+image/sj1_025
+  rotate: true
+  xy: 417, 88
+  size: 102, 106
+  orig: 107, 114
+  offset: 3, 4
+  index: -1
+image/sj1_026
+  rotate: false
+  xy: 417, 2
+  size: 98, 84
+  orig: 101, 96
+  offset: 1, 4
+  index: -1

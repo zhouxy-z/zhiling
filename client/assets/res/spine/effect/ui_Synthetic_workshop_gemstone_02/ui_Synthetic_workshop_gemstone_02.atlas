@@ -1,0 +1,41 @@
+
+ui_Synthetic_workshop_gemstone_02.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_1
+  rotate: false
+  xy: 2, 2
+  size: 82, 216
+  orig: 83, 217
+  offset: 0, 0
+  index: -1
+2_1
+  rotate: false
+  xy: 2, 220
+  size: 205, 222
+  orig: 206, 223
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 86, 19
+  size: 199, 192
+  orig: 239, 223
+  offset: 20, 16
+  index: -1
+effect
+  rotate: true
+  xy: 209, 254
+  size: 188, 167
+  orig: 202, 177
+  offset: 6, 6
+  index: -1
+grow
+  rotate: false
+  xy: 2, 444
+  size: 425, 431
+  orig: 512, 512
+  offset: 40, 45
+  index: -1

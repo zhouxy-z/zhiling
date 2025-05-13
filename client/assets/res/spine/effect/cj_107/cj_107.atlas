@@ -1,0 +1,90 @@
+
+cj_107.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_00000
+  rotate: true
+  xy: 306, 684
+  size: 118, 301
+  orig: 256, 512
+  offset: 66, 102
+  index: -1
+1_00001
+  rotate: true
+  xy: 609, 683
+  size: 119, 308
+  orig: 256, 512
+  offset: 66, 102
+  index: -1
+1_00002
+  rotate: true
+  xy: 471, 557
+  size: 124, 308
+  orig: 256, 512
+  offset: 66, 102
+  index: -1
+1_00003
+  rotate: true
+  xy: 2, 808
+  size: 112, 300
+  orig: 256, 512
+  offset: 78, 111
+  index: -1
+1_00004
+  rotate: true
+  xy: 2, 688
+  size: 117, 302
+  orig: 256, 512
+  offset: 75, 109
+  index: -1
+1_00005
+  rotate: true
+  xy: 2, 435
+  size: 125, 306
+  orig: 256, 512
+  offset: 70, 104
+  index: -1
+1_00006
+  rotate: true
+  xy: 304, 807
+  size: 113, 302
+  orig: 256, 512
+  offset: 73, 108
+  index: -1
+1_00007
+  rotate: true
+  xy: 608, 804
+  size: 116, 308
+  orig: 256, 512
+  offset: 70, 102
+  index: -1
+1_00008
+  rotate: true
+  xy: 161, 562
+  size: 120, 308
+  orig: 256, 512
+  offset: 68, 102
+  index: -1
+1_00009
+  rotate: true
+  xy: 310, 430
+  size: 125, 299
+  orig: 256, 512
+  offset: 67, 102
+  index: -1
+mask
+  rotate: false
+  xy: 2, 565
+  size: 157, 121
+  orig: 160, 121
+  offset: 0, 0
+  index: -1
+pb06
+  rotate: true
+  xy: 611, 426
+  size: 129, 309
+  orig: 133, 309
+  offset: 4, 0
+  index: -1

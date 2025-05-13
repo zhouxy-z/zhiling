@@ -1,0 +1,13 @@
+
+ef004_000_01.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/caizuan
+  rotate: false
+  xy: 2, 2
+  size: 434, 438
+  orig: 600, 600
+  offset: 83, 83
+  index: -1

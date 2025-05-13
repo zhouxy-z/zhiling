@@ -1,0 +1,111 @@
+
+ui_ykjh.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_00000
+  rotate: false
+  xy: 234, 38
+  size: 232, 227
+  orig: 410, 410
+  offset: 86, 91
+  index: -1
+1_00001
+  rotate: false
+  xy: 468, 37
+  size: 230, 228
+  orig: 410, 410
+  offset: 88, 91
+  index: -1
+1_00002
+  rotate: false
+  xy: 2, 43
+  size: 230, 227
+  orig: 410, 410
+  offset: 89, 91
+  index: -1
+1_00003
+  rotate: false
+  xy: 701, 265
+  size: 230, 226
+  orig: 410, 410
+  offset: 89, 92
+  index: -1
+1_00004
+  rotate: false
+  xy: 235, 268
+  size: 230, 225
+  orig: 410, 410
+  offset: 88, 92
+  index: -1
+1_00005
+  rotate: false
+  xy: 467, 267
+  size: 232, 225
+  orig: 410, 410
+  offset: 87, 92
+  index: -1
+1_00006
+  rotate: false
+  xy: 705, 493
+  size: 231, 223
+  orig: 410, 410
+  offset: 88, 93
+  index: -1
+1_00007
+  rotate: false
+  xy: 471, 494
+  size: 232, 222
+  orig: 410, 410
+  offset: 87, 94
+  index: -1
+1_00008
+  rotate: false
+  xy: 237, 495
+  size: 232, 221
+  orig: 410, 410
+  offset: 87, 94
+  index: -1
+1_00009
+  rotate: false
+  xy: 2, 497
+  size: 233, 220
+  orig: 410, 410
+  offset: 86, 94
+  index: -1
+1_00010
+  rotate: false
+  xy: 469, 718
+  size: 232, 218
+  orig: 410, 410
+  offset: 86, 95
+  index: -1
+1_00011
+  rotate: false
+  xy: 235, 719
+  size: 232, 217
+  orig: 410, 410
+  offset: 86, 95
+  index: -1
+1_00012
+  rotate: false
+  xy: 2, 720
+  size: 231, 216
+  orig: 410, 410
+  offset: 86, 96
+  index: -1
+1_00013
+  rotate: false
+  xy: 703, 718
+  size: 231, 218
+  orig: 410, 410
+  offset: 86, 94
+  index: -1
+1_00014
+  rotate: false
+  xy: 2, 272
+  size: 231, 223
+  orig: 410, 410
+  offset: 86, 93
+  index: -1

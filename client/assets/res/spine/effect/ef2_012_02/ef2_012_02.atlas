@@ -1,0 +1,90 @@
+
+ef2_012_02.png
+size: 1171,894
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baodian1
+  rotate: true
+  xy: 382, 455
+  size: 45, 27
+  orig: 48, 29
+  offset: 1, 1
+  index: -1
+lizi1_001
+  rotate: false
+  xy: 382, 13
+  size: 93, 84
+  orig: 98, 88
+  offset: 3, 2
+  index: -1
+lizi1_002
+  rotate: true
+  xy: 477, 36
+  size: 61, 97
+  orig: 65, 103
+  offset: 2, 3
+  index: -1
+lizi1_003
+  rotate: false
+  xy: 1096, 277
+  size: 68, 90
+  orig: 73, 95
+  offset: 3, 2
+  index: -1
+sj2_022
+  rotate: false
+  xy: 1096, 369
+  size: 73, 143
+  orig: 73, 143
+  offset: 0, 0
+  index: -1
+sj2_023
+  rotate: true
+  xy: 816, 2
+  size: 188, 295
+  orig: 188, 295
+  offset: 0, 0
+  index: -1
+sj2_024
+  rotate: false
+  xy: 816, 192
+  size: 278, 320
+  orig: 278, 320
+  offset: 0, 0
+  index: -1
+sj2_025
+  rotate: false
+  xy: 814, 514
+  size: 325, 378
+  orig: 325, 378
+  offset: 0, 0
+  index: -1
+sj2_026
+  rotate: true
+  xy: 411, 99
+  size: 373, 403
+  orig: 373, 403
+  offset: 0, 0
+  index: -1
+sj2_027
+  rotate: false
+  xy: 2, 90
+  size: 378, 410
+  orig: 378, 410
+  offset: 0, 0
+  index: -1
+sj2_028
+  rotate: false
+  xy: 424, 474
+  size: 388, 418
+  orig: 388, 418
+  offset: 0, 0
+  index: -1
+sj2_029
+  rotate: true
+  xy: 2, 502
+  size: 390, 420
+  orig: 390, 420
+  offset: 0, 0
+  index: -1

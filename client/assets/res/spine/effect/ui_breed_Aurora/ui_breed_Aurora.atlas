@@ -1,0 +1,111 @@
+
+ui_breed_Aurora.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_00000
+  rotate: false
+  xy: 274, 818
+  size: 270, 135
+  orig: 270, 270
+  offset: 0, 135
+  index: -1
+1_00001
+  rotate: false
+  xy: 546, 818
+  size: 270, 135
+  orig: 270, 270
+  offset: 0, 135
+  index: -1
+1_00002
+  rotate: true
+  xy: 818, 683
+  size: 270, 135
+  orig: 270, 270
+  offset: 0, 135
+  index: -1
+1_00003
+  rotate: false
+  xy: 2, 682
+  size: 270, 135
+  orig: 270, 270
+  offset: 0, 135
+  index: -1
+1_00004
+  rotate: false
+  xy: 274, 681
+  size: 270, 135
+  orig: 270, 270
+  offset: 0, 135
+  index: -1
+1_00005
+  rotate: false
+  xy: 546, 681
+  size: 270, 135
+  orig: 270, 270
+  offset: 0, 135
+  index: -1
+1_00006
+  rotate: false
+  xy: 2, 545
+  size: 270, 135
+  orig: 270, 270
+  offset: 0, 135
+  index: -1
+1_00007
+  rotate: false
+  xy: 274, 544
+  size: 270, 135
+  orig: 270, 270
+  offset: 0, 135
+  index: -1
+1_00008
+  rotate: false
+  xy: 546, 544
+  size: 270, 135
+  orig: 270, 270
+  offset: 0, 135
+  index: -1
+1_00009
+  rotate: true
+  xy: 818, 411
+  size: 270, 135
+  orig: 270, 270
+  offset: 0, 135
+  index: -1
+1_00010
+  rotate: false
+  xy: 2, 408
+  size: 270, 135
+  orig: 270, 270
+  offset: 0, 135
+  index: -1
+1_00011
+  rotate: false
+  xy: 274, 407
+  size: 270, 135
+  orig: 270, 270
+  offset: 0, 135
+  index: -1
+1_00012
+  rotate: false
+  xy: 546, 407
+  size: 270, 135
+  orig: 270, 270
+  offset: 0, 135
+  index: -1
+1_00013
+  rotate: false
+  xy: 2, 819
+  size: 270, 134
+  orig: 270, 270
+  offset: 0, 136
+  index: -1
+1_00014
+  rotate: false
+  xy: 2, 271
+  size: 270, 135
+  orig: 270, 270
+  offset: 0, 135
+  index: -1

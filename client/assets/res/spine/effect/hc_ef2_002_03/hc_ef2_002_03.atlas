@@ -1,0 +1,41 @@
+
+hc_ef2_002_03.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dmzy
+  rotate: false
+  xy: 2, 84
+  size: 82, 42
+  orig: 82, 42
+  offset: 0, 0
+  index: -1
+slsp_1
+  rotate: true
+  xy: 110, 99
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+slsp_2
+  rotate: false
+  xy: 110, 113
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+slsp_3
+  rotate: false
+  xy: 86, 90
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+slsp_4
+  rotate: false
+  xy: 86, 104
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1

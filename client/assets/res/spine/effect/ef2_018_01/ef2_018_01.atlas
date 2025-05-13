@@ -1,0 +1,48 @@
+
+ef2_018_01.png
+size: 824,675
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/lzg
+  rotate: false
+  xy: 2, 324
+  size: 365, 349
+  orig: 370, 370
+  offset: 5, 21
+  index: -1
+image/yuanhuan1
+  rotate: false
+  xy: 2, 2
+  size: 320, 320
+  orig: 480, 480
+  offset: 80, 80
+  index: -1
+image/yuanhuan2
+  rotate: false
+  xy: 324, 20
+  size: 285, 285
+  orig: 480, 480
+  offset: 93, 96
+  index: -1
+image/yuanhuan3
+  rotate: true
+  xy: 369, 307
+  size: 366, 323
+  orig: 480, 480
+  offset: 58, 79
+  index: -1
+image/yuanhuan4
+  rotate: false
+  xy: 694, 546
+  size: 126, 127
+  orig: 480, 480
+  offset: 176, 177
+  index: -1
+image/yuanhuan5
+  rotate: true
+  xy: 611, 80
+  size: 225, 211
+  orig: 480, 480
+  offset: 127, 137
+  index: -1

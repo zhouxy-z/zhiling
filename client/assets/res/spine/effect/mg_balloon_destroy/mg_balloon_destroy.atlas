@@ -1,0 +1,104 @@
+
+mg_balloon_destroy.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_00000
+  rotate: false
+  xy: 2, 170
+  size: 170, 171
+  orig: 300, 300
+  offset: 62, 70
+  index: -1
+1_00001
+  rotate: true
+  xy: 271, 338
+  size: 244, 243
+  orig: 300, 300
+  offset: 25, 33
+  index: -1
+1_00002
+  rotate: false
+  xy: 2, 573
+  size: 267, 266
+  orig: 300, 300
+  offset: 13, 21
+  index: -1
+1_00003
+  rotate: true
+  xy: 271, 584
+  size: 255, 254
+  orig: 300, 300
+  offset: 19, 27
+  index: -1
+1_00004
+  rotate: false
+  xy: 2, 343
+  size: 228, 228
+  orig: 300, 300
+  offset: 32, 40
+  index: -1
+1_00005
+  rotate: false
+  xy: 174, 57
+  size: 162, 193
+  orig: 300, 300
+  offset: 73, 52
+  index: -1
+1_00006
+  rotate: false
+  xy: 516, 382
+  size: 166, 200
+  orig: 300, 300
+  offset: 71, 45
+  index: -1
+1_00007
+  rotate: false
+  xy: 516, 207
+  size: 164, 173
+  orig: 300, 300
+  offset: 74, 40
+  index: -1
+1_00008
+  rotate: true
+  xy: 527, 675
+  size: 164, 177
+  orig: 300, 300
+  offset: 73, 36
+  index: -1
+1_00009
+  rotate: true
+  xy: 2, 2
+  size: 166, 144
+  orig: 300, 300
+  offset: 73, 38
+  index: -1
+1_00010
+  rotate: true
+  xy: 338, 170
+  size: 166, 136
+  orig: 300, 300
+  offset: 74, 43
+  index: -1
+1_00011
+  rotate: false
+  xy: 476, 82
+  size: 162, 123
+  orig: 300, 300
+  offset: 76, 51
+  index: -1
+1_00012
+  rotate: true
+  xy: 338, 13
+  size: 155, 106
+  orig: 300, 300
+  offset: 79, 63
+  index: -1
+1_00013
+  rotate: true
+  xy: 174, 252
+  size: 89, 14
+  orig: 300, 300
+  offset: 141, 70
+  index: -1

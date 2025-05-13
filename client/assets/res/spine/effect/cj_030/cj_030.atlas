@@ -1,0 +1,27 @@
+
+cj_030.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light4
+  rotate: true
+  xy: 223, 231
+  size: 146, 154
+  orig: 211, 216
+  offset: 52, 31
+  index: -1
+light5
+  rotate: true
+  xy: 71, 260
+  size: 117, 150
+  orig: 211, 216
+  offset: 57, 35
+  index: -1
+lizi2
+  rotate: false
+  xy: 2, 321
+  size: 67, 56
+  orig: 68, 56
+  offset: 1, 0
+  index: -1

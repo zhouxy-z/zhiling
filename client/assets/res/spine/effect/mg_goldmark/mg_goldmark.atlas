@@ -1,0 +1,20 @@
+
+mg_goldmark.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/红叉
+  rotate: false
+  xy: 56, 58
+  size: 49, 47
+  orig: 49, 47
+  offset: 0, 0
+  index: -1
+image/绿叉
+  rotate: false
+  xy: 2, 62
+  size: 52, 43
+  orig: 52, 43
+  offset: 0, 0
+  index: -1

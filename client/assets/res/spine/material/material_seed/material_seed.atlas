@@ -1,0 +1,90 @@
+
+material_seed.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 165
+  size: 99, 79
+  orig: 99, 79
+  offset: 0, 0
+  index: -1
+body_Back
+  rotate: false
+  xy: 103, 165
+  size: 99, 79
+  orig: 99, 79
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 177, 137
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1
+qiu_1
+  rotate: true
+  xy: 204, 206
+  size: 38, 40
+  orig: 38, 40
+  offset: 0, 0
+  index: -1
+qiu_2
+  rotate: true
+  xy: 204, 168
+  size: 36, 38
+  orig: 36, 38
+  offset: 0, 0
+  index: -1
+qiu_3
+  rotate: true
+  xy: 204, 168
+  size: 36, 38
+  orig: 36, 38
+  offset: 0, 0
+  index: -1
+ye_1
+  rotate: true
+  xy: 2, 126
+  size: 37, 34
+  orig: 37, 34
+  offset: 0, 0
+  index: -1
+ye_1_Back
+  rotate: false
+  xy: 204, 131
+  size: 36, 35
+  orig: 36, 35
+  offset: 0, 0
+  index: -1
+ye_2
+  rotate: true
+  xy: 78, 136
+  size: 27, 39
+  orig: 27, 39
+  offset: 0, 0
+  index: -1
+ye_2_Back
+  rotate: true
+  xy: 38, 135
+  size: 28, 38
+  orig: 28, 38
+  offset: 0, 0
+  index: -1
+ye_3
+  rotate: true
+  xy: 119, 150
+  size: 13, 41
+  orig: 13, 41
+  offset: 0, 0
+  index: -1
+ye_3_Back
+  rotate: false
+  xy: 162, 122
+  size: 13, 41
+  orig: 13, 41
+  offset: 0, 0
+  index: -1

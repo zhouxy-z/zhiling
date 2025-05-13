@@ -1,0 +1,62 @@
+
+ef4_015_01.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_00000
+  rotate: false
+  xy: 106, 103
+  size: 50, 110
+  orig: 256, 256
+  offset: 100, 83
+  index: -1
+1_00001
+  rotate: false
+  xy: 2, 52
+  size: 50, 132
+  orig: 256, 256
+  offset: 100, 61
+  index: -1
+1_00002
+  rotate: false
+  xy: 2, 186
+  size: 50, 147
+  orig: 256, 256
+  offset: 101, 43
+  index: -1
+1_00003
+  rotate: false
+  xy: 54, 215
+  size: 51, 118
+  orig: 256, 256
+  offset: 103, 69
+  index: -1
+1_00004
+  rotate: false
+  xy: 2, 335
+  size: 55, 134
+  orig: 256, 256
+  offset: 103, 52
+  index: -1
+1_00005
+  rotate: false
+  xy: 54, 94
+  size: 50, 119
+  orig: 256, 256
+  offset: 104, 68
+  index: -1
+1_00006
+  rotate: true
+  xy: 2, 2
+  size: 48, 130
+  orig: 256, 256
+  offset: 103, 60
+  index: -1
+1_00007
+  rotate: false
+  xy: 59, 347
+  size: 49, 122
+  orig: 256, 256
+  offset: 101, 71
+  index: -1

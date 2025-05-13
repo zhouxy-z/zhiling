@@ -1,0 +1,139 @@
+
+long(red).png
+size: 948,948
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body01
+  rotate: false
+  xy: 2, 569
+  size: 362, 377
+  orig: 362, 377
+  offset: 0, 0
+  index: -1
+body02
+  rotate: false
+  xy: 366, 592
+  size: 248, 354
+  orig: 248, 354
+  offset: 0, 0
+  index: -1
+eye01
+  rotate: true
+  xy: 236, 103
+  size: 95, 58
+  orig: 98, 60
+  offset: 1, 1
+  index: -1
+eye02
+  rotate: true
+  xy: 874, 851
+  size: 95, 59
+  orig: 99, 61
+  offset: 1, 1
+  index: -1
+foot02
+  rotate: false
+  xy: 616, 721
+  size: 256, 225
+  orig: 256, 225
+  offset: 0, 0
+  index: -1
+head01
+  rotate: false
+  xy: 609, 243
+  size: 215, 171
+  orig: 215, 171
+  offset: 0, 0
+  index: -1
+head02
+  rotate: false
+  xy: 304, 126
+  size: 178, 190
+  orig: 178, 190
+  offset: 0, 0
+  index: -1
+l_wing01
+  rotate: true
+  xy: 304, 318
+  size: 249, 136
+  orig: 249, 136
+  offset: 0, 0
+  index: -1
+l_wing02
+  rotate: true
+  xy: 442, 348
+  size: 242, 165
+  orig: 242, 165
+  offset: 0, 0
+  index: -1
+left-foot
+  rotate: true
+  xy: 616, 579
+  size: 140, 262
+  orig: 140, 262
+  offset: 0, 0
+  index: -1
+left-hand
+  rotate: true
+  xy: 484, 160
+  size: 186, 107
+  orig: 186, 107
+  offset: 0, 0
+  index: -1
+mouth01_1
+  rotate: true
+  xy: 159, 20
+  size: 178, 75
+  orig: 180, 77
+  offset: 1, 1
+  index: -1
+mouth01_2
+  rotate: false
+  xy: 2, 22
+  size: 150, 83
+  orig: 153, 85
+  offset: 1, 1
+  index: -1
+r_wing01
+  rotate: false
+  xy: 593, 117
+  size: 199, 124
+  orig: 199, 125
+  offset: 0, 0
+  index: -1
+r_wing02
+  rotate: false
+  xy: 609, 416
+  size: 244, 161
+  orig: 244, 161
+  offset: 0, 0
+  index: -1
+right-foot
+  rotate: true
+  xy: 794, 39
+  size: 192, 149
+  orig: 192, 149
+  offset: 0, 0
+  index: -1
+right-hand
+  rotate: true
+  xy: 826, 233
+  size: 181, 120
+  orig: 181, 120
+  offset: 0, 0
+  index: -1
+tail01
+  rotate: true
+  xy: 159, 200
+  size: 367, 143
+  orig: 367, 143
+  offset: 0, 0
+  index: -1
+tail02
+  rotate: false
+  xy: 2, 107
+  size: 155, 460
+  orig: 155, 460
+  offset: 0, 0
+  index: -1

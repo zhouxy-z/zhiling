@@ -1,0 +1,160 @@
+
+role_010_xrz.png
+size: 1008,714
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 314, 152
+  size: 209, 129
+  orig: 220, 140
+  offset: 6, 10
+  index: -1
+Dai_1
+  rotate: false
+  xy: 258, 58
+  size: 48, 48
+  orig: 50, 50
+  offset: 1, 1
+  index: -1
+Dai_2
+  rotate: true
+  xy: 942, 174
+  size: 58, 57
+  orig: 58, 57
+  offset: 0, 0
+  index: -1
+F_L
+  rotate: false
+  xy: 779, 13
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+Flower
+  rotate: false
+  xy: 861, 37
+  size: 128, 56
+  orig: 128, 56
+  offset: 0, 0
+  index: -1
+H_L_sz
+  rotate: false
+  xy: 689, 12
+  size: 88, 81
+  orig: 99, 81
+  offset: 11, 0
+  index: -1
+H_L_sz1
+  rotate: false
+  xy: 258, 108
+  size: 50, 62
+  orig: 99, 81
+  offset: 0, 12
+  index: -1
+Hat1
+  rotate: true
+  xy: 456, 272
+  size: 440, 199
+  orig: 440, 199
+  offset: 0, 0
+  index: -1
+Hu
+  rotate: false
+  xy: 657, 287
+  size: 278, 113
+  orig: 278, 113
+  offset: 0, 0
+  index: -1
+Lh_1
+  rotate: true
+  xy: 942, 234
+  size: 82, 61
+  orig: 82, 61
+  offset: 0, 0
+  index: -1
+Lh_2
+  rotate: false
+  xy: 937, 318
+  size: 69, 86
+  orig: 69, 86
+  offset: 0, 0
+  index: -1
+Pf_1
+  rotate: true
+  xy: 848, 470
+  size: 242, 143
+  orig: 243, 145
+  offset: 0, 1
+  index: -1
+Pf_2_back
+  rotate: false
+  xy: 2, 2
+  size: 254, 168
+  orig: 256, 169
+  offset: 2, 1
+  index: -1
+Wu_L
+  rotate: true
+  xy: 848, 406
+  size: 62, 78
+  orig: 64, 80
+  offset: 1, 1
+  index: -1
+Wu_R
+  rotate: true
+  xy: 928, 406
+  size: 62, 77
+  orig: 65, 79
+  offset: 1, 1
+  index: -1
+Yaodai_1
+  rotate: false
+  xy: 310, 44
+  size: 65, 106
+  orig: 67, 108
+  offset: 1, 1
+  index: -1
+Yaodai_3
+  rotate: false
+  xy: 377, 50
+  size: 66, 100
+  orig: 68, 102
+  offset: 1, 1
+  index: -1
+hat2
+  rotate: true
+  xy: 445, 50
+  size: 220, 242
+  orig: 229, 252
+  offset: 5, 5
+  index: -1
+hat3
+  rotate: false
+  xy: 689, 95
+  size: 251, 190
+  orig: 251, 190
+  offset: 0, 0
+  index: -1
+tou_1
+  rotate: false
+  xy: 2, 172
+  size: 310, 189
+  orig: 310, 189
+  offset: 0, 0
+  index: -1
+tou_2
+  rotate: true
+  xy: 2, 363
+  size: 349, 452
+  orig: 360, 460
+  offset: 11, 8
+  index: -1
+tou_di
+  rotate: true
+  xy: 657, 402
+  size: 310, 189
+  orig: 310, 189
+  offset: 0, 0
+  index: -1

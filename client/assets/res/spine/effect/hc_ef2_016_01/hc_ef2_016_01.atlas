@@ -1,0 +1,83 @@
+
+hc_ef2_016_01.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_00000
+  rotate: false
+  xy: 241, 190
+  size: 102, 102
+  orig: 128, 128
+  offset: 13, 13
+  index: -1
+1_00001
+  rotate: true
+  xy: 2, 180
+  size: 108, 117
+  orig: 128, 128
+  offset: 10, 7
+  index: -1
+1_00002
+  rotate: true
+  xy: 383, 269
+  size: 116, 118
+  orig: 128, 128
+  offset: 6, 6
+  index: -1
+1_00003
+  rotate: false
+  xy: 122, 279
+  size: 117, 117
+  orig: 128, 128
+  offset: 6, 11
+  index: -1
+1_00004
+  rotate: false
+  xy: 387, 387
+  size: 119, 119
+  orig: 128, 128
+  offset: 7, 9
+  index: -1
+1_00005
+  rotate: false
+  xy: 262, 294
+  size: 119, 106
+  orig: 128, 128
+  offset: 6, 11
+  index: -1
+1_00006
+  rotate: false
+  xy: 2, 290
+  size: 118, 106
+  orig: 128, 128
+  offset: 6, 11
+  index: -1
+1_00007
+  rotate: false
+  xy: 2, 398
+  size: 128, 108
+  orig: 128, 128
+  offset: 0, 10
+  index: -1
+1_00008
+  rotate: false
+  xy: 132, 398
+  size: 128, 108
+  orig: 128, 128
+  offset: 0, 10
+  index: -1
+1_00009
+  rotate: false
+  xy: 262, 402
+  size: 123, 104
+  orig: 128, 128
+  offset: 4, 12
+  index: -1
+1_00010
+  rotate: false
+  xy: 121, 187
+  size: 90, 90
+  orig: 128, 128
+  offset: 19, 19
+  index: -1

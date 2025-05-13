@@ -1,0 +1,83 @@
+
+ef2_009_01.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_00000
+  rotate: false
+  xy: 506, 175
+  size: 154, 158
+  orig: 256, 256
+  offset: 51, 49
+  index: -1
+1_00001
+  rotate: false
+  xy: 506, 335
+  size: 208, 212
+  orig: 256, 256
+  offset: 24, 22
+  index: -1
+1_00002
+  rotate: true
+  xy: 502, 549
+  size: 223, 228
+  orig: 256, 256
+  offset: 17, 14
+  index: -1
+1_00003
+  rotate: true
+  xy: 258, 536
+  size: 236, 242
+  orig: 256, 256
+  offset: 10, 7
+  index: -1
+1_00004
+  rotate: true
+  xy: 2, 268
+  size: 246, 252
+  orig: 256, 256
+  offset: 5, 2
+  index: -1
+1_00005
+  rotate: false
+  xy: 2, 516
+  size: 254, 256
+  orig: 256, 256
+  offset: 1, 0
+  index: -1
+1_00006
+  rotate: true
+  xy: 256, 268
+  size: 246, 248
+  orig: 256, 256
+  offset: 5, 4
+  index: -1
+1_00007
+  rotate: false
+  xy: 118, 134
+  size: 124, 132
+  orig: 256, 256
+  offset: 71, 66
+  index: -1
+1_00008
+  rotate: false
+  xy: 2, 127
+  size: 114, 139
+  orig: 256, 256
+  offset: 75, 58
+  index: -1
+1_00009
+  rotate: false
+  xy: 244, 133
+  size: 110, 133
+  orig: 256, 256
+  offset: 74, 57
+  index: -1
+1_00010
+  rotate: false
+  xy: 118, 2
+  size: 107, 130
+  orig: 256, 256
+  offset: 77, 61
+  index: -1

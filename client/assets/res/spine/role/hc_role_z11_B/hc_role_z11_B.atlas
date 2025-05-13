@@ -1,0 +1,160 @@
+
+hc_role_z11_B.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX/1_00000
+  rotate: true
+  xy: 66, 169
+  size: 16, 7
+  orig: 102, 102
+  offset: 42, 64
+  index: -1
+FX/1_00001
+  rotate: false
+  xy: 47, 103
+  size: 22, 26
+  orig: 102, 102
+  offset: 35, 45
+  index: -1
+FX/1_00002
+  rotate: false
+  xy: 47, 209
+  size: 17, 40
+  orig: 102, 102
+  offset: 35, 31
+  index: -1
+FX/1_00003
+  rotate: false
+  xy: 47, 168
+  size: 17, 39
+  orig: 102, 102
+  offset: 35, 31
+  index: -1
+FX/1_00004
+  rotate: false
+  xy: 47, 131
+  size: 17, 35
+  orig: 102, 102
+  offset: 35, 30
+  index: -1
+FX/1_00005
+  rotate: false
+  xy: 63, 62
+  size: 18, 25
+  orig: 102, 102
+  offset: 35, 30
+  index: -1
+Shadow
+  rotate: false
+  xy: 2, 2
+  size: 91, 17
+  orig: 93, 17
+  offset: 1, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 134
+  size: 47, 43
+  orig: 47, 43
+  offset: 0, 0
+  index: -1
+body_back
+  rotate: true
+  xy: 2, 85
+  size: 47, 43
+  orig: 47, 43
+  offset: 0, 0
+  index: -1
+dbj
+  rotate: false
+  xy: 2, 183
+  size: 43, 66
+  orig: 43, 66
+  offset: 0, 0
+  index: -1
+dead
+  rotate: false
+  xy: 63, 27
+  size: 21, 10
+  orig: 21, 10
+  offset: 0, 0
+  index: -1
+doupeng1
+  rotate: false
+  xy: 63, 39
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+doupeng2
+  rotate: true
+  xy: 36, 21
+  size: 62, 25
+  orig: 62, 25
+  offset: 0, 0
+  index: -1
+e_l
+  rotate: false
+  xy: 75, 175
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+e_r
+  rotate: false
+  xy: 66, 156
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+h_l
+  rotate: true
+  xy: 66, 217
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+h_r
+  rotate: true
+  xy: 66, 233
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+jianbang1
+  rotate: true
+  xy: 66, 201
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+jianbang2
+  rotate: true
+  xy: 66, 187
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+m
+  rotate: false
+  xy: 47, 89
+  size: 31, 12
+  orig: 31, 12
+  offset: 0, 0
+  index: -1
+tou_r
+  rotate: true
+  xy: 2, 21
+  size: 62, 32
+  orig: 62, 32
+  offset: 0, 0
+  index: -1
+win
+  rotate: false
+  xy: 80, 240
+  size: 19, 9
+  orig: 19, 9
+  offset: 0, 0
+  index: -1

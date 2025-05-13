@@ -1,0 +1,132 @@
+
+ui_bossrank1.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cb
+  rotate: false
+  xy: 2, 10
+  size: 172, 50
+  orig: 172, 51
+  offset: 0, 0
+  index: -1
+guang1
+  rotate: true
+  xy: 176, 2
+  size: 58, 54
+  orig: 250, 250
+  offset: 28, 156
+  index: -1
+guang10
+  rotate: false
+  xy: 723, 84
+  size: 164, 168
+  orig: 250, 250
+  offset: 58, 26
+  index: -1
+guang11
+  rotate: true
+  xy: 1045, 105
+  size: 147, 146
+  orig: 250, 250
+  offset: 77, 23
+  index: -1
+guang12
+  rotate: false
+  xy: 1473, 124
+  size: 128, 128
+  orig: 250, 250
+  offset: 96, 22
+  index: -1
+guang13
+  rotate: false
+  xy: 1455, 9
+  size: 110, 110
+  orig: 250, 250
+  offset: 114, 22
+  index: -1
+guang14
+  rotate: false
+  xy: 981, 8
+  size: 86, 86
+  orig: 250, 250
+  offset: 136, 24
+  index: -1
+guang15
+  rotate: true
+  xy: 308, 8
+  size: 54, 46
+  orig: 250, 250
+  offset: 162, 28
+  index: -1
+guang2
+  rotate: true
+  xy: 889, 3
+  size: 91, 90
+  orig: 250, 250
+  offset: 27, 130
+  index: -1
+guang3
+  rotate: false
+  xy: 1340, 6
+  size: 113, 113
+  orig: 250, 250
+  offset: 26, 108
+  index: -1
+guang4
+  rotate: false
+  xy: 1340, 121
+  size: 131, 131
+  orig: 250, 250
+  offset: 26, 90
+  index: -1
+guang5
+  rotate: false
+  xy: 1193, 107
+  size: 145, 145
+  orig: 250, 250
+  offset: 27, 75
+  index: -1
+guang6
+  rotate: true
+  xy: 889, 96
+  size: 156, 154
+  orig: 250, 250
+  offset: 31, 62
+  index: -1
+guang7
+  rotate: false
+  xy: 547, 75
+  size: 174, 177
+  orig: 250, 250
+  offset: 34, 32
+  index: -1
+guang8
+  rotate: true
+  xy: 193, 64
+  size: 188, 174
+  orig: 250, 250
+  offset: 34, 31
+  index: -1
+guang9
+  rotate: true
+  xy: 369, 68
+  size: 184, 176
+  orig: 250, 250
+  offset: 38, 29
+  index: -1
+huan
+  rotate: false
+  xy: 2, 62
+  size: 189, 190
+  orig: 189, 197
+  offset: 0, 0
+  index: -1
+wg
+  rotate: false
+  xy: 232, 21
+  size: 74, 41
+  orig: 75, 42
+  offset: 1, 0
+  index: -1

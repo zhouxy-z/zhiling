@@ -1,0 +1,111 @@
+
+role_z13_R.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shadow
+  rotate: false
+  xy: 2, 190
+  size: 91, 17
+  orig: 93, 17
+  offset: 1, 0
+  index: -1
+body
+  rotate: false
+  xy: 166, 188
+  size: 54, 32
+  orig: 54, 32
+  offset: 0, 0
+  index: -1
+body_back
+  rotate: false
+  xy: 95, 175
+  size: 53, 32
+  orig: 53, 32
+  offset: 0, 0
+  index: -1
+d1
+  rotate: false
+  xy: 73, 118
+  size: 56, 55
+  orig: 56, 55
+  offset: 0, 0
+  index: -1
+d2
+  rotate: false
+  xy: 2, 95
+  size: 56, 55
+  orig: 56, 55
+  offset: 0, 0
+  index: -1
+dead
+  rotate: false
+  xy: 57, 210
+  size: 21, 10
+  orig: 21, 10
+  offset: 0, 0
+  index: -1
+e
+  rotate: false
+  xy: 80, 209
+  size: 21, 11
+  orig: 21, 11
+  offset: 0, 0
+  index: -1
+h_l
+  rotate: false
+  xy: 103, 209
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+h_l_back
+  rotate: false
+  xy: 118, 209
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+h_r
+  rotate: false
+  xy: 135, 209
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+h_r_back
+  rotate: false
+  xy: 152, 209
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+m
+  rotate: false
+  xy: 2, 215
+  size: 32, 5
+  orig: 32, 5
+  offset: 0, 0
+  index: -1
+tou_r
+  rotate: false
+  xy: 2, 152
+  size: 69, 36
+  orig: 69, 36
+  offset: 0, 0
+  index: -1
+tou_r_back
+  rotate: false
+  xy: 150, 148
+  size: 68, 38
+  orig: 68, 38
+  offset: 0, 0
+  index: -1
+win
+  rotate: false
+  xy: 36, 211
+  size: 19, 9
+  orig: 19, 9
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+ui_xuanzejiayuan.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_00000
+  rotate: false
+  xy: 2, 429
+  size: 934, 393
+  orig: 969, 426
+  offset: 18, 16
+  index: -1
+1_00001
+  rotate: false
+  xy: 2, 2
+  size: 966, 425
+  orig: 969, 426
+  offset: 2, 0
+  index: -1
+gg_00000
+  rotate: false
+  xy: 188, 824
+  size: 465, 192
+  orig: 969, 426
+  offset: 252, 117
+  index: -1
+j_00000
+  rotate: true
+  xy: 2, 982
+  size: 34, 53
+  orig: 64, 64
+  offset: 15, 5
+  index: -1
+jt
+  rotate: true
+  xy: 57, 900
+  size: 116, 129
+  orig: 120, 133
+  offset: 2, 2
+  index: -1

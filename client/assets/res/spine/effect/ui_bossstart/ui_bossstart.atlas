@@ -1,0 +1,104 @@
+
+ui_bossstart.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/FX4_00000
+  rotate: false
+  xy: 594, 193
+  size: 57, 57
+  orig: 128, 128
+  offset: 35, 36
+  index: -1
+image/FX4_00001
+  rotate: false
+  xy: 2, 28
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+image/FX4_00002
+  rotate: true
+  xy: 132, 28
+  size: 128, 124
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+image/FX4_00003
+  rotate: true
+  xy: 258, 39
+  size: 117, 98
+  orig: 128, 128
+  offset: 0, 11
+  index: -1
+image/FX4_00004
+  rotate: false
+  xy: 344, 163
+  size: 102, 87
+  orig: 128, 128
+  offset: 10, 18
+  index: -1
+image/FX4_00005
+  rotate: true
+  xy: 448, 163
+  size: 87, 80
+  orig: 128, 128
+  offset: 22, 23
+  index: -1
+image/FX4_00006
+  rotate: true
+  xy: 457, 80
+  size: 81, 76
+  orig: 128, 128
+  offset: 24, 26
+  index: -1
+image/FX4_00007
+  rotate: false
+  xy: 448, 9
+  size: 65, 41
+  orig: 128, 128
+  offset: 37, 28
+  index: -1
+image/btn
+  rotate: false
+  xy: 2, 158
+  size: 340, 92
+  orig: 348, 101
+  offset: 4, 5
+  index: -1
+image/jian1
+  rotate: true
+  xy: 530, 187
+  size: 63, 62
+  orig: 67, 65
+  offset: 0, 3
+  index: -1
+image/jian2
+  rotate: true
+  xy: 535, 122
+  size: 63, 62
+  orig: 67, 65
+  offset: 0, 3
+  index: -1
+image/tuwen1
+  rotate: true
+  xy: 358, 52
+  size: 109, 97
+  orig: 125, 101
+  offset: 3, 2
+  index: -1
+image/tuwen2
+  rotate: false
+  xy: 515, 3
+  size: 71, 75
+  orig: 125, 101
+  offset: 27, 13
+  index: -1
+image/挑战BOSS
+  rotate: false
+  xy: 258, 2
+  size: 188, 35
+  orig: 188, 35
+  offset: 0, 0
+  index: -1

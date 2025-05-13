@@ -1,0 +1,13 @@
+
+ui_guide_1.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/shou
+  rotate: false
+  xy: 2, 2
+  size: 83, 91
+  orig: 83, 91
+  offset: 0, 0
+  index: -1

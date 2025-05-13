@@ -1,0 +1,139 @@
+
+ui_bossrank2.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang1
+  rotate: false
+  xy: 355, 20
+  size: 83, 83
+  orig: 225, 225
+  offset: 19, 119
+  index: -1
+guang10
+  rotate: true
+  xy: 638, 108
+  size: 146, 145
+  orig: 225, 225
+  offset: 55, 23
+  index: -1
+guang11
+  rotate: false
+  xy: 1073, 115
+  size: 139, 139
+  orig: 225, 225
+  offset: 66, 19
+  index: -1
+guang12
+  rotate: false
+  xy: 1214, 122
+  size: 129, 132
+  orig: 225, 225
+  offset: 78, 14
+  index: -1
+guang13
+  rotate: true
+  xy: 1214, 3
+  size: 117, 124
+  orig: 225, 225
+  offset: 91, 9
+  index: -1
+guang14
+  rotate: false
+  xy: 932, 3
+  size: 107, 109
+  orig: 225, 225
+  offset: 101, 9
+  index: -1
+guang15
+  rotate: false
+  xy: 440, 22
+  size: 81, 81
+  orig: 225, 225
+  offset: 125, 19
+  index: -1
+guang2
+  rotate: true
+  xy: 638, 3
+  size: 103, 102
+  orig: 225, 225
+  offset: 17, 102
+  index: -1
+guang3
+  rotate: true
+  xy: 1340, 2
+  size: 118, 117
+  orig: 225, 225
+  offset: 17, 87
+  index: -1
+guang4
+  rotate: false
+  xy: 1345, 124
+  size: 130, 130
+  orig: 225, 225
+  offset: 18, 74
+  index: -1
+guang5
+  rotate: true
+  xy: 932, 114
+  size: 140, 139
+  orig: 225, 225
+  offset: 20, 62
+  index: -1
+guang6
+  rotate: false
+  xy: 785, 109
+  size: 145, 145
+  orig: 225, 225
+  offset: 25, 52
+  index: -1
+guang7
+  rotate: false
+  xy: 337, 105
+  size: 149, 149
+  orig: 225, 225
+  offset: 31, 43
+  index: -1
+guang8
+  rotate: false
+  xy: 185, 104
+  size: 150, 150
+  orig: 225, 225
+  offset: 38, 35
+  index: -1
+guang9
+  rotate: true
+  xy: 488, 105
+  size: 149, 148
+  orig: 225, 225
+  offset: 46, 29
+  index: -1
+huangguan
+  rotate: true
+  xy: 2, 6
+  size: 60, 48
+  orig: 60, 50
+  offset: 0, 1
+  index: -1
+waibian1
+  rotate: false
+  xy: 185, 3
+  size: 83, 99
+  orig: 84, 101
+  offset: 1, 1
+  index: -1
+waibian2
+  rotate: false
+  xy: 270, 3
+  size: 83, 99
+  orig: 84, 101
+  offset: 0, 1
+  index: -1
+椭圆 2 拷贝 2
+  rotate: false
+  xy: 2, 68
+  size: 181, 186
+  orig: 181, 187
+  offset: 0, 1
+  index: -1

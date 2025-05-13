@@ -1,0 +1,118 @@
+
+ef2_015_01.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_00000
+  rotate: true
+  xy: 1929, 1389
+  size: 184, 103
+  orig: 600, 595
+  offset: 200, 95
+  index: -1
+1_00001
+  rotate: false
+  xy: 2, 1389
+  size: 284, 162
+  orig: 600, 595
+  offset: 148, 65
+  index: -1
+1_00002
+  rotate: false
+  xy: 1560, 1369
+  size: 367, 204
+  orig: 600, 595
+  offset: 105, 40
+  index: -1
+1_00003
+  rotate: false
+  xy: 390, 1370
+  size: 371, 207
+  orig: 600, 595
+  offset: 103, 38
+  index: -1
+1_00004
+  rotate: false
+  xy: 1182, 1369
+  size: 376, 209
+  orig: 600, 595
+  offset: 100, 37
+  index: -1
+1_00005
+  rotate: false
+  xy: 798, 1366
+  size: 382, 213
+  orig: 600, 595
+  offset: 97, 35
+  index: -1
+1_00006
+  rotate: false
+  xy: 2, 1553
+  size: 386, 229
+  orig: 600, 595
+  offset: 95, 34
+  index: -1
+1_00007
+  rotate: false
+  xy: 2, 1784
+  size: 391, 248
+  orig: 600, 595
+  offset: 92, 32
+  index: -1
+1_00008
+  rotate: false
+  xy: 1625, 1575
+  size: 395, 230
+  orig: 600, 595
+  offset: 90, 31
+  index: -1
+1_00009
+  rotate: false
+  xy: 798, 1581
+  size: 399, 222
+  orig: 600, 595
+  offset: 88, 30
+  index: -1
+1_00010
+  rotate: false
+  xy: 395, 1579
+  size: 401, 224
+  orig: 600, 595
+  offset: 87, 29
+  index: -1
+1_00011
+  rotate: false
+  xy: 1215, 1580
+  size: 404, 224
+  orig: 600, 595
+  offset: 85, 29
+  index: -1
+1_00012
+  rotate: false
+  xy: 1625, 1807
+  size: 406, 225
+  orig: 600, 595
+  offset: 84, 28
+  index: -1
+1_00013
+  rotate: false
+  xy: 1215, 1806
+  size: 408, 226
+  orig: 600, 595
+  offset: 83, 28
+  index: -1
+1_00014
+  rotate: false
+  xy: 395, 1805
+  size: 408, 227
+  orig: 600, 595
+  offset: 83, 27
+  index: -1
+1_00015
+  rotate: false
+  xy: 805, 1805
+  size: 408, 227
+  orig: 600, 595
+  offset: 83, 27
+  index: -1

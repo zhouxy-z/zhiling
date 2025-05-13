@@ -1,0 +1,139 @@
+
+ui_bossrank3.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang1
+  rotate: false
+  xy: 2, 4
+  size: 74, 74
+  orig: 225, 225
+  offset: 20, 125
+  index: -1
+guang10
+  rotate: true
+  xy: 758, 112
+  size: 141, 140
+  orig: 225, 225
+  offset: 53, 26
+  index: -1
+guang11
+  rotate: false
+  xy: 1036, 119
+  size: 134, 134
+  orig: 225, 225
+  offset: 64, 22
+  index: -1
+guang12
+  rotate: false
+  xy: 1172, 2
+  size: 124, 124
+  orig: 225, 225
+  offset: 76, 20
+  index: -1
+guang13
+  rotate: true
+  xy: 1013, 6
+  size: 111, 110
+  orig: 225, 225
+  offset: 89, 20
+  index: -1
+guang14
+  rotate: false
+  xy: 496, 12
+  size: 95, 95
+  orig: 225, 225
+  offset: 105, 20
+  index: -1
+guang15
+  rotate: false
+  xy: 78, 5
+  size: 73, 73
+  orig: 225, 225
+  offset: 124, 23
+  index: -1
+guang2
+  rotate: false
+  xy: 399, 10
+  size: 95, 96
+  orig: 225, 225
+  offset: 18, 106
+  index: -1
+guang3
+  rotate: false
+  xy: 900, 6
+  size: 111, 111
+  orig: 225, 225
+  offset: 18, 91
+  index: -1
+guang4
+  rotate: false
+  xy: 1172, 128
+  size: 124, 125
+  orig: 225, 225
+  offset: 18, 77
+  index: -1
+guang5
+  rotate: false
+  xy: 900, 119
+  size: 134, 134
+  orig: 225, 225
+  offset: 20, 66
+  index: -1
+guang6
+  rotate: false
+  xy: 616, 112
+  size: 140, 141
+  orig: 225, 225
+  offset: 24, 55
+  index: -1
+guang7
+  rotate: true
+  xy: 324, 108
+  size: 145, 144
+  orig: 225, 225
+  offset: 29, 46
+  index: -1
+guang8
+  rotate: true
+  xy: 177, 107
+  size: 146, 145
+  orig: 225, 225
+  offset: 36, 38
+  index: -1
+guang9
+  rotate: false
+  xy: 470, 109
+  size: 144, 144
+  orig: 225, 225
+  offset: 44, 31
+  index: -1
+quan
+  rotate: false
+  xy: 2, 80
+  size: 173, 173
+  orig: 182, 174
+  offset: 0, 1
+  index: -1
+shui1
+  rotate: true
+  xy: 153, 26
+  size: 52, 94
+  orig: 55, 95
+  offset: 3, 1
+  index: -1
+shui2
+  rotate: false
+  xy: 249, 21
+  size: 148, 84
+  orig: 148, 86
+  offset: 0, 0
+  index: -1
+xingxing
+  rotate: false
+  xy: 593, 55
+  size: 52, 52
+  orig: 52, 53
+  offset: 0, 1
+  index: -1

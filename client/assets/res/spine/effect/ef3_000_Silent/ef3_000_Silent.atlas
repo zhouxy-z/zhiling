@@ -1,0 +1,13 @@
+
+ef3_000_Silent.png
+size: 64,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_00000
+  rotate: false
+  xy: 2, 18
+  size: 58, 42
+  orig: 64, 64
+  offset: 3, 11
+  index: -1

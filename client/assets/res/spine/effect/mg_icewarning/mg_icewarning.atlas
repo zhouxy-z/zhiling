@@ -1,0 +1,27 @@
+
+mg_icewarning.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/baofengxue
+  rotate: true
+  xy: 1084, 722
+  size: 1200, 800
+  orig: 1200, 800
+  offset: 0, 0
+  index: -1
+image/biankuang
+  rotate: false
+  xy: 2, 2
+  size: 1080, 1920
+  orig: 1080, 1920
+  offset: 0, 0
+  index: -1
+image/wuqi1
+  rotate: false
+  xy: 1084, 466
+  size: 256, 254
+  orig: 256, 256
+  offset: 0, 2
+  index: -1

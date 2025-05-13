@@ -1,0 +1,1 @@
+{"skeleton":{"hash":"xfqhp+6cf53fPlNuI7+a6nGIBf8","spine":"3.8.99","images":"","audio":""},"bones":[{"name":"root"},{"name":"bullet","parent":"root"}],"slots":[{"name":"s","bone":"bullet","attachment":"s"}],"skins":[{"name":"default","attachments":{"s":{"s":{"width":104,"height":72}}}}],"animations":{"Back":{},"Front":{}}}

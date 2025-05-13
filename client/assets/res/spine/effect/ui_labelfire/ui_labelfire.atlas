@@ -1,0 +1,90 @@
+
+ui_labelfire.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 305, 44
+  size: 112, 47
+  orig: 113, 49
+  offset: 1, 1
+  index: -1
+12
+  rotate: true
+  xy: 399, 209
+  size: 92, 27
+  orig: 113, 49
+  offset: 10, 12
+  index: -1
+Fx_00000
+  rotate: false
+  xy: 2, 22
+  size: 213, 85
+  orig: 230, 230
+  offset: 4, 85
+  index: -1
+Fx_00001
+  rotate: true
+  xy: 211, 269
+  size: 210, 86
+  orig: 230, 230
+  offset: 8, 86
+  index: -1
+Fx_00002
+  rotate: true
+  xy: 217, 61
+  size: 206, 86
+  orig: 230, 230
+  offset: 12, 87
+  index: -1
+Fx_00003
+  rotate: true
+  xy: 299, 280
+  size: 199, 88
+  orig: 230, 230
+  offset: 14, 87
+  index: -1
+Fx_00004
+  rotate: true
+  xy: 389, 303
+  size: 176, 90
+  orig: 230, 230
+  offset: 13, 86
+  index: -1
+Fx_00005
+  rotate: true
+  xy: 305, 93
+  size: 185, 92
+  orig: 230, 230
+  offset: 11, 85
+  index: -1
+Fx_00006
+  rotate: false
+  xy: 2, 109
+  size: 196, 93
+  orig: 230, 230
+  offset: 6, 84
+  index: -1
+Fx_00007
+  rotate: false
+  xy: 2, 387
+  size: 204, 92
+  orig: 230, 230
+  offset: 1, 84
+  index: -1
+Fx_00008
+  rotate: false
+  xy: 2, 204
+  size: 203, 90
+  orig: 230, 230
+  offset: 1, 84
+  index: -1
+Fx_00009
+  rotate: false
+  xy: 2, 296
+  size: 207, 89
+  orig: 230, 230
+  offset: 2, 84
+  index: -1

@@ -1,0 +1,76 @@
+
+ui_TreasureChest_13.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/1_00000
+  rotate: true
+  xy: 2, 536
+  size: 127, 370
+  orig: 256, 512
+  offset: 64, 140
+  index: -1
+image/glow
+  rotate: false
+  xy: 584, 565
+  size: 94, 96
+  orig: 100, 100
+  offset: 3, 2
+  index: -1
+image/lizi
+  rotate: false
+  xy: 57, 487
+  size: 47, 47
+  orig: 64, 64
+  offset: 8, 8
+  index: -1
+image/lizi_00000
+  rotate: false
+  xy: 2, 482
+  size: 53, 52
+  orig: 64, 64
+  offset: 5, 6
+  index: -1
+image/star
+  rotate: false
+  xy: 681, 477
+  size: 207, 202
+  orig: 220, 216
+  offset: 6, 7
+  index: -1
+image/star_X
+  rotate: false
+  xy: 373, 542
+  size: 99, 119
+  orig: 256, 256
+  offset: 78, 71
+  index: -1
+image/tiaozhan1
+  rotate: false
+  xy: 474, 557
+  size: 108, 104
+  orig: 108, 104
+  offset: 0, 0
+  index: -1
+image/tiaozhan2
+  rotate: false
+  xy: 2, 663
+  size: 343, 338
+  orig: 343, 338
+  offset: 0, 0
+  index: -1
+image/xw4_00000
+  rotate: true
+  xy: 347, 663
+  size: 338, 332
+  orig: 350, 345
+  offset: 0, 13
+  index: -1
+image/xw_00000
+  rotate: false
+  xy: 681, 681
+  size: 320, 320
+  orig: 400, 400
+  offset: 40, 40
+  index: -1

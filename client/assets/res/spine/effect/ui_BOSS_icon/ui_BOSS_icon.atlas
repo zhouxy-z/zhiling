@@ -1,0 +1,160 @@
+
+ui_BOSS_icon.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B
+  rotate: true
+  xy: 2, 2
+  size: 69, 68
+  orig: 69, 68
+  offset: 0, 0
+  index: -1
+BOSS
+  rotate: true
+  xy: 108, 240
+  size: 62, 21
+  orig: 62, 21
+  offset: 0, 0
+  index: -1
+FX_00000
+  rotate: false
+  xy: 2, 145
+  size: 52, 70
+  orig: 64, 128
+  offset: 5, 27
+  index: -1
+FX_00001
+  rotate: false
+  xy: 53, 291
+  size: 51, 71
+  orig: 64, 128
+  offset: 6, 27
+  index: -1
+FX_00002
+  rotate: false
+  xy: 2, 290
+  size: 49, 72
+  orig: 64, 128
+  offset: 7, 28
+  index: -1
+FX_00003
+  rotate: false
+  xy: 2, 438
+  size: 50, 72
+  orig: 64, 128
+  offset: 7, 28
+  index: -1
+FX_00004
+  rotate: false
+  xy: 54, 439
+  size: 51, 71
+  orig: 64, 128
+  offset: 6, 27
+  index: -1
+FX_00005
+  rotate: false
+  xy: 2, 73
+  size: 51, 70
+  orig: 64, 128
+  offset: 6, 27
+  index: -1
+FX_00006
+  rotate: false
+  xy: 55, 74
+  size: 51, 69
+  orig: 64, 128
+  offset: 6, 27
+  index: -1
+FX_00007
+  rotate: false
+  xy: 72, 3
+  size: 51, 69
+  orig: 64, 128
+  offset: 6, 27
+  index: -1
+FX_00008
+  rotate: false
+  xy: 2, 217
+  size: 52, 71
+  orig: 64, 128
+  offset: 5, 27
+  index: -1
+FX_00009
+  rotate: false
+  xy: 2, 364
+  size: 50, 72
+  orig: 64, 128
+  offset: 5, 27
+  index: -1
+FX_00010
+  rotate: false
+  xy: 54, 366
+  size: 50, 71
+  orig: 64, 128
+  offset: 6, 27
+  index: -1
+FX_00011
+  rotate: false
+  xy: 56, 220
+  size: 50, 69
+  orig: 64, 128
+  offset: 7, 27
+  index: -1
+FX_00012
+  rotate: false
+  xy: 107, 151
+  size: 49, 67
+  orig: 64, 128
+  offset: 7, 28
+  index: -1
+FX_00013
+  rotate: false
+  xy: 107, 444
+  size: 47, 66
+  orig: 64, 128
+  offset: 7, 28
+  index: -1
+FX_00014
+  rotate: false
+  xy: 106, 304
+  size: 46, 65
+  orig: 64, 128
+  offset: 8, 28
+  index: -1
+FX_00015
+  rotate: false
+  xy: 156, 445
+  size: 48, 65
+  orig: 64, 128
+  offset: 7, 28
+  index: -1
+FX_00016
+  rotate: false
+  xy: 106, 371
+  size: 49, 66
+  orig: 64, 128
+  offset: 6, 28
+  index: -1
+FX_00017
+  rotate: false
+  xy: 56, 150
+  size: 49, 68
+  orig: 64, 128
+  offset: 6, 27
+  index: -1
+FX_00018
+  rotate: false
+  xy: 125, 14
+  size: 50, 66
+  orig: 64, 128
+  offset: 6, 28
+  index: -1
+FX_00019
+  rotate: false
+  xy: 108, 82
+  size: 49, 67
+  orig: 64, 128
+  offset: 7, 28
+  index: -1

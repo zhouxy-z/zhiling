@@ -1,0 +1,62 @@
+
+ui_battleselect.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/gezi1
+  rotate: false
+  xy: 262, 766
+  size: 203, 103
+  orig: 203, 110
+  offset: 0, 3
+  index: -1
+image/gezi2
+  rotate: false
+  xy: 120, 778
+  size: 140, 91
+  orig: 203, 110
+  offset: 32, 13
+  index: -1
+image/gezi3
+  rotate: false
+  xy: 672, 763
+  size: 197, 106
+  orig: 203, 110
+  offset: 3, 2
+  index: -1
+image/gezi4
+  rotate: false
+  xy: 2, 854
+  size: 31, 15
+  orig: 203, 110
+  offset: 87, 3
+  index: -1
+image/gezi5
+  rotate: false
+  xy: 35, 854
+  size: 30, 15
+  orig: 203, 110
+  offset: 87, 92
+  index: -1
+image/gezi6
+  rotate: false
+  xy: 93, 846
+  size: 25, 23
+  orig: 203, 110
+  offset: 2, 44
+  index: -1
+image/gezi7
+  rotate: false
+  xy: 67, 847
+  size: 24, 22
+  orig: 203, 110
+  offset: 176, 44
+  index: -1
+image/gezi9
+  rotate: false
+  xy: 467, 766
+  size: 203, 103
+  orig: 203, 110
+  offset: 0, 3
+  index: -1

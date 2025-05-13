@@ -1,0 +1,16 @@
+{
+  /* Base configuration. Do not edit this field. */
+  "extends": "./temp/tsconfig.cocos.json",
+
+  /* Add your custom configuration here. */
+  "compilerOptions": {
+    "strict": false,
+    "allowSyntheticDefaultImports": true
+    // "paths": {
+    //   "proto": ["./assets/scripts/protobuf/proto"],
+    // },
+    // "module": "CommonJS", // 生成代码的模板标准
+    // "lib": ["DOM", "ES2015", "ScriptHost", "ES2019.Array"], // TS需要引用的库，即声明文件，es5 默认引用dom、es5、scripthost,如需要使用es的高级版本特性，通常都需要配置，如es8的数组新特性需要引入"ES2019.Array",
+    // "target": "es5",
+  }
+}

@@ -1,0 +1,76 @@
+
+ui_autopve_label.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/_
+  rotate: false
+  xy: 2, 39
+  size: 50, 50
+  orig: 60, 60
+  offset: 4, 6
+  index: -1
+image/autolabel
+  rotate: false
+  xy: 2, 91
+  size: 382, 98
+  orig: 388, 103
+  offset: 3, 3
+  index: -1
+image/blackbg
+  rotate: false
+  xy: 2, 191
+  size: 777, 92
+  orig: 851, 92
+  offset: 31, 0
+  index: -1
+image/chilun1
+  rotate: true
+  xy: 781, 99
+  size: 184, 196
+  orig: 202, 207
+  offset: 9, 6
+  index: -1
+image/chilun2
+  rotate: false
+  xy: 386, 60
+  size: 129, 129
+  orig: 147, 148
+  offset: 9, 10
+  index: -1
+image/l1
+  rotate: true
+  xy: 617, 2
+  size: 89, 95
+  orig: 95, 103
+  offset: 3, 4
+  index: -1
+image/l2
+  rotate: false
+  xy: 718, 2
+  size: 100, 95
+  orig: 107, 103
+  offset: 4, 4
+  index: -1
+image/l3
+  rotate: false
+  xy: 617, 93
+  size: 99, 96
+  orig: 106, 103
+  offset: 3, 5
+  index: -1
+image/l4
+  rotate: false
+  xy: 517, 92
+  size: 98, 97
+  orig: 108, 103
+  offset: 3, 3
+  index: -1
+image/l5
+  rotate: false
+  xy: 820, 3
+  size: 99, 94
+  orig: 105, 103
+  offset: 3, 5
+  index: -1

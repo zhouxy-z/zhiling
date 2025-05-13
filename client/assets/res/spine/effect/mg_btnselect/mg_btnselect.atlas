@@ -1,0 +1,27 @@
+
+mg_btnselect.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/guangquan1
+  rotate: false
+  xy: 10, 227
+  size: 272, 272
+  orig: 462, 460
+  offset: 95, 95
+  index: -1
+image/guangquan2
+  rotate: false
+  xy: 10, 10
+  size: 253, 207
+  orig: 462, 460
+  offset: 104, 153
+  index: -1
+image/guangquan3
+  rotate: true
+  xy: 292, 234
+  size: 265, 195
+  orig: 462, 460
+  offset: 98, 173
+  index: -1

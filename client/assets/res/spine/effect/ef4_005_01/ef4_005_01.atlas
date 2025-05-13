@@ -1,0 +1,13 @@
+
+ef4_005_01.png
+size: 32,32
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mg_bullet
+  rotate: false
+  xy: 2, 17
+  size: 26, 11
+  orig: 32, 16
+  offset: 2, 3
+  index: -1

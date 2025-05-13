@@ -1,0 +1,97 @@
+
+ui_TreasureChest_9.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_00000
+  rotate: true
+  xy: 333, 673
+  size: 64, 185
+  orig: 128, 256
+  offset: 32, 70
+  index: -1
+GZ
+  rotate: false
+  xy: 326, 396
+  size: 245, 263
+  orig: 245, 263
+  offset: 0, 0
+  index: -1
+HZ
+  rotate: false
+  xy: 2, 2
+  size: 344, 285
+  orig: 344, 285
+  offset: 0, 0
+  index: -1
+LH
+  rotate: true
+  xy: 2, 289
+  size: 360, 322
+  orig: 360, 322
+  offset: 0, 0
+  index: -1
+LP
+  rotate: true
+  xy: 379, 778
+  size: 244, 196
+  orig: 244, 196
+  offset: 0, 0
+  index: -1
+LP_GROW
+  rotate: true
+  xy: 244, 739
+  size: 283, 133
+  orig: 359, 391
+  offset: 35, 170
+  index: -1
+PD1
+  rotate: true
+  xy: 482, 182
+  size: 212, 131
+  orig: 212, 131
+  offset: 0, 0
+  index: -1
+PD2
+  rotate: true
+  xy: 348, 76
+  size: 212, 132
+  orig: 212, 132
+  offset: 0, 0
+  index: -1
+PD3
+  rotate: false
+  xy: 2, 651
+  size: 240, 371
+  orig: 240, 371
+  offset: 0, 0
+  index: -1
+PD4
+  rotate: true
+  xy: 244, 661
+  size: 76, 87
+  orig: 76, 87
+  offset: 0, 0
+  index: -1
+lizi
+  rotate: false
+  xy: 379, 752
+  size: 24, 24
+  orig: 32, 32
+  offset: 4, 4
+  index: -1
+star
+  rotate: true
+  xy: 326, 290
+  size: 104, 102
+  orig: 110, 108
+  offset: 3, 3
+  index: -1
+star_X
+  rotate: false
+  xy: 520, 716
+  size: 50, 60
+  orig: 128, 128
+  offset: 39, 35
+  index: -1

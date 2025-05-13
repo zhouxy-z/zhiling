@@ -1,0 +1,13 @@
+
+skeleton.png
+size: 460,169
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/daojishi2
+  rotate: false
+  xy: 2, 2
+  size: 456, 165
+  orig: 463, 173
+  offset: 3, 4
+  index: -1

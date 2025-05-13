@@ -1,0 +1,34 @@
+
+ui_bossbox.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+图层 145
+  rotate: false
+  xy: 2, 104
+  size: 187, 82
+  orig: 189, 84
+  offset: 1, 1
+  index: -1
+图层 147
+  rotate: false
+  xy: 2, 2
+  size: 203, 100
+  orig: 206, 102
+  offset: 2, 1
+  index: -1
+图层 148
+  rotate: false
+  xy: 2, 198
+  size: 76, 76
+  orig: 82, 82
+  offset: 3, 3
+  index: -1
+椭圆 1
+  rotate: false
+  xy: 80, 188
+  size: 151, 86
+  orig: 153, 88
+  offset: 1, 1
+  index: -1

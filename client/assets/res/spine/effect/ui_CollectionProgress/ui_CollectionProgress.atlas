@@ -1,0 +1,20 @@
+
+ui_CollectionProgress.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 2
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 76
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1

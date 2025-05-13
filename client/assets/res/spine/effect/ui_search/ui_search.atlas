@@ -1,0 +1,55 @@
+
+ui_search.png
+size: 1016,1016
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/bw1
+  rotate: true
+  xy: 2, 995
+  size: 19, 69
+  orig: 19, 69
+  offset: 0, 0
+  index: -1
+image/label_5
+  rotate: false
+  xy: 140, 908
+  size: 235, 106
+  orig: 253, 119
+  offset: 7, 7
+  index: -1
+image/label_6
+  rotate: false
+  xy: 105, 982
+  size: 33, 32
+  orig: 38, 39
+  offset: 2, 4
+  index: -1
+image/leida1
+  rotate: false
+  xy: 377, 759
+  size: 260, 255
+  orig: 510, 510
+  offset: 235, 0
+  index: -1
+image/leida2
+  rotate: false
+  xy: 2, 252
+  size: 505, 505
+  orig: 510, 510
+  offset: 3, 2
+  index: -1
+image/leida3
+  rotate: false
+  xy: 509, 252
+  size: 505, 505
+  orig: 510, 510
+  offset: 3, 2
+  index: -1
+image/leida4
+  rotate: false
+  xy: 73, 984
+  size: 30, 30
+  orig: 510, 510
+  offset: 240, 240
+  index: -1

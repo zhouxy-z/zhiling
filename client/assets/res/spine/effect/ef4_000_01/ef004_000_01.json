@@ -1,0 +1,65 @@
+{
+"skeleton": {
+	"hash": "0K8N70OHip1qwfoaWTDUyMUGdyU",
+	"spine": "3.8.99",
+	"x": -300,
+	"y": -300,
+	"width": 600,
+	"height": 600,
+	"images": "",
+	"audio": ""
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "empty", "parent": "root" }
+],
+"slots": [
+	{ "name": "1", "bone": "empty", "attachment": "image/caizuan" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"1": {
+				"image/caizuan": { "width": 600, "height": 600 }
+			}
+		}
+	}
+],
+"animations": {
+	"Back": {
+		"slots": {
+			"1": {
+				"color": [
+					{ "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"empty": {
+				"scale": [
+					{ "curve": "stepped" },
+					{ "time": 1 }
+				]
+			}
+		}
+	},
+	"Front": {
+		"slots": {
+			"1": {
+				"color": [
+					{ "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"empty": {
+				"scale": [
+					{ "curve": "stepped" },
+					{ "time": 1 }
+				]
+			}
+		}
+	}
+}
+}

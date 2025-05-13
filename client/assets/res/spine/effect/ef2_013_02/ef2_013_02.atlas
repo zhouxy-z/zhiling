@@ -1,0 +1,41 @@
+
+ef2_013_02.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_00000
+  rotate: true
+  xy: 2, 2
+  size: 275, 773
+  orig: 512, 1024
+  offset: 125, 72
+  index: -1
+1_00001
+  rotate: true
+  xy: 2, 533
+  size: 251, 784
+  orig: 512, 1024
+  offset: 140, 80
+  index: -1
+1_00002
+  rotate: true
+  xy: 2, 279
+  size: 252, 798
+  orig: 512, 1024
+  offset: 143, 62
+  index: -1
+1_00003
+  rotate: true
+  xy: 2, 813
+  size: 132, 141
+  orig: 512, 1024
+  offset: 190, 115
+  index: -1
+1_00004
+  rotate: true
+  xy: 145, 786
+  size: 159, 200
+  orig: 512, 1024
+  offset: 151, 91
+  index: -1

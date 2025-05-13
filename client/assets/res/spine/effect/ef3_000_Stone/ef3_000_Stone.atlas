@@ -1,0 +1,27 @@
+
+ef3_000_Stone.png
+size: 272,84
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/shitou1
+  rotate: false
+  xy: 123, 2
+  size: 87, 80
+  orig: 87, 80
+  offset: 0, 0
+  index: -1
+image/shitou2
+  rotate: true
+  xy: 212, 13
+  size: 69, 58
+  orig: 69, 58
+  offset: 0, 0
+  index: -1
+image/shitou3
+  rotate: false
+  xy: 2, 2
+  size: 119, 80
+  orig: 119, 80
+  offset: 0, 0
+  index: -1

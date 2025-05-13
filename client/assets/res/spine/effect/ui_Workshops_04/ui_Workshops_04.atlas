@@ -1,0 +1,111 @@
+
+ui_Workshops_04.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_00000
+  rotate: false
+  xy: 1058, 1256
+  size: 526, 199
+  orig: 640, 640
+  offset: 66, 194
+  index: -1
+1_00001
+  rotate: false
+  xy: 2, 1185
+  size: 526, 199
+  orig: 640, 640
+  offset: 66, 194
+  index: -1
+1_00002
+  rotate: false
+  xy: 530, 1185
+  size: 526, 199
+  orig: 640, 640
+  offset: 66, 194
+  index: -1
+1_00003
+  rotate: false
+  xy: 1058, 1055
+  size: 526, 199
+  orig: 640, 640
+  offset: 66, 194
+  index: -1
+1_00004
+  rotate: false
+  xy: 2, 984
+  size: 526, 199
+  orig: 640, 640
+  offset: 66, 194
+  index: -1
+1_00005
+  rotate: false
+  xy: 2, 1386
+  size: 526, 198
+  orig: 640, 640
+  offset: 66, 194
+  index: -1
+1_00006
+  rotate: false
+  xy: 2, 1785
+  size: 526, 197
+  orig: 640, 640
+  offset: 66, 195
+  index: -1
+1_00007
+  rotate: false
+  xy: 530, 1785
+  size: 526, 197
+  orig: 640, 640
+  offset: 66, 195
+  index: -1
+1_00008
+  rotate: false
+  xy: 530, 1386
+  size: 526, 198
+  orig: 640, 640
+  offset: 66, 194
+  index: -1
+1_00009
+  rotate: false
+  xy: 1058, 1785
+  size: 525, 197
+  orig: 640, 640
+  offset: 66, 195
+  index: -1
+1_00010
+  rotate: false
+  xy: 2, 1586
+  size: 525, 197
+  orig: 640, 640
+  offset: 66, 195
+  index: -1
+1_00011
+  rotate: false
+  xy: 529, 1586
+  size: 525, 197
+  orig: 640, 640
+  offset: 66, 195
+  index: -1
+1_00012
+  rotate: false
+  xy: 1056, 1586
+  size: 525, 197
+  orig: 640, 640
+  offset: 66, 195
+  index: -1
+1_00013
+  rotate: true
+  xy: 1585, 1457
+  size: 525, 197
+  orig: 640, 640
+  offset: 66, 195
+  index: -1
+1_00014
+  rotate: true
+  xy: 1784, 1457
+  size: 525, 198
+  orig: 640, 640
+  offset: 66, 195
+  index: -1

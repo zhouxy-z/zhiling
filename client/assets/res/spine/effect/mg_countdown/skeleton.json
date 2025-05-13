@@ -1,0 +1,41 @@
+{
+"skeleton": {
+	"hash": "Xfo5DMrLagH0q493d3gfVYIYIM8",
+	"spine": "3.8.99",
+	"x": -231,
+	"y": -86,
+	"width": 463,
+	"height": 173,
+	"images": "",
+	"audio": ""
+},
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "image/daojishi2", "bone": "root", "attachment": "image/daojishi2" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"image/daojishi2": {
+				"image/daojishi2": { "x": 0.5, "y": 0.5, "width": 463, "height": 173 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {
+		"slots": {
+			"image/daojishi2": {
+				"color": [
+					{ "color": "ffffff00" },
+					{ "time": 0.5, "color": "ffffffff" },
+					{ "time": 1, "color": "ffffff00" }
+				]
+			}
+		}
+	}
+}
+}

@@ -1,0 +1,27 @@
+
+cj_013_seed.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/jidi1_seed
+  rotate: true
+  xy: 2, 2
+  size: 112, 126
+  orig: 1000, 1000
+  offset: 149, 156
+  index: -1
+image/jidi1_seed1
+  rotate: false
+  xy: 2, 116
+  size: 142, 137
+  orig: 1000, 1000
+  offset: 143, 146
+  index: -1
+image/lizi2
+  rotate: true
+  xy: 130, 47
+  size: 67, 56
+  orig: 68, 56
+  offset: 1, 0
+  index: -1

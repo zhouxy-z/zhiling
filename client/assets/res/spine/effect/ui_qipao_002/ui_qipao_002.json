@@ -1,0 +1,46 @@
+{
+"skeleton": {
+	"hash": "mOq5wPCcCKQNBRg4JD8Qqm2CkB8",
+	"spine": "3.8.99",
+	"x": -142.66,
+	"y": -4,
+	"width": 239,
+	"height": 122,
+	"images": "./images/",
+	"audio": ""
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "qipao", "parent": "root" }
+],
+"slots": [
+	{ "name": "qipao", "bone": "qipao", "attachment": "qipao" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"qipao": {
+				"qipao": { "x": -23.16, "y": 57, "width": 239, "height": 122 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {
+		"bones": {
+			"qipao": {
+				"scale": [
+					{ "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.2, "x": 0.5, "y": 0.5, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.4, "x": 1.2, "y": 1.2, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.6333, "x": 0.97, "y": 0.97, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.9333, "x": 1.02, "y": 1.02, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.3667, "curve": "stepped" },
+					{ "time": 6 }
+				]
+			}
+		}
+	}
+}
+}

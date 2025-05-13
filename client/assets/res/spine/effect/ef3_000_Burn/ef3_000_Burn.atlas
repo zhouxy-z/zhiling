@@ -1,0 +1,153 @@
+
+ef3_000_Burn.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_00000
+  rotate: false
+  xy: 183, 787
+  size: 179, 162
+  orig: 512, 512
+  offset: 152, 182
+  index: -1
+1_00001
+  rotate: false
+  xy: 2, 788
+  size: 179, 161
+  orig: 512, 512
+  offset: 152, 183
+  index: -1
+1_00002
+  rotate: true
+  xy: 706, 605
+  size: 178, 183
+  orig: 512, 512
+  offset: 151, 165
+  index: -1
+1_00003
+  rotate: true
+  xy: 2, 438
+  size: 178, 184
+  orig: 512, 512
+  offset: 151, 166
+  index: -1
+1_00004
+  rotate: true
+  xy: 756, 423
+  size: 180, 189
+  orig: 512, 512
+  offset: 151, 164
+  index: -1
+1_00005
+  rotate: true
+  xy: 370, 428
+  size: 179, 190
+  orig: 512, 512
+  offset: 152, 166
+  index: -1
+1_00006
+  rotate: true
+  xy: 562, 424
+  size: 179, 192
+  orig: 512, 512
+  offset: 152, 167
+  index: -1
+1_00007
+  rotate: true
+  xy: 186, 242
+  size: 184, 191
+  orig: 512, 512
+  offset: 150, 170
+  index: -1
+1_00008
+  rotate: true
+  xy: 379, 238
+  size: 184, 191
+  orig: 512, 512
+  offset: 150, 171
+  index: -1
+1_00009
+  rotate: true
+  xy: 572, 237
+  size: 184, 186
+  orig: 512, 512
+  offset: 150, 174
+  index: -1
+1_00010
+  rotate: false
+  xy: 760, 236
+  size: 185, 185
+  orig: 512, 512
+  offset: 150, 175
+  index: -1
+1_00011
+  rotate: false
+  xy: 2, 254
+  size: 182, 182
+  orig: 512, 512
+  offset: 153, 176
+  index: -1
+1_00012
+  rotate: false
+  xy: 188, 436
+  size: 180, 178
+  orig: 512, 512
+  offset: 152, 180
+  index: -1
+1_00013
+  rotate: false
+  xy: 524, 609
+  size: 180, 176
+  orig: 512, 512
+  offset: 152, 181
+  index: -1
+1_00014
+  rotate: false
+  xy: 364, 787
+  size: 174, 162
+  orig: 512, 512
+  offset: 157, 186
+  index: -1
+1_00015
+  rotate: false
+  xy: 540, 787
+  size: 175, 162
+  orig: 512, 512
+  offset: 156, 187
+  index: -1
+1_00016
+  rotate: false
+  xy: 352, 616
+  size: 170, 169
+  orig: 512, 512
+  offset: 162, 177
+  index: -1
+1_00017
+  rotate: false
+  xy: 181, 618
+  size: 169, 167
+  orig: 512, 512
+  offset: 162, 179
+  index: -1
+1_00018
+  rotate: false
+  xy: 2, 620
+  size: 177, 166
+  orig: 512, 512
+  offset: 154, 177
+  index: -1
+1_00019
+  rotate: false
+  xy: 717, 785
+  size: 177, 164
+  orig: 512, 512
+  offset: 154, 178
+  index: -1
+2_00000
+  rotate: true
+  xy: 2, 2
+  size: 238, 267
+  orig: 512, 512
+  offset: 143, 167
+  index: -1

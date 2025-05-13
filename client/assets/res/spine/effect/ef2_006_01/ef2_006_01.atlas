@@ -1,0 +1,48 @@
+
+ef2_006_01.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_00044
+  rotate: true
+  xy: 97, 23
+  size: 63, 73
+  orig: 512, 512
+  offset: 225, 222
+  index: -1
+1_00045
+  rotate: false
+  xy: 2, 2
+  size: 63, 68
+  orig: 512, 512
+  offset: 224, 222
+  index: -1
+1_00046
+  rotate: false
+  xy: 97, 88
+  size: 74, 80
+  orig: 512, 512
+  offset: 218, 216
+  index: -1
+1_00047
+  rotate: false
+  xy: 2, 151
+  size: 82, 95
+  orig: 512, 512
+  offset: 214, 207
+  index: -1
+1_00048
+  rotate: true
+  xy: 2, 72
+  size: 77, 93
+  orig: 512, 512
+  offset: 214, 208
+  index: -1
+1_00049
+  rotate: true
+  xy: 86, 170
+  size: 76, 86
+  orig: 512, 512
+  offset: 215, 214
+  index: -1

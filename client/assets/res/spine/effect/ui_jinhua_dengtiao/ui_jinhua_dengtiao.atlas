@@ -1,0 +1,41 @@
+
+ui_jinhua_dengtiao.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DG_00000
+  rotate: false
+  xy: 2, 385
+  size: 116, 116
+  orig: 128, 128
+  offset: 6, 6
+  index: -1
+DG_00001
+  rotate: false
+  xy: 2, 267
+  size: 116, 116
+  orig: 128, 128
+  offset: 6, 6
+  index: -1
+DG_00002
+  rotate: false
+  xy: 2, 149
+  size: 116, 116
+  orig: 128, 128
+  offset: 6, 6
+  index: -1
+DG_00003
+  rotate: false
+  xy: 2, 31
+  size: 116, 116
+  orig: 128, 128
+  offset: 6, 6
+  index: -1
+DJ
+  rotate: true
+  xy: 119, 2
+  size: 499, 15
+  orig: 499, 15
+  offset: 0, 0
+  index: -1

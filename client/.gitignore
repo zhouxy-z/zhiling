@@ -1,0 +1,31 @@
+
+#///////////////////////////
+# Cocos Creator 3D Project
+#///////////////////////////
+library/
+preview-template/
+temp/
+local/
+build/
+profiles/
+assets/scripts/debug/
+assets/scripts/protobuf/
+assets/res/debug/
+assets/test/
+assets/testUi/
+extensions/
+native
+#//////////////////////////
+# NPM
+#//////////////////////////
+node_modules/
+
+#//////////////////////////
+# VSCode
+#//////////////////////////
+.vscode/
+
+#//////////////////////////
+# WebStorm
+#//////////////////////////
+.idea/

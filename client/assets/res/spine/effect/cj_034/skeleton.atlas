@@ -1,0 +1,55 @@
+
+skeleton.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+doorlight
+  rotate: true
+  xy: 535, 516
+  size: 164, 145
+  orig: 282, 269
+  offset: 97, 9
+  index: -1
+wl_1
+  rotate: true
+  xy: 94, 101
+  size: 99, 86
+  orig: 158, 159
+  offset: 26, 30
+  index: -1
+wl_2
+  rotate: true
+  xy: 2, 99
+  size: 101, 90
+  orig: 166, 166
+  offset: 29, 31
+  index: -1
+wl_3
+  rotate: true
+  xy: 535, 194
+  size: 105, 90
+  orig: 145, 150
+  offset: 27, 20
+  index: -1
+wl_4
+  rotate: true
+  xy: 535, 410
+  size: 104, 103
+  orig: 139, 142
+  offset: 26, 15
+  index: -1
+wl_5
+  rotate: false
+  xy: 535, 301
+  size: 100, 107
+  orig: 162, 165
+  offset: 22, 24
+  index: -1
+wl_6
+  rotate: false
+  xy: 2, 202
+  size: 531, 478
+  orig: 601, 499
+  offset: 20, 8
+  index: -1

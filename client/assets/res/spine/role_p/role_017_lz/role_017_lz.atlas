@@ -1,0 +1,160 @@
+
+role_017_lz.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shadow
+  rotate: true
+  xy: 514, 139
+  size: 464, 86
+  orig: 464, 86
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 495, 15
+  size: 122, 105
+  orig: 122, 105
+  offset: 0, 0
+  index: -1
+e_L
+  rotate: false
+  xy: 785, 519
+  size: 86, 96
+  orig: 86, 96
+  offset: 0, 0
+  index: -1
+e_R
+  rotate: false
+  xy: 785, 55
+  size: 77, 92
+  orig: 77, 92
+  offset: 0, 0
+  index: -1
+erh_1
+  rotate: true
+  xy: 785, 20
+  size: 33, 70
+  orig: 34, 70
+  offset: 1, 0
+  index: -1
+erh_2
+  rotate: false
+  xy: 864, 78
+  size: 32, 69
+  orig: 32, 69
+  offset: 0, 0
+  index: -1
+fa_1
+  rotate: false
+  xy: 628, 617
+  size: 243, 135
+  orig: 243, 135
+  offset: 0, 0
+  index: -1
+fa_2
+  rotate: false
+  xy: 2, 276
+  size: 510, 327
+  orig: 510, 327
+  offset: 0, 0
+  index: -1
+fa_3
+  rotate: false
+  xy: 2, 605
+  size: 624, 410
+  orig: 624, 410
+  offset: 0, 0
+  index: -1
+fa_4
+  rotate: false
+  xy: 2, 65
+  size: 391, 209
+  orig: 391, 209
+  offset: 0, 0
+  index: -1
+guan
+  rotate: true
+  xy: 873, 543
+  size: 209, 127
+  orig: 209, 127
+  offset: 0, 0
+  index: -1
+h_L_sz2
+  rotate: true
+  xy: 809, 149
+  size: 78, 101
+  orig: 78, 101
+  offset: 0, 0
+  index: -1
+h_R_sz2
+  rotate: true
+  xy: 2, 2
+  size: 61, 84
+  orig: 61, 84
+  offset: 0, 0
+  index: -1
+huan
+  rotate: true
+  xy: 602, 6
+  size: 169, 181
+  orig: 169, 181
+  offset: 0, 0
+  index: -1
+hx_L_1.1
+  rotate: true
+  xy: 785, 392
+  size: 125, 164
+  orig: 125, 164
+  offset: 0, 0
+  index: -1
+hx_R_1.1
+  rotate: false
+  xy: 809, 229
+  size: 120, 161
+  orig: 120, 161
+  offset: 0, 0
+  index: -1
+ku_1
+  rotate: true
+  xy: 602, 177
+  size: 210, 205
+  orig: 211, 205
+  offset: 0, 0
+  index: -1
+ku_2
+  rotate: false
+  xy: 395, 91
+  size: 98, 183
+  orig: 98, 183
+  offset: 0, 0
+  index: -1
+ku_3
+  rotate: false
+  xy: 602, 389
+  size: 181, 214
+  orig: 181, 214
+  offset: 0, 0
+  index: -1
+ku_4
+  rotate: false
+  xy: 88, 8
+  size: 69, 55
+  orig: 69, 55
+  offset: 0, 0
+  index: -1
+m
+  rotate: false
+  xy: 1002, 734
+  size: 13, 18
+  orig: 13, 18
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 628, 754
+  size: 387, 261
+  orig: 387, 261
+  offset: 0, 0
+  index: -1

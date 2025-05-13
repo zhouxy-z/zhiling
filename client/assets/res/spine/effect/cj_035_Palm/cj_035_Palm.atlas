@@ -1,0 +1,48 @@
+
+cj_035_Palm.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SG
+  rotate: true
+  xy: 646, 696
+  size: 268, 318
+  orig: 269, 318
+  offset: 0, 0
+  index: -1
+Y1
+  rotate: false
+  xy: 167, 797
+  size: 219, 167
+  orig: 220, 167
+  offset: 1, 0
+  index: -1
+Y2
+  rotate: false
+  xy: 388, 756
+  size: 256, 208
+  orig: 256, 208
+  offset: 0, 0
+  index: -1
+Y3
+  rotate: false
+  xy: 2, 837
+  size: 163, 127
+  orig: 163, 127
+  offset: 0, 0
+  index: -1
+Y4
+  rotate: false
+  xy: 460, 399
+  size: 414, 295
+  orig: 416, 295
+  offset: 1, 0
+  index: -1
+YY
+  rotate: false
+  xy: 2, 463
+  size: 456, 291
+  orig: 456, 298
+  offset: 0, 7
+  index: -1

@@ -1,0 +1,62 @@
+
+mg_zystage.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/di
+  rotate: false
+  xy: 2, 60
+  size: 1080, 370
+  orig: 1080, 370
+  offset: 0, 0
+  index: -1
+image/hw1
+  rotate: false
+  xy: 1148, 120
+  size: 268, 80
+  orig: 270, 82
+  offset: 1, 2
+  index: -1
+image/hw2
+  rotate: true
+  xy: 1418, 101
+  size: 99, 98
+  orig: 100, 100
+  offset: 1, 1
+  index: -1
+image/hw3
+  rotate: false
+  xy: 1148, 47
+  size: 71, 71
+  orig: 74, 74
+  offset: 2, 1
+  index: -1
+image/shw
+  rotate: false
+  xy: 2, 16
+  size: 1144, 42
+  orig: 1144, 42
+  offset: 0, 0
+  index: -1
+image/第一回合
+  rotate: false
+  xy: 1148, 317
+  size: 428, 113
+  orig: 439, 119
+  offset: 5, 3
+  index: -1
+image/第三回合
+  rotate: true
+  xy: 1578, 2
+  size: 428, 113
+  orig: 439, 119
+  offset: 5, 3
+  index: -1
+image/第二回合
+  rotate: false
+  xy: 1084, 202
+  size: 428, 113
+  orig: 439, 119
+  offset: 5, 3
+  index: -1

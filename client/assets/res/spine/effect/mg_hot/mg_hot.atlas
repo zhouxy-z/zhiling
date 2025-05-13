@@ -1,0 +1,125 @@
+
+mg_hot.png
+size: 906,144
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/fire05_1
+  rotate: true
+  xy: 189, 79
+  size: 63, 95
+  orig: 81, 133
+  offset: 14, 5
+  index: -1
+image/fire05_10
+  rotate: true
+  xy: 429, 5
+  size: 70, 106
+  orig: 81, 133
+  offset: 6, 6
+  index: -1
+image/fire05_11
+  rotate: true
+  xy: 207, 9
+  size: 68, 107
+  orig: 81, 133
+  offset: 9, 6
+  index: -1
+image/fire05_12
+  rotate: true
+  xy: 316, 9
+  size: 68, 111
+  orig: 81, 133
+  offset: 9, 6
+  index: -1
+image/fire05_13
+  rotate: true
+  xy: 113, 10
+  size: 67, 92
+  orig: 81, 133
+  offset: 11, 6
+  index: -1
+image/fire05_14
+  rotate: true
+  xy: 719, 77
+  size: 65, 93
+  orig: 81, 133
+  offset: 10, 5
+  index: -1
+image/fire05_15
+  rotate: true
+  xy: 814, 77
+  size: 65, 90
+  orig: 81, 133
+  offset: 10, 6
+  index: -1
+image/fire05_16
+  rotate: true
+  xy: 400, 79
+  size: 63, 94
+  orig: 81, 133
+  offset: 13, 6
+  index: -1
+image/fire05_2
+  rotate: true
+  xy: 87, 80
+  size: 62, 100
+  orig: 81, 133
+  offset: 12, 4
+  index: -1
+image/fire05_3
+  rotate: true
+  xy: 496, 77
+  size: 65, 105
+  orig: 81, 133
+  offset: 11, 4
+  index: -1
+image/fire05_4
+  rotate: true
+  xy: 2, 12
+  size: 66, 109
+  orig: 81, 133
+  offset: 10, 6
+  index: -1
+image/fire05_5
+  rotate: true
+  xy: 286, 79
+  size: 63, 112
+  orig: 81, 133
+  offset: 11, 6
+  index: -1
+image/fire05_6
+  rotate: true
+  xy: 603, 77
+  size: 65, 114
+  orig: 81, 133
+  offset: 9, 6
+  index: -1
+image/fire05_7
+  rotate: true
+  xy: 537, 3
+  size: 72, 118
+  orig: 81, 133
+  offset: 5, 6
+  index: -1
+image/fire05_8
+  rotate: true
+  xy: 657, 3
+  size: 72, 122
+  orig: 81, 133
+  offset: 4, 7
+  index: -1
+image/fire05_9
+  rotate: true
+  xy: 781, 2
+  size: 73, 123
+  orig: 81, 133
+  offset: 4, 6
+  index: -1
+image/hot5
+  rotate: false
+  xy: 2, 97
+  size: 83, 45
+  orig: 91, 53
+  offset: 3, 5
+  index: -1

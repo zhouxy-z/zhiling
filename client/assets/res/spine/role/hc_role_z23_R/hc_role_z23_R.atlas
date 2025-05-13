@@ -1,0 +1,125 @@
+
+hc_role_z23_R.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shadow
+  rotate: true
+  xy: 232, 158
+  size: 91, 17
+  orig: 93, 17
+  offset: 1, 0
+  index: -1
+body
+  rotate: false
+  xy: 160, 184
+  size: 54, 32
+  orig: 54, 32
+  offset: 0, 0
+  index: -1
+body_back
+  rotate: false
+  xy: 2, 155
+  size: 53, 32
+  orig: 53, 32
+  offset: 0, 0
+  index: -1
+d
+  rotate: false
+  xy: 2, 189
+  size: 77, 60
+  orig: 77, 60
+  offset: 0, 0
+  index: -1
+d_back
+  rotate: false
+  xy: 81, 189
+  size: 77, 60
+  orig: 77, 60
+  offset: 0, 0
+  index: -1
+dead
+  rotate: true
+  xy: 216, 172
+  size: 21, 10
+  orig: 21, 10
+  offset: 0, 0
+  index: -1
+doupeng
+  rotate: false
+  xy: 57, 167
+  size: 67, 20
+  orig: 67, 20
+  offset: 0, 0
+  index: -1
+e
+  rotate: true
+  xy: 216, 195
+  size: 21, 11
+  orig: 21, 11
+  offset: 0, 0
+  index: -1
+h_l
+  rotate: false
+  xy: 181, 171
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+h_l_back
+  rotate: false
+  xy: 126, 169
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+h_r
+  rotate: false
+  xy: 143, 169
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+h_r_back
+  rotate: false
+  xy: 196, 171
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+jianbang1
+  rotate: false
+  xy: 160, 161
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+jianbang2
+  rotate: false
+  xy: 210, 160
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+m
+  rotate: false
+  xy: 126, 182
+  size: 32, 5
+  orig: 32, 5
+  offset: 0, 0
+  index: -1
+tou_r
+  rotate: false
+  xy: 160, 218
+  size: 70, 31
+  orig: 70, 31
+  offset: 0, 0
+  index: -1
+win
+  rotate: false
+  xy: 160, 173
+  size: 19, 9
+  orig: 19, 9
+  offset: 0, 0
+  index: -1

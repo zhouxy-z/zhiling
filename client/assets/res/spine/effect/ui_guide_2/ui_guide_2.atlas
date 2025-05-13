@@ -1,0 +1,27 @@
+
+ui_guide_2.png
+size: 64,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/xin
+  rotate: false
+  xy: 2, 23
+  size: 35, 29
+  orig: 40, 34
+  offset: 3, 3
+  index: -1
+image/xin1
+  rotate: false
+  xy: 39, 23
+  size: 7, 29
+  orig: 40, 34
+  offset: 17, 3
+  index: -1
+image/xinyy
+  rotate: true
+  xy: 48, 26
+  size: 26, 4
+  orig: 26, 4
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+ef2_015_03.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_00000
+  rotate: true
+  xy: 321, 209
+  size: 107, 97
+  orig: 256, 256
+  offset: 75, 84
+  index: -1
+1_00001
+  rotate: false
+  xy: 175, 21
+  size: 150, 134
+  orig: 256, 256
+  offset: 53, 67
+  index: -1
+1_00002
+  rotate: true
+  xy: 176, 157
+  size: 159, 143
+  orig: 256, 256
+  offset: 49, 63
+  index: -1
+1_00003
+  rotate: true
+  xy: 176, 318
+  size: 164, 151
+  orig: 256, 256
+  offset: 48, 59
+  index: -1
+1_00004
+  rotate: false
+  xy: 2, 322
+  size: 172, 160
+  orig: 256, 256
+  offset: 45, 55
+  index: -1
+1_00005
+  rotate: false
+  xy: 2, 160
+  size: 172, 160
+  orig: 256, 256
+  offset: 45, 55
+  index: -1
+1_00006
+  rotate: false
+  xy: 2, 2
+  size: 171, 156
+  orig: 256, 256
+  offset: 46, 59
+  index: -1
+1_00007
+  rotate: false
+  xy: 327, 155
+  size: 42, 52
+  orig: 256, 256
+  offset: 84, 163
+  index: -1

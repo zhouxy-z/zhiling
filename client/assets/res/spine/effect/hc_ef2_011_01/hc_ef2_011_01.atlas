@@ -1,0 +1,34 @@
+
+hc_ef2_011_01.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_00000
+  rotate: false
+  xy: 2, 147
+  size: 176, 206
+  orig: 512, 512
+  offset: 174, 150
+  index: -1
+1_00001
+  rotate: false
+  xy: 2, 2
+  size: 183, 143
+  orig: 512, 512
+  offset: 168, 182
+  index: -1
+1_00002
+  rotate: true
+  xy: 180, 211
+  size: 142, 155
+  orig: 512, 512
+  offset: 186, 179
+  index: -1
+1_00003
+  rotate: false
+  xy: 187, 77
+  size: 130, 132
+  orig: 512, 512
+  offset: 185, 190
+  index: -1

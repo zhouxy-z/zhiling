@@ -1,0 +1,237 @@
+
+ui_TreasureChest_02.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_00000
+  rotate: true
+  xy: 2, 265
+  size: 261, 153
+  orig: 261, 243
+  offset: 0, 63
+  index: -1
+1_00001
+  rotate: false
+  xy: 737, 377
+  size: 261, 152
+  orig: 261, 243
+  offset: 0, 63
+  index: -1
+1_00002
+  rotate: true
+  xy: 2, 2
+  size: 261, 151
+  orig: 261, 243
+  offset: 0, 63
+  index: -1
+1_00003
+  rotate: false
+  xy: 1000, 380
+  size: 261, 149
+  orig: 261, 243
+  offset: 0, 63
+  index: -1
+1_00004
+  rotate: true
+  xy: 308, 2
+  size: 261, 150
+  orig: 261, 243
+  offset: 0, 62
+  index: -1
+1_00005
+  rotate: true
+  xy: 155, 2
+  size: 261, 151
+  orig: 261, 243
+  offset: 0, 62
+  index: -1
+1_00006
+  rotate: true
+  xy: 157, 265
+  size: 261, 153
+  orig: 261, 243
+  offset: 0, 62
+  index: -1
+1_00007
+  rotate: true
+  xy: 751, 531
+  size: 261, 156
+  orig: 261, 243
+  offset: 0, 62
+  index: -1
+1_00008
+  rotate: true
+  xy: 163, 528
+  size: 261, 158
+  orig: 261, 243
+  offset: 0, 62
+  index: -1
+1_00009
+  rotate: false
+  xy: 687, 1057
+  size: 261, 159
+  orig: 261, 243
+  offset: 0, 62
+  index: -1
+1_00010
+  rotate: true
+  xy: 525, 1279
+  size: 261, 160
+  orig: 261, 243
+  offset: 0, 62
+  index: -1
+1_00011
+  rotate: true
+  xy: 525, 1016
+  size: 261, 160
+  orig: 261, 243
+  offset: 0, 61
+  index: -1
+1_00012
+  rotate: true
+  xy: 2, 791
+  size: 261, 160
+  orig: 261, 243
+  offset: 0, 61
+  index: -1
+1_00013
+  rotate: true
+  xy: 164, 791
+  size: 261, 160
+  orig: 261, 243
+  offset: 0, 61
+  index: -1
+1_00014
+  rotate: false
+  xy: 488, 693
+  size: 261, 159
+  orig: 261, 243
+  offset: 0, 61
+  index: -1
+1_00015
+  rotate: true
+  xy: 323, 528
+  size: 261, 157
+  orig: 261, 243
+  offset: 0, 62
+  index: -1
+1_00016
+  rotate: true
+  xy: 2, 528
+  size: 261, 159
+  orig: 261, 243
+  offset: 0, 61
+  index: -1
+1_00017
+  rotate: true
+  xy: 326, 791
+  size: 261, 160
+  orig: 261, 243
+  offset: 0, 60
+  index: -1
+1_00018
+  rotate: false
+  xy: 488, 854
+  size: 261, 160
+  orig: 261, 243
+  offset: 0, 60
+  index: -1
+1_00019
+  rotate: false
+  xy: 687, 1380
+  size: 261, 160
+  orig: 261, 243
+  offset: 0, 61
+  index: -1
+1_00020
+  rotate: false
+  xy: 687, 1218
+  size: 261, 160
+  orig: 261, 243
+  offset: 0, 61
+  index: -1
+1_00021
+  rotate: true
+  xy: 751, 794
+  size: 261, 157
+  orig: 261, 243
+  offset: 0, 62
+  index: -1
+1_00022
+  rotate: true
+  xy: 482, 430
+  size: 261, 155
+  orig: 261, 243
+  offset: 0, 62
+  index: -1
+1_00023
+  rotate: true
+  xy: 312, 265
+  size: 261, 153
+  orig: 261, 243
+  offset: 0, 62
+  index: -1
+1_00024
+  rotate: true
+  xy: 467, 167
+  size: 261, 152
+  orig: 261, 243
+  offset: 0, 62
+  index: -1
+1_00025
+  rotate: true
+  xy: 909, 531
+  size: 261, 153
+  orig: 261, 243
+  offset: 0, 61
+  index: -1
+1_00026
+  rotate: false
+  xy: 950, 1387
+  size: 261, 153
+  orig: 261, 243
+  offset: 0, 61
+  index: -1
+1_00027
+  rotate: false
+  xy: 950, 1232
+  size: 261, 153
+  orig: 261, 243
+  offset: 0, 61
+  index: -1
+1_00028
+  rotate: false
+  xy: 950, 1077
+  size: 261, 153
+  orig: 261, 243
+  offset: 0, 61
+  index: -1
+1_00029
+  rotate: false
+  xy: 950, 922
+  size: 261, 153
+  orig: 261, 243
+  offset: 0, 62
+  index: -1
+2_00000
+  rotate: false
+  xy: 639, 583
+  size: 100, 108
+  orig: 128, 128
+  offset: 21, 15
+  index: -1
+3_00000
+  rotate: false
+  xy: 639, 453
+  size: 96, 128
+  orig: 128, 128
+  offset: 16, 0
+  index: -1
+bx
+  rotate: false
+  xy: 2, 1054
+  size: 521, 486
+  orig: 521, 486
+  offset: 0, 0
+  index: -1

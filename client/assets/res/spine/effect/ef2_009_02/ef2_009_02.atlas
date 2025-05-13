@@ -1,0 +1,139 @@
+
+ef2_009_02.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_00021
+  rotate: false
+  xy: 2, 1090
+  size: 459, 349
+  orig: 2048, 2048
+  offset: 715, 777
+  index: -1
+1_00022
+  rotate: false
+  xy: 463, 1042
+  size: 508, 372
+  orig: 2048, 2048
+  offset: 705, 777
+  index: -1
+1_00023
+  rotate: false
+  xy: 973, 1014
+  size: 487, 392
+  orig: 2048, 2048
+  offset: 705, 760
+  index: -1
+1_00024
+  rotate: false
+  xy: 1487, 586
+  size: 487, 423
+  orig: 2048, 2048
+  offset: 706, 739
+  index: -1
+1_00025
+  rotate: false
+  xy: 499, 598
+  size: 487, 414
+  orig: 2048, 2048
+  offset: 703, 739
+  index: -1
+1_00026
+  rotate: false
+  xy: 2, 638
+  size: 495, 402
+  orig: 2048, 2048
+  offset: 688, 740
+  index: -1
+1_00027
+  rotate: false
+  xy: 1462, 1011
+  size: 472, 395
+  orig: 2048, 2048
+  offset: 674, 742
+  index: -1
+1_00028
+  rotate: false
+  xy: 988, 595
+  size: 497, 414
+  orig: 2048, 2048
+  offset: 665, 720
+  index: -1
+1_00029
+  rotate: false
+  xy: 1089, 142
+  size: 520, 442
+  orig: 2048, 2048
+  offset: 658, 698
+  index: -1
+1_00030
+  rotate: false
+  xy: 552, 160
+  size: 535, 433
+  orig: 2048, 2048
+  offset: 656, 680
+  index: -1
+1_00031
+  rotate: false
+  xy: 2, 173
+  size: 548, 423
+  orig: 2048, 2048
+  offset: 655, 695
+  index: -1
+1_00032
+  rotate: false
+  xy: 1135, 1408
+  size: 561, 300
+  orig: 2048, 2048
+  offset: 651, 821
+  index: -1
+1_00033
+  rotate: false
+  xy: 567, 1416
+  size: 566, 293
+  orig: 2048, 2048
+  offset: 650, 830
+  index: -1
+1_00034
+  rotate: false
+  xy: 2, 1441
+  size: 563, 282
+  orig: 2048, 2048
+  offset: 649, 845
+  index: -1
+1_00035
+  rotate: false
+  xy: 1087, 1711
+  size: 448, 271
+  orig: 2048, 2048
+  offset: 653, 858
+  index: -1
+1_00036
+  rotate: false
+  xy: 1537, 1710
+  size: 445, 272
+  orig: 2048, 2048
+  offset: 655, 861
+  index: -1
+1_00037
+  rotate: false
+  xy: 659, 1716
+  size: 426, 266
+  orig: 2048, 2048
+  offset: 670, 868
+  index: -1
+1_00038
+  rotate: false
+  xy: 253, 1725
+  size: 404, 257
+  orig: 2048, 2048
+  offset: 684, 877
+  index: -1
+1_00039
+  rotate: true
+  xy: 2, 1918
+  size: 64, 249
+  orig: 2048, 2048
+  offset: 1015, 887
+  index: -1

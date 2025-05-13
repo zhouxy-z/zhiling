@@ -1,0 +1,76 @@
+
+ef3_b1009_01.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Buff_00000
+  rotate: false
+  xy: 2, 350
+  size: 248, 152
+  orig: 256, 256
+  offset: 4, 52
+  index: -1
+SGD_00000
+  rotate: false
+  xy: 244, 150
+  size: 91, 85
+  orig: 128, 128
+  offset: 18, 22
+  index: -1
+SG_00000
+  rotate: false
+  xy: 404, 283
+  size: 82, 219
+  orig: 128, 256
+  offset: 23, 0
+  index: -1
+music_1
+  rotate: true
+  xy: 252, 373
+  size: 129, 150
+  orig: 132, 155
+  offset: 2, 3
+  index: -1
+music_2
+  rotate: true
+  xy: 389, 169
+  size: 112, 113
+  orig: 114, 115
+  offset: 1, 1
+  index: -1
+music_3
+  rotate: true
+  xy: 252, 237
+  size: 134, 135
+  orig: 136, 137
+  offset: 1, 1
+  index: -1
+star_00000
+  rotate: true
+  xy: 2, 249
+  size: 99, 119
+  orig: 256, 256
+  offset: 78, 71
+  index: -1
+star_00001
+  rotate: true
+  xy: 123, 148
+  size: 99, 119
+  orig: 256, 256
+  offset: 78, 71
+  index: -1
+star_00002
+  rotate: true
+  xy: 2, 148
+  size: 99, 119
+  orig: 256, 256
+  offset: 78, 71
+  index: -1
+star_00003
+  rotate: true
+  xy: 123, 249
+  size: 99, 119
+  orig: 256, 256
+  offset: 78, 71
+  index: -1

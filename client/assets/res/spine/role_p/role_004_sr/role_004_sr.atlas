@@ -1,0 +1,118 @@
+
+role_004_sr.png
+size: 678,678
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bird_1
+  rotate: true
+  xy: 334, 99
+  size: 107, 95
+  orig: 109, 97
+  offset: 1, 1
+  index: -1
+Body
+  rotate: true
+  xy: 2, 99
+  size: 206, 330
+  orig: 206, 330
+  offset: 0, 0
+  index: -1
+E_1
+  rotate: true
+  xy: 2, 2
+  size: 17, 18
+  orig: 20, 20
+  offset: 2, 1
+  index: -1
+Leaf_1
+  rotate: false
+  xy: 2, 307
+  size: 508, 369
+  orig: 508, 369
+  offset: 0, 0
+  index: -1
+Leaf_2
+  rotate: false
+  xy: 431, 152
+  size: 75, 54
+  orig: 75, 54
+  offset: 0, 0
+  index: -1
+Leaf_4
+  rotate: true
+  xy: 512, 98
+  size: 280, 105
+  orig: 280, 105
+  offset: 0, 0
+  index: -1
+Leaf_5
+  rotate: true
+  xy: 512, 380
+  size: 296, 146
+  orig: 296, 146
+  offset: 0, 0
+  index: -1
+Leaf_6
+  rotate: true
+  xy: 619, 135
+  size: 243, 57
+  orig: 243, 57
+  offset: 0, 0
+  index: -1
+Lh
+  rotate: true
+  xy: 334, 208
+  size: 97, 112
+  orig: 97, 112
+  offset: 0, 0
+  index: -1
+Lh_sz
+  rotate: false
+  xy: 356, 32
+  size: 105, 64
+  orig: 105, 64
+  offset: 0, 0
+  index: -1
+M_2
+  rotate: true
+  xy: 619, 21
+  size: 112, 54
+  orig: 114, 56
+  offset: 1, 1
+  index: -1
+Rf
+  rotate: false
+  xy: 463, 16
+  size: 71, 80
+  orig: 71, 80
+  offset: 0, 0
+  index: -1
+Rh_yz3
+  rotate: true
+  xy: 249, 20
+  size: 76, 105
+  orig: 76, 105
+  offset: 0, 0
+  index: -1
+Rh_yz4
+  rotate: true
+  xy: 536, 33
+  size: 63, 66
+  orig: 65, 68
+  offset: 1, 1
+  index: -1
+Wo
+  rotate: false
+  xy: 2, 21
+  size: 245, 75
+  orig: 247, 77
+  offset: 1, 1
+  index: -1
+f_2
+  rotate: true
+  xy: 431, 109
+  size: 41, 54
+  orig: 44, 57
+  offset: 1, 2
+  index: -1

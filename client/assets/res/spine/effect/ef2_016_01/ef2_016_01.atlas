@@ -1,0 +1,90 @@
+
+ef2_016_01.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_00000
+  rotate: false
+  xy: 388, 429
+  size: 64, 64
+  orig: 256, 256
+  offset: 96, 96
+  index: -1
+1_00001
+  rotate: false
+  xy: 2, 361
+  size: 108, 89
+  orig: 256, 256
+  offset: 80, 86
+  index: -1
+1_00002
+  rotate: true
+  xy: 370, 308
+  size: 119, 123
+  orig: 256, 256
+  offset: 71, 66
+  index: -1
+1_00003
+  rotate: true
+  xy: 2, 218
+  size: 128, 146
+  orig: 256, 256
+  offset: 64, 53
+  index: -1
+1_00004
+  rotate: true
+  xy: 303, 176
+  size: 130, 153
+  orig: 256, 256
+  offset: 63, 52
+  index: -1
+1_00005
+  rotate: true
+  xy: 150, 193
+  size: 128, 151
+  orig: 256, 256
+  offset: 65, 53
+  index: -1
+1_00006
+  rotate: true
+  xy: 235, 323
+  size: 117, 133
+  orig: 256, 256
+  offset: 71, 63
+  index: -1
+1_00007
+  rotate: false
+  xy: 112, 348
+  size: 121, 102
+  orig: 256, 256
+  offset: 69, 77
+  index: -1
+1_00008
+  rotate: true
+  xy: 294, 442
+  size: 51, 92
+  orig: 256, 256
+  offset: 100, 87
+  index: -1
+1_00009
+  rotate: true
+  xy: 96, 452
+  size: 41, 97
+  orig: 256, 256
+  offset: 107, 84
+  index: -1
+1_00010
+  rotate: true
+  xy: 195, 452
+  size: 41, 97
+  orig: 256, 256
+  offset: 107, 84
+  index: -1
+1_00011
+  rotate: true
+  xy: 2, 455
+  size: 38, 92
+  orig: 256, 256
+  offset: 106, 86
+  index: -1

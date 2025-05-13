@@ -1,0 +1,73 @@
+{
+"skeleton": {
+	"hash": "5bvr5nvoPGYAWhdkp5umjxLuIyA",
+	"spine": "3.8.99",
+	"x": -540,
+	"y": -540,
+	"width": 1080,
+	"height": 1080,
+	"images": "./images_shanjian/",
+	"audio": ""
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "jg", "parent": "root", "scaleX": 2, "scaleY": 2 }
+],
+"slots": [
+	{ "name": "0_00000", "bone": "root", "attachment": "0_00000" },
+	{ "name": "1", "bone": "jg", "attachment": "1_00014", "blend": "screen" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"1": {
+				"1_00000": { "width": 540, "height": 540 },
+				"1_00001": { "width": 540, "height": 540 },
+				"1_00002": { "width": 540, "height": 540 },
+				"1_00003": { "width": 540, "height": 540 },
+				"1_00004": { "width": 540, "height": 540 },
+				"1_00005": { "width": 540, "height": 540 },
+				"1_00006": { "width": 540, "height": 540 },
+				"1_00007": { "width": 540, "height": 540 },
+				"1_00008": { "width": 540, "height": 540 },
+				"1_00009": { "width": 540, "height": 540 },
+				"1_00010": { "width": 540, "height": 540 },
+				"1_00011": { "width": 540, "height": 540 },
+				"1_00012": { "width": 540, "height": 540 },
+				"1_00013": { "width": 540, "height": 540 },
+				"1_00014": { "width": 540, "height": 540 }
+			},
+			"0_00000": {
+				"0_00000": { "width": 1080, "height": 1080 }
+			}
+		}
+	}
+],
+"animations": {
+	"Loop": {
+		"slots": {
+			"1": {
+				"attachment": [
+					{ "name": "1_00000" },
+					{ "time": 0.0667, "name": "1_00001" },
+					{ "time": 0.1333, "name": "1_00002" },
+					{ "time": 0.2, "name": "1_00003" },
+					{ "time": 0.2667, "name": "1_00004" },
+					{ "time": 0.3333, "name": "1_00005" },
+					{ "time": 0.4, "name": "1_00006" },
+					{ "time": 0.4667, "name": "1_00007" },
+					{ "time": 0.5333, "name": "1_00008" },
+					{ "time": 0.6, "name": "1_00009" },
+					{ "time": 0.6667, "name": "1_00010" },
+					{ "time": 0.7333, "name": "1_00011" },
+					{ "time": 0.8, "name": "1_00012" },
+					{ "time": 0.8667, "name": "1_00013" },
+					{ "time": 0.9333, "name": "1_00014" },
+					{ "time": 1, "name": "1_00000" }
+				]
+			}
+		}
+	}
+}
+}

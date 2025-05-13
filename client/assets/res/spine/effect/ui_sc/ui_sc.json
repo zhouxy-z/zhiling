@@ -1,0 +1,61 @@
+{
+"skeleton": {
+	"hash": "+OXCKIS34yVumuyM5zlWEcw0La0",
+	"spine": "3.8.99",
+	"x": -75,
+	"y": -80,
+	"width": 150,
+	"height": 160,
+	"images": "",
+	"audio": ""
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "ty", "parent": "root", "y": -38.41 }
+],
+"slots": [
+	{ "name": "image/sc_3", "bone": "ty", "attachment": "image/sc_3" },
+	{ "name": "image/sc_2", "bone": "ty", "attachment": "image/sc_2", "blend": "additive" },
+	{ "name": "image/sc_1", "bone": "root", "attachment": "image/sc_1" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"image/sc_1": {
+				"image/sc_1": { "x": 0.5, "y": -48.5, "width": 75, "height": 45 }
+			},
+			"image/sc_2": {
+				"image/sc_2": { "y": 38.41, "width": 150, "height": 160 }
+			},
+			"image/sc_3": {
+				"image/sc_3": { "y": 38.41, "width": 150, "height": 160 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {
+		"slots": {
+			"image/sc_2": {
+				"color": [
+					{ "color": "ffffffff", "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.6667, "color": "ffffff00", "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.3333, "color": "ffffffff" }
+				]
+			}
+		},
+		"bones": {
+			"ty": {
+				"scale": [
+					{ "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.3333, "y": 1.03, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.6667, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1, "y": 1.03, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.3333 }
+				]
+			}
+		}
+	}
+}
+}

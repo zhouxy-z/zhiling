@@ -1,0 +1,27 @@
+
+ui_changescene.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_00000
+  rotate: true
+  xy: 2, 894
+  size: 52, 944
+  orig: 102, 960
+  offset: 25, 8
+  index: -1
+1_00001
+  rotate: true
+  xy: 2, 790
+  size: 102, 944
+  orig: 102, 960
+  offset: 0, 8
+  index: -1
+xx
+  rotate: false
+  xy: 2, 660
+  size: 129, 128
+  orig: 139, 137
+  offset: 5, 4
+  index: -1

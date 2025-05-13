@@ -1,0 +1,132 @@
+
+hc_ef4_006_01.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_00000
+  rotate: false
+  xy: 2, 472
+  size: 49, 17
+  orig: 51, 51
+  offset: 1, 17
+  index: -1
+cj2_055
+  rotate: false
+  xy: 53, 411
+  size: 78, 78
+  orig: 80, 78
+  offset: 2, 0
+  index: -1
+cj2_056
+  rotate: true
+  xy: 237, 401
+  size: 88, 95
+  orig: 88, 95
+  offset: 0, 0
+  index: -1
+cj2_057
+  rotate: true
+  xy: 108, 206
+  size: 102, 105
+  orig: 102, 105
+  offset: 0, 0
+  index: -1
+cj2_058
+  rotate: true
+  xy: 2, 313
+  size: 96, 104
+  orig: 96, 105
+  offset: 0, 1
+  index: -1
+cj2_059
+  rotate: true
+  xy: 377, 298
+  size: 98, 102
+  orig: 98, 102
+  offset: 0, 0
+  index: -1
+cj2_060
+  rotate: false
+  xy: 2, 213
+  size: 104, 98
+  orig: 105, 98
+  offset: 0, 0
+  index: -1
+cj2_061
+  rotate: false
+  xy: 334, 398
+  size: 102, 91
+  orig: 102, 91
+  offset: 0, 0
+  index: -1
+cj2_062
+  rotate: false
+  xy: 133, 409
+  size: 102, 80
+  orig: 103, 80
+  offset: 0, 0
+  index: -1
+fire_1
+  rotate: true
+  xy: 108, 310
+  size: 97, 126
+  orig: 115, 166
+  offset: 10, 0
+  index: -1
+fire_2
+  rotate: true
+  xy: 236, 299
+  size: 97, 139
+  orig: 115, 166
+  offset: 10, 0
+  index: -1
+fire_3
+  rotate: true
+  xy: 215, 200
+  size: 97, 135
+  orig: 115, 166
+  offset: 10, 0
+  index: -1
+fire_4
+  rotate: true
+  xy: 352, 199
+  size: 97, 135
+  orig: 115, 166
+  offset: 10, 0
+  index: -1
+fire_5
+  rotate: true
+  xy: 2, 107
+  size: 97, 137
+  orig: 115, 166
+  offset: 10, 0
+  index: -1
+fire_6
+  rotate: true
+  xy: 141, 101
+  size: 97, 135
+  orig: 115, 166
+  offset: 10, 0
+  index: -1
+fire_7
+  rotate: true
+  xy: 278, 100
+  size: 97, 135
+  orig: 115, 166
+  offset: 10, 0
+  index: -1
+fire_8
+  rotate: true
+  xy: 2, 8
+  size: 97, 135
+  orig: 115, 166
+  offset: 10, 0
+  index: -1
+fire_9
+  rotate: true
+  xy: 139, 2
+  size: 97, 135
+  orig: 115, 166
+  offset: 10, 0
+  index: -1

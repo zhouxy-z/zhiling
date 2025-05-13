@@ -1,0 +1,62 @@
+
+hc_ef2_015_03.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_00000
+  rotate: false
+  xy: 90, 90
+  size: 63, 66
+  orig: 128, 128
+  offset: 37, 42
+  index: -1
+1_00001
+  rotate: false
+  xy: 2, 343
+  size: 103, 97
+  orig: 128, 128
+  offset: 15, 25
+  index: -1
+1_00002
+  rotate: false
+  xy: 2, 245
+  size: 102, 96
+  orig: 128, 128
+  offset: 8, 24
+  index: -1
+1_00003
+  rotate: false
+  xy: 2, 2
+  size: 86, 78
+  orig: 128, 128
+  offset: 22, 29
+  index: -1
+1_00004
+  rotate: false
+  xy: 2, 163
+  size: 86, 80
+  orig: 128, 128
+  offset: 22, 27
+  index: -1
+1_00005
+  rotate: false
+  xy: 2, 82
+  size: 86, 79
+  orig: 128, 128
+  offset: 22, 28
+  index: -1
+1_00006
+  rotate: true
+  xy: 90, 158
+  size: 85, 77
+  orig: 128, 128
+  offset: 23, 30
+  index: -1
+1_00007
+  rotate: false
+  xy: 90, 62
+  size: 21, 26
+  orig: 128, 128
+  offset: 42, 81
+  index: -1

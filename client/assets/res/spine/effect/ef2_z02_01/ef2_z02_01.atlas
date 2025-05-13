@@ -1,0 +1,62 @@
+
+ef2_z02_01.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_00000
+  rotate: false
+  xy: 2, 185
+  size: 86, 118
+  orig: 256, 256
+  offset: 85, 69
+  index: -1
+1_00001
+  rotate: false
+  xy: 189, 141
+  size: 78, 72
+  orig: 256, 256
+  offset: 85, 92
+  index: -1
+1_00002
+  rotate: true
+  xy: 98, 116
+  size: 95, 89
+  orig: 256, 256
+  offset: 77, 86
+  index: -1
+1_00003
+  rotate: false
+  xy: 98, 29
+  size: 92, 85
+  orig: 256, 256
+  offset: 76, 90
+  index: -1
+1_00004
+  rotate: false
+  xy: 2, 92
+  size: 94, 91
+  orig: 256, 256
+  offset: 78, 84
+  index: -1
+1_00005
+  rotate: false
+  xy: 2, 2
+  size: 84, 88
+  orig: 256, 256
+  offset: 90, 82
+  index: -1
+1_00006
+  rotate: true
+  xy: 185, 215
+  size: 88, 90
+  orig: 256, 256
+  offset: 89, 81
+  index: -1
+1_00007
+  rotate: true
+  xy: 90, 213
+  size: 90, 93
+  orig: 256, 256
+  offset: 88, 79
+  index: -1

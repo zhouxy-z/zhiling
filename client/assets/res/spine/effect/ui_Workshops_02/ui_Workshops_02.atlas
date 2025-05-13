@@ -1,0 +1,55 @@
+
+ui_Workshops_02.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_00000
+  rotate: false
+  xy: 2, 627
+  size: 316, 376
+  orig: 600, 600
+  offset: 142, 112
+  index: -1
+1_00001
+  rotate: true
+  xy: 2, 280
+  size: 345, 326
+  orig: 600, 600
+  offset: 134, 137
+  index: -1
+1_00002
+  rotate: true
+  xy: 330, 285
+  size: 345, 262
+  orig: 600, 600
+  offset: 134, 169
+  index: -1
+1_00003
+  rotate: true
+  xy: 320, 632
+  size: 371, 300
+  orig: 600, 600
+  offset: 126, 156
+  index: -1
+1_00004
+  rotate: false
+  xy: 2, 24
+  size: 371, 254
+  orig: 600, 600
+  offset: 126, 172
+  index: -1
+1_00005
+  rotate: false
+  xy: 375, 120
+  size: 358, 163
+  orig: 600, 600
+  offset: 128, 184
+  index: -1
+1_00006
+  rotate: true
+  xy: 375, 2
+  size: 116, 114
+  orig: 600, 600
+  offset: 289, 192
+  index: -1

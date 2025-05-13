@@ -1,0 +1,132 @@
+
+ui_unlock.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/bg
+  rotate: false
+  xy: 2, 304
+  size: 204, 204
+  orig: 204, 242
+  offset: 0, 6
+  index: -1
+image/gq
+  rotate: true
+  xy: 367, 25
+  size: 145, 140
+  orig: 145, 142
+  offset: 0, 1
+  index: -1
+image/home
+  rotate: false
+  xy: 208, 327
+  size: 175, 181
+  orig: 204, 242
+  offset: 17, 32
+  index: -1
+image/label1
+  rotate: false
+  xy: 2, 81
+  size: 105, 54
+  orig: 204, 242
+  offset: 50, 0
+  index: -1
+image/label2
+  rotate: false
+  xy: 2, 25
+  size: 101, 54
+  orig: 204, 242
+  offset: 51, 0
+  index: -1
+image/label3
+  rotate: true
+  xy: 403, 231
+  size: 101, 52
+  orig: 204, 242
+  offset: 52, 0
+  index: -1
+image/label4
+  rotate: true
+  xy: 109, 38
+  size: 97, 51
+  orig: 204, 242
+  offset: 53, 1
+  index: -1
+image/rob
+  rotate: false
+  xy: 208, 172
+  size: 193, 153
+  orig: 204, 242
+  offset: 9, 35
+  index: -1
+image/shop
+  rotate: false
+  xy: 2, 137
+  size: 195, 165
+  orig: 204, 242
+  offset: 9, 24
+  index: -1
+image/suo1
+  rotate: false
+  xy: 385, 334
+  size: 64, 83
+  orig: 204, 242
+  offset: 71, 68
+  index: -1
+image/suo2
+  rotate: false
+  xy: 403, 172
+  size: 64, 57
+  orig: 204, 242
+  offset: 71, 68
+  index: -1
+image/suo3
+  rotate: true
+  xy: 162, 91
+  size: 44, 35
+  orig: 204, 242
+  offset: 79, 116
+  index: -1
+image/suo3_1
+  rotate: true
+  xy: 467, 464
+  size: 44, 41
+  orig: 204, 242
+  offset: 79, 116
+  index: -1
+image/suo3_2
+  rotate: false
+  xy: 467, 421
+  size: 38, 41
+  orig: 204, 242
+  offset: 85, 116
+  index: -1
+image/suo3_3
+  rotate: false
+  xy: 162, 48
+  size: 30, 41
+  orig: 204, 242
+  offset: 93, 116
+  index: -1
+image/suo3_4
+  rotate: true
+  xy: 2, 8
+  size: 15, 41
+  orig: 204, 242
+  offset: 109, 116
+  index: -1
+image/suo4
+  rotate: false
+  xy: 385, 419
+  size: 80, 89
+  orig: 204, 242
+  offset: 71, 68
+  index: -1
+image/tx
+  rotate: false
+  xy: 199, 28
+  size: 166, 142
+  orig: 204, 242
+  offset: 19, 47
+  index: -1

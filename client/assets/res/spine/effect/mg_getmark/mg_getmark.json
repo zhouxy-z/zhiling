@@ -1,0 +1,54 @@
+{
+"skeleton": {
+	"hash": "+SZ5X8CO35jkaS8fz5uUnFCf03g",
+	"spine": "3.8.99",
+	"x": 6.64,
+	"y": 10.19,
+	"width": 132,
+	"height": 124,
+	"images": "",
+	"audio": ""
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "get", "parent": "root" }
+],
+"slots": [
+	{ "name": "tips", "bone": "get", "attachment": "tips" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"tips": {
+				"tips": { "x": 72.64, "y": 72.19, "width": 132, "height": 124 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {
+		"slots": {
+			"tips": {
+				"color": [
+					{ "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1, "color": "ffffffff" },
+					{ "time": 1.1667, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"get": {
+				"scale": [
+					{ "x": 0, "y": 0 },
+					{ "time": 0.3333, "x": 1.1, "y": 1.1 },
+					{ "time": 0.5, "x": 0.9, "y": 0.9 },
+					{ "time": 0.6667, "curve": "stepped" },
+					{ "time": 1 },
+					{ "time": 1.1667, "x": 0.5, "y": 0.5 }
+				]
+			}
+		}
+	}
+}
+}

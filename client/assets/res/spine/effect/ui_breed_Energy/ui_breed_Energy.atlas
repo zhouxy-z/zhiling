@@ -1,0 +1,146 @@
+
+ui_breed_Energy.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_00000
+  rotate: true
+  xy: 1549, 913
+  size: 359, 394
+  orig: 434, 563
+  offset: 61, 0
+  index: -1
+1_00001
+  rotate: true
+  xy: 2, 572
+  size: 359, 387
+  orig: 434, 563
+  offset: 61, 0
+  index: -1
+1_00002
+  rotate: true
+  xy: 1541, 549
+  size: 362, 378
+  orig: 434, 563
+  offset: 60, 0
+  index: -1
+1_00003
+  rotate: true
+  xy: 775, 562
+  size: 363, 365
+  orig: 434, 563
+  offset: 59, 0
+  index: -1
+1_00004
+  rotate: false
+  xy: 2, 939
+  size: 364, 356
+  orig: 434, 563
+  offset: 59, 0
+  index: -1
+1_00005
+  rotate: false
+  xy: 1491, 1274
+  size: 366, 342
+  orig: 434, 563
+  offset: 57, 0
+  index: -1
+1_00006
+  rotate: false
+  xy: 1121, 1280
+  size: 368, 336
+  orig: 434, 563
+  offset: 56, 0
+  index: -1
+1_00007
+  rotate: false
+  xy: 750, 1285
+  size: 369, 334
+  orig: 434, 563
+  offset: 56, 0
+  index: -1
+1_00008
+  rotate: false
+  xy: 376, 1291
+  size: 372, 328
+  orig: 434, 563
+  offset: 56, 0
+  index: -1
+1_00009
+  rotate: false
+  xy: 1490, 1618
+  size: 374, 325
+  orig: 434, 563
+  offset: 57, 0
+  index: -1
+1_00010
+  rotate: false
+  xy: 748, 1621
+  size: 372, 322
+  orig: 434, 563
+  offset: 59, 0
+  index: -1
+1_00011
+  rotate: false
+  xy: 2, 1626
+  size: 373, 317
+  orig: 434, 563
+  offset: 61, 0
+  index: -1
+1_00012
+  rotate: false
+  xy: 2, 1297
+  size: 372, 327
+  orig: 434, 563
+  offset: 62, 0
+  index: -1
+1_00013
+  rotate: false
+  xy: 377, 1622
+  size: 369, 321
+  orig: 434, 563
+  offset: 65, 0
+  index: -1
+1_00014
+  rotate: false
+  xy: 1122, 1620
+  size: 366, 323
+  orig: 434, 563
+  offset: 68, 0
+  index: -1
+1_00015
+  rotate: true
+  xy: 391, 566
+  size: 359, 382
+  orig: 434, 563
+  offset: 70, 0
+  index: -1
+1_00016
+  rotate: true
+  xy: 368, 933
+  size: 350, 384
+  orig: 434, 563
+  offset: 73, 0
+  index: -1
+1_00017
+  rotate: true
+  xy: 754, 927
+  size: 351, 394
+  orig: 434, 563
+  offset: 68, 0
+  index: -1
+1_00018
+  rotate: true
+  xy: 1150, 916
+  size: 356, 397
+  orig: 434, 563
+  offset: 63, 0
+  index: -1
+1_00019
+  rotate: true
+  xy: 1142, 555
+  size: 359, 397
+  orig: 434, 563
+  offset: 61, 0
+  index: -1

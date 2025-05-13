@@ -1,0 +1,27 @@
+
+cj_026.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light
+  rotate: false
+  xy: 208, 228
+  size: 165, 145
+  orig: 211, 216
+  offset: 15, 32
+  index: -1
+light1
+  rotate: false
+  xy: 71, 246
+  size: 135, 127
+  orig: 211, 216
+  offset: 39, 36
+  index: -1
+lizi2
+  rotate: false
+  xy: 2, 317
+  size: 67, 56
+  orig: 68, 56
+  offset: 1, 0
+  index: -1

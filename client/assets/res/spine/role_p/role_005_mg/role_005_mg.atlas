@@ -1,0 +1,167 @@
+
+role_005_mg.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Flower_1
+  rotate: false
+  xy: 2, 446
+  size: 221, 203
+  orig: 221, 203
+  offset: 0, 0
+  index: -1
+Flower_2
+  rotate: false
+  xy: 225, 285
+  size: 396, 335
+  orig: 396, 335
+  offset: 0, 0
+  index: -1
+G
+  rotate: false
+  xy: 868, 869
+  size: 84, 83
+  orig: 88, 87
+  offset: 2, 2
+  index: -1
+Le
+  rotate: true
+  xy: 144, 908
+  size: 44, 46
+  orig: 44, 47
+  offset: 0, 1
+  index: -1
+Leaf_1
+  rotate: false
+  xy: 146, 651
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Leaf_10
+  rotate: false
+  xy: 343, 893
+  size: 153, 59
+  orig: 153, 59
+  offset: 0, 0
+  index: -1
+Leaf_2
+  rotate: false
+  xy: 501, 622
+  size: 199, 154
+  orig: 199, 154
+  offset: 0, 0
+  index: -1
+Leaf_4
+  rotate: false
+  xy: 153, 803
+  size: 179, 89
+  orig: 180, 90
+  offset: 0, 0
+  index: -1
+Leaf_5
+  rotate: false
+  xy: 2, 819
+  size: 149, 87
+  orig: 150, 87
+  offset: 0, 0
+  index: -1
+Leaf_6
+  rotate: false
+  xy: 576, 778
+  size: 217, 106
+  orig: 217, 106
+  offset: 0, 0
+  index: -1
+Leaf_7
+  rotate: false
+  xy: 334, 787
+  size: 240, 104
+  orig: 240, 104
+  offset: 0, 0
+  index: -1
+Leaf_8
+  rotate: false
+  xy: 753, 886
+  size: 113, 66
+  orig: 113, 66
+  offset: 0, 0
+  index: -1
+Leaf_9
+  rotate: false
+  xy: 244, 894
+  size: 97, 58
+  orig: 97, 58
+  offset: 0, 0
+  index: -1
+Lf
+  rotate: true
+  xy: 2, 913
+  size: 39, 73
+  orig: 39, 73
+  offset: 0, 0
+  index: -1
+Lh
+  rotate: true
+  xy: 669, 887
+  size: 65, 82
+  orig: 65, 82
+  offset: 0, 0
+  index: -1
+Re
+  rotate: false
+  xy: 192, 907
+  size: 50, 45
+  orig: 50, 45
+  offset: 0, 0
+  index: -1
+Rf
+  rotate: true
+  xy: 77, 913
+  size: 39, 65
+  orig: 39, 65
+  offset: 0, 0
+  index: -1
+Rh
+  rotate: true
+  xy: 585, 891
+  size: 61, 82
+  orig: 61, 82
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 686
+  size: 131, 142
+  orig: 131, 142
+  offset: 0, 0
+  index: -1
+hdj
+  rotate: false
+  xy: 498, 893
+  size: 85, 59
+  orig: 85, 59
+  offset: 0, 0
+  index: -1
+mark_lie
+  rotate: true
+  xy: 795, 750
+  size: 117, 120
+  orig: 121, 124
+  offset: 2, 2
+  index: -1
+w_1
+  rotate: false
+  xy: 702, 591
+  size: 235, 157
+  orig: 235, 157
+  offset: 0, 0
+  index: -1
+w_2
+  rotate: false
+  xy: 298, 642
+  size: 201, 143
+  orig: 201, 143
+  offset: 0, 0
+  index: -1

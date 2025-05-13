@@ -1,0 +1,13 @@
+
+ui_FFL_fish.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Y1
+  rotate: false
+  xy: 2, 2
+  size: 141, 180
+  orig: 141, 180
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,83 @@
+
+cj_103.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PB01
+  rotate: false
+  xy: 2, 749
+  size: 311, 1118
+  orig: 311, 1118
+  offset: 0, 0
+  index: -1
+PB1_00000
+  rotate: true
+  xy: 441, 218
+  size: 213, 719
+  orig: 440, 879
+  offset: 119, 90
+  index: -1
+PB1_00001
+  rotate: false
+  xy: 223, 27
+  size: 216, 720
+  orig: 440, 879
+  offset: 120, 89
+  index: -1
+PB1_00002
+  rotate: false
+  xy: 441, 435
+  size: 214, 720
+  orig: 440, 879
+  offset: 118, 89
+  index: -1
+PB1_00003
+  rotate: false
+  xy: 874, 449
+  size: 217, 707
+  orig: 440, 879
+  offset: 117, 102
+  index: -1
+PB1_00004
+  rotate: false
+  xy: 874, 1158
+  size: 217, 709
+  orig: 440, 879
+  offset: 118, 100
+  index: -1
+PB1_00005
+  rotate: true
+  xy: 441, 2
+  size: 214, 710
+  orig: 440, 879
+  offset: 118, 99
+  index: -1
+PB1_00006
+  rotate: false
+  xy: 315, 1157
+  size: 218, 710
+  orig: 440, 879
+  offset: 120, 98
+  index: -1
+PB1_00007
+  rotate: false
+  xy: 2, 32
+  size: 219, 715
+  orig: 440, 879
+  offset: 120, 93
+  index: -1
+PB1_00008
+  rotate: false
+  xy: 657, 1151
+  size: 215, 716
+  orig: 440, 879
+  offset: 120, 93
+  index: -1
+PB1_00009
+  rotate: false
+  xy: 657, 433
+  size: 215, 716
+  orig: 440, 879
+  offset: 119, 93
+  index: -1

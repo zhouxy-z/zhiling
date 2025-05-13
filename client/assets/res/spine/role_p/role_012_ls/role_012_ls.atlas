@@ -1,0 +1,146 @@
+
+role_012_ls.png
+size: 2019,751
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+E_L
+  rotate: false
+  xy: 316, 21
+  size: 52, 53
+  orig: 53, 54
+  offset: 0, 0
+  index: -1
+H_L_2
+  rotate: true
+  xy: 893, 9
+  size: 131, 111
+  orig: 131, 111
+  offset: 0, 0
+  index: -1
+H_L_qt_2
+  rotate: true
+  xy: 1919, 497
+  size: 95, 97
+  orig: 96, 97
+  offset: 0, 0
+  index: -1
+H_L_sb
+  rotate: false
+  xy: 1919, 594
+  size: 98, 155
+  orig: 98, 156
+  offset: 0, 0
+  index: -1
+H_R_2
+  rotate: true
+  xy: 1210, 56
+  size: 198, 96
+  orig: 198, 96
+  offset: 0, 0
+  index: -1
+H_R_qt_2
+  rotate: true
+  xy: 985, 149
+  size: 105, 100
+  orig: 105, 101
+  offset: 0, 1
+  index: -1
+H_R_sb
+  rotate: false
+  xy: 553, 5
+  size: 107, 135
+  orig: 107, 135
+  offset: 0, 0
+  index: -1
+Hat
+  rotate: true
+  xy: 1087, 24
+  size: 230, 121
+  orig: 230, 121
+  offset: 0, 0
+  index: -1
+M
+  rotate: false
+  xy: 177, 15
+  size: 137, 59
+  orig: 137, 59
+  offset: 0, 0
+  index: -1
+Qun
+  rotate: true
+  xy: 1269, 315
+  size: 434, 193
+  orig: 434, 193
+  offset: 0, 0
+  index: -1
+Wei
+  rotate: true
+  xy: 1308, 12
+  size: 301, 285
+  orig: 301, 285
+  offset: 0, 0
+  index: -1
+Wu_1
+  rotate: false
+  xy: 553, 142
+  size: 430, 607
+  orig: 430, 607
+  offset: 0, 0
+  index: -1
+Ye_1
+  rotate: true
+  xy: 2, 9
+  size: 65, 173
+  orig: 65, 173
+  offset: 0, 0
+  index: -1
+Ye_2
+  rotate: true
+  xy: 662, 8
+  size: 132, 229
+  orig: 132, 229
+  offset: 0, 0
+  index: -1
+Ye_4
+  rotate: true
+  xy: 1919, 179
+  size: 316, 80
+  orig: 317, 80
+  offset: 0, 0
+  index: -1
+Ye_5
+  rotate: true
+  xy: 2, 76
+  size: 673, 549
+  orig: 673, 549
+  offset: 0, 0
+  index: -1
+Ye_6_Back
+  rotate: false
+  xy: 985, 256
+  size: 282, 493
+  orig: 282, 493
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 1595, 2
+  size: 322, 349
+  orig: 322, 349
+  offset: 0, 0
+  index: -1
+toufa1
+  rotate: false
+  xy: 1464, 353
+  size: 254, 396
+  orig: 254, 396
+  offset: 0, 0
+  index: -1
+toufa2
+  rotate: false
+  xy: 1720, 368
+  size: 175, 381
+  orig: 175, 381
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,111 @@
+
+role_z22_B.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shadow
+  rotate: false
+  xy: 2, 5
+  size: 91, 17
+  orig: 93, 17
+  offset: 1, 0
+  index: -1
+body
+  rotate: false
+  xy: 53, 79
+  size: 29, 44
+  orig: 29, 44
+  offset: 0, 0
+  index: -1
+dg2
+  rotate: true
+  xy: 84, 76
+  size: 26, 33
+  orig: 26, 33
+  offset: 0, 0
+  index: -1
+e_l
+  rotate: false
+  xy: 98, 28
+  size: 8, 14
+  orig: 8, 14
+  offset: 0, 0
+  index: -1
+e_r
+  rotate: false
+  xy: 108, 28
+  size: 8, 14
+  orig: 8, 14
+  offset: 0, 0
+  index: -1
+gd3
+  rotate: false
+  xy: 2, 74
+  size: 49, 49
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+h_l
+  rotate: false
+  xy: 98, 104
+  size: 11, 19
+  orig: 11, 19
+  offset: 0, 0
+  index: -1
+h_l_back
+  rotate: false
+  xy: 111, 104
+  size: 12, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
+h_r
+  rotate: false
+  xy: 84, 104
+  size: 12, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
+h_r_back
+  rotate: false
+  xy: 111, 55
+  size: 11, 19
+  orig: 11, 19
+  offset: 0, 0
+  index: -1
+m
+  rotate: true
+  xy: 98, 55
+  size: 19, 10
+  orig: 19, 10
+  offset: 0, 0
+  index: -1
+s
+  rotate: true
+  xy: 95, 2
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+tou_r
+  rotate: false
+  xy: 50, 25
+  size: 46, 47
+  orig: 46, 47
+  offset: 0, 0
+  index: -1
+tou_r_back
+  rotate: false
+  xy: 2, 24
+  size: 46, 48
+  orig: 46, 48
+  offset: 0, 0
+  index: -1
+win
+  rotate: false
+  xy: 98, 44
+  size: 19, 9
+  orig: 19, 9
+  offset: 0, 0
+  index: -1

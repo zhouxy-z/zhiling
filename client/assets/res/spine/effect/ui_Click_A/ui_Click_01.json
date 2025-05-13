@@ -1,0 +1,86 @@
+{
+"skeleton": { "hash": "OQBclTsnG7UbMVmanoAlU0xF2DI", "spine": "3.8.99", "images": "./images/", "audio": "E:/项目文件/UI/界面小部件/点击" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "D", "parent": "root" },
+	{ "name": "2", "parent": "D" },
+	{ "name": "1", "parent": "D" },
+	{ "name": "3", "parent": "D" }
+],
+"slots": [
+	{ "name": "3_00000", "bone": "3" },
+	{ "name": "2", "bone": "2" },
+	{ "name": "1", "bone": "1" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"1": {
+				"1": { "path": "1_00000", "y": -1.91, "scaleX": 0.6, "scaleY": 0.6, "width": 256, "height": 256 }
+			},
+			"2": {
+				"2": { "path": "2_00000", "scaleX": 0.6, "scaleY": 0.6, "width": 256, "height": 256 }
+			},
+			"3_00000": {
+				"3_00000": { "scaleX": 0.5, "scaleY": 0.5, "width": 256, "height": 256 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {
+		"slots": {
+			"1": {
+				"color": [
+					{ "color": "ffffff00" },
+					{ "time": 0.0667, "color": "ffe369ff" },
+					{ "time": 0.5, "color": "ffd54200" }
+				],
+				"attachment": [
+					{ "name": "1" }
+				]
+			},
+			"2": {
+				"color": [
+					{ "time": 0.1667, "color": "ffffffff", "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.5, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "name": "2" }
+				]
+			},
+			"3_00000": {
+				"color": [
+					{ "color": "ffffff00" },
+					{ "time": 0.1, "color": "ce8d6b99", "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.5, "color": "d5b76e00" }
+				],
+				"attachment": [
+					{ "time": 0.1, "name": "3_00000" }
+				]
+			}
+		},
+		"bones": {
+			"1": {
+				"scale": [
+					{ "curve": 0, "c2": 0.86, "c3": 0.75 },
+					{ "time": 0.5, "x": 1.7, "y": 1.7 }
+				]
+			},
+			"2": {
+				"scale": [
+					{ "x": 2, "y": 2, "curve": 0.012, "c2": 0.8, "c3": 0.321 },
+					{ "time": 0.5 }
+				]
+			},
+			"3": {
+				"scale": [
+					{ "time": 0.1, "x": 0.7, "y": 0.7, "curve": 0, "c2": 0.64, "c3": 0.75 },
+					{ "time": 0.5, "x": 0.85, "y": 0.85 }
+				]
+			}
+		}
+	}
+}
+}

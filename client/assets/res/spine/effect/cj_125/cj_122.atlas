@@ -1,0 +1,27 @@
+
+cj_122.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/gx8
+  rotate: false
+  xy: 2, 104
+  size: 142, 148
+  orig: 215, 223
+  offset: 29, 42
+  index: -1
+image/gx9
+  rotate: false
+  xy: 146, 127
+  size: 106, 125
+  orig: 215, 223
+  offset: 53, 52
+  index: -1
+image/lizi2
+  rotate: false
+  xy: 146, 69
+  size: 67, 56
+  orig: 68, 56
+  offset: 1, 0
+  index: -1

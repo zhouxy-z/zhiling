@@ -1,0 +1,27 @@
+
+cj_028.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light
+  rotate: true
+  xy: 223, 233
+  size: 145, 155
+  orig: 211, 216
+  offset: 51, 31
+  index: -1
+light1
+  rotate: true
+  xy: 71, 261
+  size: 117, 150
+  orig: 211, 216
+  offset: 56, 35
+  index: -1
+lizi2
+  rotate: false
+  xy: 2, 322
+  size: 67, 56
+  orig: 68, 56
+  offset: 1, 0
+  index: -1

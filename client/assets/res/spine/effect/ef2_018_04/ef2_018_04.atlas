@@ -1,0 +1,90 @@
+
+ef2_018_04.png
+size: 313,167
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/shitou1
+  rotate: false
+  xy: 2, 3
+  size: 87, 80
+  orig: 87, 80
+  offset: 0, 0
+  index: -1
+image/shitou2
+  rotate: false
+  xy: 123, 107
+  size: 69, 58
+  orig: 69, 58
+  offset: 0, 0
+  index: -1
+image/shitou3
+  rotate: false
+  xy: 2, 85
+  size: 119, 80
+  orig: 119, 80
+  offset: 0, 0
+  index: -1
+image/yw02_1
+  rotate: true
+  xy: 146, 8
+  size: 41, 50
+  orig: 55, 53
+  offset: 0, 1
+  index: -1
+image/yw02_2
+  rotate: true
+  xy: 91, 29
+  size: 54, 53
+  orig: 55, 53
+  offset: 0, 0
+  index: -1
+image/yw02_3
+  rotate: true
+  xy: 146, 51
+  size: 54, 53
+  orig: 55, 53
+  offset: 0, 0
+  index: -1
+image/yw02_4
+  rotate: false
+  xy: 201, 57
+  size: 54, 53
+  orig: 55, 53
+  offset: 0, 0
+  index: -1
+image/yw02_5
+  rotate: false
+  xy: 194, 112
+  size: 55, 53
+  orig: 55, 53
+  offset: 0, 0
+  index: -1
+image/yw02_6
+  rotate: false
+  xy: 251, 112
+  size: 55, 53
+  orig: 55, 53
+  offset: 0, 0
+  index: -1
+image/yw02_7
+  rotate: false
+  xy: 257, 57
+  size: 53, 53
+  orig: 55, 53
+  offset: 1, 0
+  index: -1
+image/yw02_8
+  rotate: false
+  xy: 201, 2
+  size: 54, 53
+  orig: 55, 53
+  offset: 1, 0
+  index: -1
+image/yw02_9
+  rotate: false
+  xy: 257, 3
+  size: 54, 52
+  orig: 55, 53
+  offset: 1, 0
+  index: -1

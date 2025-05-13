@@ -1,0 +1,167 @@
+
+role_006_zsr.png
+size: 818,818
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+H_1
+  rotate: false
+  xy: 2, 422
+  size: 248, 394
+  orig: 248, 394
+  offset: 0, 0
+  index: -1
+H_2
+  rotate: false
+  xy: 621, 73
+  size: 74, 148
+  orig: 74, 148
+  offset: 0, 0
+  index: -1
+H_31
+  rotate: false
+  xy: 350, 9
+  size: 103, 212
+  orig: 103, 212
+  offset: 0, 0
+  index: -1
+H_4
+  rotate: false
+  xy: 699, 236
+  size: 113, 108
+  orig: 113, 108
+  offset: 0, 0
+  index: -1
+Le
+  rotate: true
+  xy: 455, 38
+  size: 183, 164
+  orig: 185, 166
+  offset: 1, 1
+  index: -1
+Lh
+  rotate: true
+  xy: 525, 660
+  size: 156, 274
+  orig: 156, 274
+  offset: 0, 0
+  index: -1
+Lh_sz
+  rotate: true
+  xy: 350, 302
+  size: 120, 131
+  orig: 122, 134
+  offset: 1, 1
+  index: -1
+Lh_sz1
+  rotate: true
+  xy: 621, 4
+  size: 67, 157
+  orig: 69, 159
+  offset: 1, 1
+  index: -1
+Rh
+  rotate: true
+  xy: 525, 527
+  size: 131, 262
+  orig: 131, 262
+  offset: 0, 0
+  index: -1
+Rh_bd
+  rotate: true
+  xy: 61, 6
+  size: 57, 144
+  orig: 59, 146
+  offset: 1, 1
+  index: -1
+Rh_sz
+  rotate: true
+  xy: 699, 130
+  size: 104, 105
+  orig: 106, 107
+  offset: 1, 1
+  index: -1
+body
+  rotate: false
+  xy: 2, 65
+  size: 346, 355
+  orig: 346, 355
+  offset: 0, 0
+  index: -1
+caoyao1
+  rotate: false
+  xy: 525, 446
+  size: 248, 79
+  orig: 248, 79
+  offset: 0, 0
+  index: -1
+caoyao2
+  rotate: false
+  xy: 483, 223
+  size: 214, 129
+  orig: 214, 129
+  offset: 0, 0
+  index: -1
+caoyao3
+  rotate: true
+  xy: 2, 2
+  size: 61, 57
+  orig: 61, 57
+  offset: 0, 0
+  index: -1
+caoyao4
+  rotate: false
+  xy: 350, 224
+  size: 97, 76
+  orig: 97, 76
+  offset: 0, 0
+  index: -1
+caoyao5
+  rotate: false
+  xy: 495, 354
+  size: 234, 90
+  orig: 235, 91
+  offset: 1, 1
+  index: -1
+caoyao6
+  rotate: true
+  xy: 207, 8
+  size: 55, 114
+  orig: 55, 115
+  offset: 0, 1
+  index: -1
+caoyao7
+  rotate: false
+  xy: 731, 346
+  size: 84, 98
+  orig: 84, 98
+  offset: 0, 0
+  index: -1
+e_l1
+  rotate: true
+  xy: 323, 43
+  size: 20, 19
+  orig: 22, 21
+  offset: 1, 1
+  index: -1
+e_r1
+  rotate: false
+  xy: 323, 22
+  size: 19, 19
+  orig: 21, 21
+  offset: 1, 1
+  index: -1
+jiao
+  rotate: false
+  xy: 252, 424
+  size: 241, 91
+  orig: 243, 93
+  offset: 1, 1
+  index: -1
+yao
+  rotate: true
+  xy: 252, 517
+  size: 299, 271
+  orig: 299, 271
+  offset: 0, 0
+  index: -1

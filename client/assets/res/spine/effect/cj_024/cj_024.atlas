@@ -1,0 +1,27 @@
+
+cj_024.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/gx
+  rotate: true
+  xy: 197, 202
+  size: 141, 146
+  orig: 227, 231
+  offset: 52, 40
+  index: -1
+image/gx1
+  rotate: true
+  xy: 71, 231
+  size: 112, 124
+  orig: 227, 231
+  offset: 57, 49
+  index: -1
+image/lizi2
+  rotate: false
+  xy: 2, 287
+  size: 67, 56
+  orig: 68, 56
+  offset: 1, 0
+  index: -1

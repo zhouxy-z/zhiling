@@ -1,0 +1,180 @@
+{
+"skeleton": {
+	"hash": "ySveq3pJ4BpM02DU+PZwhiZJQkg",
+	"spine": "3.8.99",
+	"x": -126.85,
+	"y": -124.87,
+	"width": 256,
+	"height": 256,
+	"images": "./images/",
+	"audio": "E:/项目文件/UI/界面小部件/宝石商城图标/ui_BSSC/制作文件"
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "PR", "parent": "root", "y": -43.9 },
+	{ "name": "1", "parent": "PR", "x": 1.15, "y": 47.04, "scaleX": 2, "scaleY": 2 },
+	{ "name": "star_X", "parent": "root" },
+	{ "name": "star_X2", "parent": "root" },
+	{ "name": "star_X3", "parent": "root" }
+],
+"slots": [
+	{ "name": "BS1", "bone": "PR", "attachment": "BS1" },
+	{ "name": "BSSC", "bone": "root", "attachment": "BSSC" },
+	{ "name": "1", "bone": "1", "attachment": "1_00000", "blend": "screen" },
+	{ "name": "star_X", "bone": "star_X", "attachment": "star_X" },
+	{ "name": "star_X2", "bone": "star_X2", "attachment": "star_X" },
+	{ "name": "star_X3", "bone": "star_X3", "attachment": "star_X" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"1": {
+				"1_00000": { "width": 128, "height": 128 },
+				"1_00001": { "width": 128, "height": 128 },
+				"1_00002": { "width": 128, "height": 128 },
+				"1_00003": { "width": 128, "height": 128 },
+				"1_00004": { "width": 128, "height": 128 },
+				"1_00005": { "width": 128, "height": 128 },
+				"1_00006": { "width": 128, "height": 128 },
+				"1_00007": { "width": 128, "height": 128 },
+				"1_00008": { "width": 128, "height": 128 },
+				"1_00009": { "width": 128, "height": 128 },
+				"1_00010": { "width": 128, "height": 128 },
+				"1_00011": { "width": 128, "height": 128 },
+				"1_00012": { "width": 128, "height": 128 },
+				"1_00013": { "width": 128, "height": 128 },
+				"1_00014": { "width": 128, "height": 128 },
+				"1_00015": { "width": 128, "height": 128 },
+				"1_00016": { "width": 128, "height": 128 },
+				"1_00017": { "width": 128, "height": 128 },
+				"1_00018": { "width": 128, "height": 128 },
+				"1_00019": { "width": 128, "height": 128 },
+				"1_00020": { "width": 128, "height": 128 },
+				"1_00021": { "width": 128, "height": 128 },
+				"1_00022": { "width": 128, "height": 128 },
+				"1_00023": { "width": 128, "height": 128 },
+				"1_00024": { "width": 128, "height": 128 },
+				"1_00025": { "width": 128, "height": 128 },
+				"1_00026": { "width": 128, "height": 128 },
+				"1_00027": { "width": 128, "height": 128 },
+				"1_00028": { "width": 128, "height": 128 },
+				"1_00029": { "width": 128, "height": 128 }
+			},
+			"BS1": {
+				"BS1": { "x": 2.36, "y": 47.2, "width": 139, "height": 134 }
+			},
+			"BSSC": {
+				"BSSC": { "x": 1.36, "y": -49.2, "width": 151, "height": 44 }
+			},
+			"star_X": {
+				"star_X": { "scaleX": 0.4, "scaleY": 0.4, "width": 256, "height": 256 }
+			},
+			"star_X2": {
+				"star_X": { "scaleX": 0.4, "scaleY": 0.3, "width": 256, "height": 256 }
+			},
+			"star_X3": {
+				"star_X": { "scaleX": 0.25, "scaleY": 0.25, "width": 256, "height": 256 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {
+		"slots": {
+			"1": {
+				"attachment": [
+					{ "time": 0.1, "name": "1_00001" },
+					{ "time": 0.2, "name": "1_00002" },
+					{ "time": 0.3, "name": "1_00003" },
+					{ "time": 0.4, "name": "1_00004" },
+					{ "time": 0.5, "name": "1_00005" },
+					{ "time": 0.6, "name": "1_00006" },
+					{ "time": 0.7, "name": "1_00007" },
+					{ "time": 0.8, "name": "1_00008" },
+					{ "time": 0.9, "name": "1_00009" },
+					{ "time": 1, "name": "1_00010" },
+					{ "time": 1.1, "name": "1_00011" },
+					{ "time": 1.2, "name": "1_00012" },
+					{ "time": 1.3, "name": "1_00013" },
+					{ "time": 1.4, "name": "1_00014" },
+					{ "time": 1.5, "name": "1_00015" },
+					{ "time": 1.6, "name": "1_00016" },
+					{ "time": 1.7, "name": "1_00017" },
+					{ "time": 1.8, "name": "1_00018" },
+					{ "time": 1.9, "name": "1_00019" },
+					{ "time": 2, "name": "1_00020" },
+					{ "time": 2.1, "name": "1_00021" },
+					{ "time": 2.2, "name": "1_00022" },
+					{ "time": 2.3, "name": "1_00023" },
+					{ "time": 2.4, "name": "1_00024" },
+					{ "time": 2.5, "name": "1_00025" },
+					{ "time": 2.6, "name": "1_00026" },
+					{ "time": 2.7, "name": "1_00027" },
+					{ "time": 2.8, "name": "1_00028" },
+					{ "time": 2.9, "name": "1_00029" },
+					{ "time": 3, "name": "1_00000" }
+				]
+			}
+		},
+		"bones": {
+			"star_X": {
+				"translate": [
+					{ "x": 53.27, "y": 63.44 }
+				],
+				"scale": [
+					{ "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 1.2, "x": 0, "y": 0, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.4, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.5667, "x": 0.5, "y": 0.4, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.8333, "x": 1.47, "y": 1.002, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2.1667, "y": 0.57, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2.4333, "x": 1.1, "y": 0.79, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2.7667, "y": 0.607, "curve": 0.25, "c3": 0.75 },
+					{ "time": 3, "x": 0, "y": 0 }
+				]
+			},
+			"star_X2": {
+				"translate": [
+					{ "x": 13.08, "y": -8.75 }
+				],
+				"scale": [
+					{ "x": 0, "y": 0, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.2333, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.4333, "x": 0.5, "y": 0.4, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.6667, "x": 1.1, "y": 1.1, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.9667, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.2667, "x": 1.1, "y": 1.1, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.5333, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.8333, "x": 0, "y": 0 }
+				]
+			},
+			"star_X3": {
+				"translate": [
+					{ "x": -45.8, "y": 44.75 }
+				],
+				"scale": [
+					{ "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.3333, "x": 1.1, "y": 1.1, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.7333, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.2, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 1.8333, "x": 0, "y": 0, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2.1, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2.3, "x": 0.5, "y": 0.4, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2.6, "x": 1.1, "y": 1.1, "curve": 0.25, "c3": 0.75 },
+					{ "time": 3 }
+				]
+			},
+			"PR": {
+				"scale": [
+					{ "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.7667, "x": 1.05, "y": 0.97, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.5, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2.2667, "x": 1.05, "y": 0.97, "curve": 0.25, "c3": 0.75 },
+					{ "time": 3 }
+				]
+			}
+		}
+	}
+}
+}

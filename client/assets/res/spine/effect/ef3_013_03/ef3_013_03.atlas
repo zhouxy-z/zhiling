@@ -1,0 +1,83 @@
+
+ef3_013_03.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_00000
+  rotate: true
+  xy: 110, 389
+  size: 28, 55
+  orig: 256, 256
+  offset: 82, 42
+  index: -1
+1_00001
+  rotate: false
+  xy: 110, 419
+  size: 56, 89
+  orig: 256, 256
+  offset: 102, 80
+  index: -1
+1_00002
+  rotate: false
+  xy: 2, 129
+  size: 85, 116
+  orig: 256, 256
+  offset: 80, 43
+  index: -1
+1_00004
+  rotate: true
+  xy: 83, 248
+  size: 22, 59
+  orig: 256, 256
+  offset: 78, 55
+  index: -1
+1_00005
+  rotate: false
+  xy: 2, 247
+  size: 79, 128
+  orig: 256, 256
+  offset: 102, 43
+  index: -1
+1_00006
+  rotate: false
+  xy: 2, 377
+  size: 106, 131
+  orig: 256, 256
+  offset: 78, 43
+  index: -1
+1_00007
+  rotate: false
+  xy: 2, 14
+  size: 70, 113
+  orig: 256, 256
+  offset: 80, 52
+  index: -1
+1_00008
+  rotate: false
+  xy: 74, 20
+  size: 98, 107
+  orig: 256, 256
+  offset: 88, 64
+  index: -1
+1_00009
+  rotate: true
+  xy: 83, 272
+  size: 103, 101
+  orig: 256, 256
+  offset: 83, 69
+  index: -1
+1_00010
+  rotate: true
+  xy: 89, 147
+  size: 99, 77
+  orig: 256, 256
+  offset: 86, 92
+  index: -1
+1_00011
+  rotate: false
+  xy: 74, 2
+  size: 96, 16
+  orig: 256, 256
+  offset: 89, 107
+  index: -1

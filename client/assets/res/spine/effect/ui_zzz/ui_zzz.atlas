@@ -1,0 +1,13 @@
+
+ui_zzz.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mark_lie
+  rotate: false
+  xy: 2, 2
+  size: 116, 118
+  orig: 121, 124
+  offset: 3, 3
+  index: -1

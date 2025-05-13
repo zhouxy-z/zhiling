@@ -1,0 +1,111 @@
+
+material_water.png
+size: 354,107
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eye_1
+  rotate: false
+  xy: 295, 40
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+eye_2
+  rotate: false
+  xy: 302, 40
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 313, 13
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+guang_Back
+  rotate: false
+  xy: 313, 13
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 195, 3
+  size: 102, 64
+  orig: 128, 96
+  offset: 13, 16
+  index: -1
+shou1
+  rotate: false
+  xy: 329, 13
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+shou2
+  rotate: false
+  xy: 313, 29
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+shui_1
+  rotate: true
+  xy: 261, 4
+  size: 31, 24
+  orig: 31, 24
+  offset: 0, 0
+  index: -1
+shui_1_Back
+  rotate: true
+  xy: 287, 4
+  size: 31, 24
+  orig: 31, 24
+  offset: 0, 0
+  index: -1
+shui_4
+  rotate: false
+  xy: 2, 2
+  size: 95, 103
+  orig: 95, 103
+  offset: 0, 0
+  index: -1
+shui_4_Back
+  rotate: false
+  xy: 99, 2
+  size: 94, 103
+  orig: 94, 103
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 295, 48
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+tou_Back
+  rotate: false
+  xy: 295, 48
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+ying
+  rotate: true
+  xy: 261, 37
+  size: 68, 32
+  orig: 68, 32
+  offset: 0, 0
+  index: -1
+ying_Back
+  rotate: true
+  xy: 261, 37
+  size: 68, 32
+  orig: 68, 32
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,97 @@
+
+ui_autopve_icon2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/FX4_00000
+  rotate: false
+  xy: 260, 469
+  size: 114, 113
+  orig: 256, 256
+  offset: 70, 72
+  index: -1
+image/FX4_00001
+  rotate: false
+  xy: 2, 718
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+image/FX4_00002
+  rotate: false
+  xy: 2, 469
+  size: 256, 247
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+image/FX4_00003
+  rotate: false
+  xy: 2, 271
+  size: 234, 196
+  orig: 256, 256
+  offset: 0, 22
+  index: -1
+image/FX4_00004
+  rotate: false
+  xy: 2, 97
+  size: 202, 172
+  orig: 256, 256
+  offset: 21, 37
+  index: -1
+image/FX4_00005
+  rotate: true
+  xy: 206, 97
+  size: 172, 159
+  orig: 256, 256
+  offset: 45, 46
+  index: -1
+image/FX4_00006
+  rotate: true
+  xy: 238, 306
+  size: 161, 151
+  orig: 256, 256
+  offset: 49, 53
+  index: -1
+image/FX4_00007
+  rotate: false
+  xy: 260, 702
+  size: 130, 81
+  orig: 256, 256
+  offset: 73, 56
+  index: -1
+image/jian1
+  rotate: true
+  xy: 2, 2
+  size: 93, 96
+  orig: 93, 96
+  offset: 0, 0
+  index: -1
+image/laba1
+  rotate: false
+  xy: 100, 29
+  size: 91, 66
+  orig: 91, 66
+  offset: 0, 0
+  index: -1
+image/tubiaodi
+  rotate: false
+  xy: 260, 832
+  size: 142, 142
+  orig: 146, 147
+  offset: 2, 2
+  index: -1
+image/xg1
+  rotate: false
+  xy: 260, 584
+  size: 108, 116
+  orig: 114, 122
+  offset: 3, 3
+  index: -1
+image/zdtx
+  rotate: false
+  xy: 193, 55
+  size: 148, 40
+  orig: 149, 41
+  offset: 1, 0
+  index: -1

@@ -1,0 +1,69 @@
+
+ef2_018_02.png
+size: 190,266
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/duwu1
+  rotate: false
+  xy: 2, 125
+  size: 115, 63
+  orig: 128, 100
+  offset: 2, 15
+  index: -1
+image/duwu2
+  rotate: false
+  xy: 2, 190
+  size: 123, 74
+  orig: 128, 100
+  offset: 5, 12
+  index: -1
+image/duwu3
+  rotate: false
+  xy: 2, 53
+  size: 102, 70
+  orig: 128, 100
+  offset: 12, 14
+  index: -1
+image/duwu4
+  rotate: true
+  xy: 119, 76
+  size: 103, 69
+  orig: 128, 100
+  offset: 9, 20
+  index: -1
+image/duwu5
+  rotate: true
+  xy: 127, 181
+  size: 83, 61
+  orig: 128, 100
+  offset: 11, 32
+  index: -1
+image/duwu6
+  rotate: false
+  xy: 106, 16
+  size: 80, 58
+  orig: 128, 100
+  offset: 12, 36
+  index: -1
+image/duwu7
+  rotate: false
+  xy: 2, 21
+  size: 70, 30
+  orig: 128, 100
+  offset: 14, 41
+  index: -1
+image/duwu8
+  rotate: false
+  xy: 2, 2
+  size: 63, 17
+  orig: 128, 100
+  offset: 17, 48
+  index: -1
+image/duwu9
+  rotate: true
+  xy: 106, 104
+  size: 19, 10
+  orig: 128, 100
+  offset: 18, 52
+  index: -1

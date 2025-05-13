@@ -1,0 +1,62 @@
+
+hc_ef4_015_01.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_00000
+  rotate: false
+  xy: 57, 184
+  size: 25, 56
+  orig: 128, 128
+  offset: 50, 41
+  index: -1
+1_00001
+  rotate: false
+  xy: 30, 173
+  size: 25, 67
+  orig: 128, 128
+  offset: 50, 30
+  index: -1
+1_00002
+  rotate: false
+  xy: 2, 166
+  size: 26, 74
+  orig: 128, 128
+  offset: 50, 21
+  index: -1
+1_00003
+  rotate: true
+  xy: 2, 2
+  size: 26, 60
+  orig: 128, 128
+  offset: 51, 34
+  index: -1
+1_00004
+  rotate: false
+  xy: 2, 97
+  size: 27, 67
+  orig: 128, 128
+  offset: 52, 26
+  index: -1
+1_00005
+  rotate: false
+  xy: 31, 111
+  size: 25, 60
+  orig: 128, 128
+  offset: 52, 34
+  index: -1
+1_00006
+  rotate: false
+  xy: 2, 30
+  size: 25, 65
+  orig: 128, 128
+  offset: 51, 30
+  index: -1
+1_00007
+  rotate: false
+  xy: 29, 34
+  size: 25, 61
+  orig: 128, 128
+  offset: 50, 35
+  index: -1

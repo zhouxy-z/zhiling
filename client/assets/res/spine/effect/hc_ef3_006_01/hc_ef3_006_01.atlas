@@ -1,0 +1,104 @@
+
+hc_ef3_006_01.png
+size: 295,295
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_00000
+  rotate: true
+  xy: 74, 2
+  size: 55, 59
+  orig: 512, 512
+  offset: 229, 225
+  index: -1
+1_00001
+  rotate: true
+  xy: 94, 213
+  size: 80, 87
+  orig: 512, 512
+  offset: 217, 210
+  index: -1
+1_00002
+  rotate: false
+  xy: 2, 196
+  size: 90, 97
+  orig: 512, 512
+  offset: 212, 205
+  index: -1
+1_00003
+  rotate: true
+  xy: 2, 108
+  size: 86, 94
+  orig: 512, 512
+  offset: 212, 209
+  index: -1
+1_00004
+  rotate: false
+  xy: 98, 133
+  size: 73, 78
+  orig: 512, 512
+  offset: 221, 216
+  index: -1
+1_00005
+  rotate: true
+  xy: 98, 59
+  size: 72, 79
+  orig: 512, 512
+  offset: 222, 213
+  index: -1
+1_00006
+  rotate: false
+  xy: 2, 30
+  size: 70, 76
+  orig: 512, 512
+  offset: 222, 216
+  index: -1
+1_00007
+  rotate: true
+  xy: 173, 141
+  size: 70, 76
+  orig: 512, 512
+  offset: 222, 216
+  index: -1
+1_00008
+  rotate: true
+  xy: 183, 223
+  size: 70, 76
+  orig: 512, 512
+  offset: 222, 216
+  index: -1
+1_00009
+  rotate: true
+  xy: 183, 223
+  size: 70, 76
+  orig: 512, 512
+  offset: 222, 216
+  index: -1
+1_00010
+  rotate: true
+  xy: 183, 223
+  size: 70, 76
+  orig: 512, 512
+  offset: 222, 216
+  index: -1
+1_00011
+  rotate: true
+  xy: 183, 223
+  size: 70, 76
+  orig: 512, 512
+  offset: 222, 216
+  index: -1
+1_00012
+  rotate: false
+  xy: 179, 66
+  size: 68, 73
+  orig: 512, 512
+  offset: 223, 218
+  index: -1
+1_00013
+  rotate: true
+  xy: 179, 2
+  size: 62, 67
+  orig: 512, 512
+  offset: 226, 221
+  index: -1

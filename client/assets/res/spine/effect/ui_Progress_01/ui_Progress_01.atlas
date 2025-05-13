@@ -1,0 +1,153 @@
+
+ui_Progress_01.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX1_00000
+  rotate: false
+  xy: 431, 598
+  size: 214, 89
+  orig: 400, 400
+  offset: 101, 157
+  index: -1
+FX1_00001
+  rotate: false
+  xy: 215, 714
+  size: 213, 87
+  orig: 400, 400
+  offset: 101, 158
+  index: -1
+FX1_00002
+  rotate: false
+  xy: 636, 778
+  size: 211, 86
+  orig: 400, 400
+  offset: 101, 159
+  index: -1
+FX1_00003
+  rotate: false
+  xy: 2, 892
+  size: 208, 83
+  orig: 400, 400
+  offset: 102, 160
+  index: -1
+FX1_00004
+  rotate: false
+  xy: 633, 890
+  size: 208, 85
+  orig: 400, 400
+  offset: 102, 159
+  index: -1
+FX1_00005
+  rotate: false
+  xy: 430, 689
+  size: 212, 87
+  orig: 400, 400
+  offset: 101, 158
+  index: -1
+FX1_00006
+  rotate: false
+  xy: 647, 561
+  size: 213, 89
+  orig: 400, 400
+  offset: 101, 157
+  index: -1
+FX1_00007
+  rotate: false
+  xy: 2, 509
+  size: 214, 89
+  orig: 400, 400
+  offset: 101, 157
+  index: -1
+FX1_00008
+  rotate: false
+  xy: 644, 689
+  size: 212, 87
+  orig: 400, 400
+  offset: 101, 158
+  index: -1
+FX1_00009
+  rotate: false
+  xy: 2, 805
+  size: 210, 85
+  orig: 400, 400
+  offset: 101, 159
+  index: -1
+FX1_00010
+  rotate: false
+  xy: 212, 892
+  size: 209, 83
+  orig: 400, 400
+  offset: 100, 160
+  index: -1
+FX1_00011
+  rotate: false
+  xy: 214, 805
+  size: 210, 85
+  orig: 400, 400
+  offset: 101, 159
+  index: -1
+FX1_00012
+  rotate: true
+  xy: 858, 652
+  size: 212, 87
+  orig: 400, 400
+  offset: 101, 158
+  index: -1
+FX1_00013
+  rotate: false
+  xy: 218, 507
+  size: 214, 89
+  orig: 400, 400
+  offset: 101, 157
+  index: -1
+FX1_00014
+  rotate: false
+  xy: 434, 470
+  size: 213, 89
+  orig: 400, 400
+  offset: 101, 157
+  index: -1
+FX1_00015
+  rotate: false
+  xy: 2, 625
+  size: 212, 87
+  orig: 400, 400
+  offset: 101, 158
+  index: -1
+FX1_00016
+  rotate: false
+  xy: 426, 803
+  size: 208, 85
+  orig: 400, 400
+  offset: 102, 159
+  index: -1
+FX1_00017
+  rotate: false
+  xy: 423, 892
+  size: 208, 83
+  orig: 400, 400
+  offset: 102, 160
+  index: -1
+FX1_00018
+  rotate: false
+  xy: 2, 717
+  size: 211, 86
+  orig: 400, 400
+  offset: 101, 159
+  index: -1
+FX1_00019
+  rotate: false
+  xy: 216, 600
+  size: 213, 87
+  orig: 400, 400
+  offset: 101, 158
+  index: -1
+FX2_00000
+  rotate: true
+  xy: 843, 866
+  size: 109, 132
+  orig: 400, 400
+  offset: 145, 138
+  index: -1

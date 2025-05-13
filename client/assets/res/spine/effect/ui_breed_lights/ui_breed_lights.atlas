@@ -1,0 +1,118 @@
+
+ui_breed_lights.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0_00000
+  rotate: false
+  xy: 2, 812
+  size: 528, 480
+  orig: 540, 540
+  offset: 6, 9
+  index: -1
+1_00000
+  rotate: true
+  xy: 532, 1024
+  size: 268, 239
+  orig: 270, 270
+  offset: 2, 1
+  index: -1
+1_00001
+  rotate: true
+  xy: 532, 754
+  size: 268, 239
+  orig: 270, 270
+  offset: 2, 1
+  index: -1
+1_00002
+  rotate: true
+  xy: 2, 542
+  size: 268, 239
+  orig: 270, 270
+  offset: 2, 1
+  index: -1
+1_00003
+  rotate: true
+  xy: 243, 542
+  size: 268, 239
+  orig: 270, 270
+  offset: 2, 1
+  index: -1
+1_00004
+  rotate: true
+  xy: 243, 272
+  size: 268, 238
+  orig: 270, 270
+  offset: 2, 1
+  index: -1
+1_00005
+  rotate: true
+  xy: 754, 484
+  size: 268, 238
+  orig: 270, 270
+  offset: 2, 1
+  index: -1
+1_00006
+  rotate: true
+  xy: 483, 243
+  size: 268, 238
+  orig: 270, 270
+  offset: 2, 1
+  index: -1
+1_00007
+  rotate: true
+  xy: 2, 2
+  size: 268, 238
+  orig: 270, 270
+  offset: 2, 1
+  index: -1
+1_00008
+  rotate: true
+  xy: 242, 2
+  size: 268, 238
+  orig: 270, 270
+  offset: 2, 1
+  index: -1
+1_00009
+  rotate: false
+  xy: 773, 1054
+  size: 268, 238
+  orig: 270, 270
+  offset: 2, 1
+  index: -1
+1_00010
+  rotate: false
+  xy: 773, 814
+  size: 268, 238
+  orig: 270, 270
+  offset: 2, 1
+  index: -1
+1_00011
+  rotate: false
+  xy: 723, 244
+  size: 268, 238
+  orig: 270, 270
+  offset: 2, 1
+  index: -1
+1_00012
+  rotate: true
+  xy: 993, 214
+  size: 268, 238
+  orig: 270, 270
+  offset: 2, 1
+  index: -1
+1_00013
+  rotate: false
+  xy: 484, 513
+  size: 268, 239
+  orig: 270, 270
+  offset: 2, 1
+  index: -1
+1_00014
+  rotate: true
+  xy: 2, 272
+  size: 268, 239
+  orig: 270, 270
+  offset: 2, 1
+  index: -1

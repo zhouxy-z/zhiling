@@ -1,0 +1,83 @@
+
+ef2_005_01.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_00000
+  rotate: true
+  xy: 83, 441
+  size: 69, 75
+  orig: 200, 200
+  offset: 63, 63
+  index: -1
+1_00001
+  rotate: true
+  xy: 160, 441
+  size: 69, 75
+  orig: 200, 200
+  offset: 63, 63
+  index: -1
+1_00002
+  rotate: false
+  xy: 237, 430
+  size: 81, 80
+  orig: 200, 200
+  offset: 63, 62
+  index: -1
+1_00003
+  rotate: false
+  xy: 320, 424
+  size: 95, 86
+  orig: 200, 200
+  offset: 54, 61
+  index: -1
+1_00004
+  rotate: false
+  xy: 335, 308
+  size: 113, 104
+  orig: 200, 200
+  offset: 40, 52
+  index: -1
+1_00005
+  rotate: false
+  xy: 220, 319
+  size: 113, 103
+  orig: 200, 200
+  offset: 38, 56
+  index: -1
+1_00006
+  rotate: false
+  xy: 2, 344
+  size: 107, 95
+  orig: 200, 200
+  offset: 44, 61
+  index: -1
+1_00007
+  rotate: false
+  xy: 111, 344
+  size: 107, 95
+  orig: 200, 200
+  offset: 44, 61
+  index: -1
+1_00008
+  rotate: true
+  xy: 417, 414
+  size: 96, 93
+  orig: 200, 200
+  offset: 55, 64
+  index: -1
+1_00009
+  rotate: false
+  xy: 2, 467
+  size: 79, 43
+  orig: 200, 200
+  offset: 65, 87
+  index: -1
+1_00010
+  rotate: false
+  xy: 2, 467
+  size: 79, 43
+  orig: 200, 200
+  offset: 65, 87
+  index: -1

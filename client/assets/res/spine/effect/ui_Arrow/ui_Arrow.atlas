@@ -1,0 +1,13 @@
+
+ui_Arrow.png
+size: 64,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jt
+  rotate: false
+  xy: 2, 2
+  size: 45, 53
+  orig: 45, 53
+  offset: 0, 0
+  index: -1

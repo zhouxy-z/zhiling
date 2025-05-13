@@ -1,0 +1,57 @@
+{
+"skeleton": {
+	"hash": "VMsPIa8aiG63SMBUMB3HFNwHPuY",
+	"spine": "3.8.99",
+	"x": -67,
+	"y": -63,
+	"width": 134,
+	"height": 126,
+	"images": "",
+	"audio": ""
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "zidan", "parent": "root" }
+],
+"slots": [
+	{ "name": "Bullet_1", "bone": "zidan", "attachment": "Bullet_1" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"Bullet_1": {
+				"Bullet_1": { "width": 134, "height": 126 }
+			}
+		}
+	}
+],
+"animations": {
+	"Back": {
+		"bones": {
+			"zidan": {
+				"rotate": [
+					{},
+					{ "time": 0.1667, "angle": -90 },
+					{ "time": 0.3333, "angle": -180 },
+					{ "time": 0.5, "angle": 90 },
+					{ "time": 0.6667 }
+				]
+			}
+		}
+	},
+	"Front": {
+		"bones": {
+			"zidan": {
+				"rotate": [
+					{},
+					{ "time": 0.1667, "angle": -90 },
+					{ "time": 0.3333, "angle": -180 },
+					{ "time": 0.5, "angle": 90 },
+					{ "time": 0.6667 }
+				]
+			}
+		}
+	}
+}
+}

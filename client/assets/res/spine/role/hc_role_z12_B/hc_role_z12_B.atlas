@@ -1,0 +1,125 @@
+
+hc_role_z12_B.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shadow
+  rotate: true
+  xy: 60, 35
+  size: 91, 17
+  orig: 93, 17
+  offset: 1, 0
+  index: -1
+body
+  rotate: false
+  xy: 79, 82
+  size: 29, 44
+  orig: 29, 44
+  offset: 0, 0
+  index: -1
+dg2
+  rotate: true
+  xy: 34, 5
+  size: 26, 33
+  orig: 26, 33
+  offset: 0, 0
+  index: -1
+doupeng
+  rotate: true
+  xy: 79, 38
+  size: 42, 28
+  orig: 42, 28
+  offset: 0, 0
+  index: -1
+e_l
+  rotate: true
+  xy: 82, 17
+  size: 8, 14
+  orig: 8, 14
+  offset: 0, 0
+  index: -1
+e_r
+  rotate: true
+  xy: 82, 7
+  size: 8, 14
+  orig: 8, 14
+  offset: 0, 0
+  index: -1
+gd1
+  rotate: false
+  xy: 2, 70
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+h_l
+  rotate: false
+  xy: 110, 86
+  size: 11, 19
+  orig: 11, 19
+  offset: 0, 0
+  index: -1
+h_l_back
+  rotate: false
+  xy: 110, 107
+  size: 12, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
+h_r
+  rotate: false
+  xy: 34, 33
+  size: 12, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
+h_r_back
+  rotate: false
+  xy: 69, 14
+  size: 11, 19
+  orig: 11, 19
+  offset: 0, 0
+  index: -1
+jianbang1
+  rotate: true
+  xy: 98, 13
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: -1
+jianbang2
+  rotate: true
+  xy: 69, 2
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+m
+  rotate: true
+  xy: 48, 33
+  size: 19, 10
+  orig: 19, 10
+  offset: 0, 0
+  index: -1
+s
+  rotate: false
+  xy: 34, 54
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+tou_r
+  rotate: true
+  xy: 2, 11
+  size: 57, 30
+  orig: 57, 30
+  offset: 0, 0
+  index: -1
+win
+  rotate: false
+  xy: 82, 27
+  size: 19, 9
+  orig: 19, 9
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,29 @@
+{
+  "__version__": "1.0.6",
+  "general": {
+    "designResolution": {
+      "width": 1080,
+      "height": 1920,
+      "fitWidth": true,
+      "fitHeight": false
+    }
+  },
+  "script": {
+    "importMap": "project://import-map.json"
+  },
+  "custom_joint_texture_layouts": [],
+  "layer": [
+    {
+      "name": "SCENE",
+      "value": 1
+    },
+    {
+      "name": "UI",
+      "value": 2
+    },
+    {
+      "name": "FILM",
+      "value": 4
+    }
+  ]
+}

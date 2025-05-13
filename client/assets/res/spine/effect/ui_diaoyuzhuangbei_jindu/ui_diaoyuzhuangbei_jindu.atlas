@@ -1,0 +1,223 @@
+
+ui_diaoyuzhuangbei_jindu.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_00000
+  rotate: false
+  xy: 267, 276
+  size: 63, 61
+  orig: 256, 256
+  offset: 96, 96
+  index: -1
+FX1_00000
+  rotate: false
+  xy: 2, 470
+  size: 84, 33
+  orig: 256, 256
+  offset: 63, 107
+  index: -1
+FX1_00001
+  rotate: false
+  xy: 166, 387
+  size: 71, 40
+  orig: 256, 256
+  offset: 71, 107
+  index: -1
+FX1_00002
+  rotate: true
+  xy: 458, 397
+  size: 68, 40
+  orig: 256, 256
+  offset: 69, 107
+  index: -1
+FX1_00003
+  rotate: false
+  xy: 313, 427
+  size: 72, 39
+  orig: 256, 256
+  offset: 67, 108
+  index: -1
+FX1_00004
+  rotate: false
+  xy: 387, 426
+  size: 69, 39
+  orig: 256, 256
+  offset: 77, 108
+  index: -1
+FX1_00005
+  rotate: false
+  xy: 89, 429
+  size: 65, 38
+  orig: 256, 256
+  offset: 75, 108
+  index: -1
+FX1_00006
+  rotate: false
+  xy: 246, 428
+  size: 65, 38
+  orig: 256, 256
+  offset: 73, 107
+  index: -1
+FX1_00007
+  rotate: false
+  xy: 185, 340
+  size: 76, 43
+  orig: 256, 256
+  offset: 70, 107
+  index: -1
+FX1_00008
+  rotate: true
+  xy: 409, 355
+  size: 69, 46
+  orig: 256, 256
+  offset: 71, 106
+  index: -1
+FX1_00009
+  rotate: true
+  xy: 457, 316
+  size: 79, 46
+  orig: 256, 256
+  offset: 68, 106
+  index: -1
+FX1_00010
+  rotate: false
+  xy: 239, 385
+  size: 82, 40
+  orig: 256, 256
+  offset: 64, 111
+  index: -1
+FX1_00011
+  rotate: false
+  xy: 2, 390
+  size: 82, 39
+  orig: 256, 256
+  offset: 61, 111
+  index: -1
+FX1_00012
+  rotate: false
+  xy: 156, 429
+  size: 88, 37
+  orig: 256, 256
+  offset: 58, 111
+  index: -1
+FX1_00013
+  rotate: false
+  xy: 405, 467
+  size: 87, 36
+  orig: 256, 256
+  offset: 55, 111
+  index: -1
+FX1_00014
+  rotate: false
+  xy: 88, 469
+  size: 87, 34
+  orig: 256, 256
+  offset: 52, 111
+  index: -1
+FX1_00015
+  rotate: false
+  xy: 177, 468
+  size: 75, 35
+  orig: 256, 256
+  offset: 72, 110
+  index: -1
+FX1_00016
+  rotate: false
+  xy: 254, 468
+  size: 74, 35
+  orig: 256, 256
+  offset: 71, 110
+  index: -1
+FX1_00017
+  rotate: false
+  xy: 330, 468
+  size: 73, 35
+  orig: 256, 256
+  offset: 69, 111
+  index: -1
+FX1_00018
+  rotate: false
+  xy: 86, 388
+  size: 78, 39
+  orig: 256, 256
+  offset: 66, 107
+  index: -1
+FX1_00019
+  rotate: false
+  xy: 323, 384
+  size: 84, 40
+  orig: 256, 256
+  offset: 63, 105
+  index: -1
+FX1_00020
+  rotate: false
+  xy: 2, 298
+  size: 83, 46
+  orig: 256, 256
+  offset: 61, 105
+  index: -1
+FX1_00021
+  rotate: false
+  xy: 179, 291
+  size: 86, 46
+  orig: 256, 256
+  offset: 59, 106
+  index: -1
+FX1_00022
+  rotate: false
+  xy: 332, 261
+  size: 90, 46
+  orig: 256, 256
+  offset: 57, 106
+  index: -1
+FX1_00023
+  rotate: false
+  xy: 2, 249
+  size: 90, 46
+  orig: 256, 256
+  offset: 55, 106
+  index: -1
+FX1_00024
+  rotate: false
+  xy: 87, 297
+  size: 90, 45
+  orig: 256, 256
+  offset: 53, 106
+  index: -1
+FX1_00025
+  rotate: false
+  xy: 351, 309
+  size: 87, 44
+  orig: 256, 256
+  offset: 54, 106
+  index: -1
+FX1_00026
+  rotate: false
+  xy: 263, 339
+  size: 86, 43
+  orig: 256, 256
+  offset: 52, 106
+  index: -1
+FX1_00027
+  rotate: false
+  xy: 93, 344
+  size: 90, 41
+  orig: 256, 256
+  offset: 50, 106
+  index: -1
+FX1_00028
+  rotate: false
+  xy: 2, 346
+  size: 89, 40
+  orig: 256, 256
+  offset: 48, 106
+  index: -1
+FX1_00029
+  rotate: false
+  xy: 2, 431
+  size: 85, 36
+  orig: 256, 256
+  offset: 47, 106
+  index: -1

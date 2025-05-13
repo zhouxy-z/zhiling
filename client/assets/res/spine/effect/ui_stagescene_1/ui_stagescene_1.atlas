@@ -1,0 +1,104 @@
+
+ui_stagescene_1.png
+size: 443,1031
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/cloud_2
+  rotate: true
+  xy: 225, 140
+  size: 397, 211
+  orig: 409, 226
+  offset: 0, 15
+  index: -1
+image/cloud_3
+  rotate: true
+  xy: 2, 539
+  size: 490, 256
+  orig: 496, 257
+  offset: 0, 1
+  index: -1
+image/cloud_4
+  rotate: true
+  xy: 2, 18
+  size: 519, 221
+  orig: 519, 223
+  offset: 0, 2
+  index: -1
+image/feng1
+  rotate: false
+  xy: 260, 698
+  size: 21, 331
+  orig: 21, 331
+  offset: 0, 0
+  index: -1
+image/jingyu1
+  rotate: false
+  xy: 387, 873
+  size: 31, 25
+  orig: 129, 86
+  offset: 46, 0
+  index: -1
+image/jingyu2
+  rotate: true
+  xy: 397, 900
+  size: 129, 38
+  orig: 129, 86
+  offset: 0, 0
+  index: -1
+image/jingyu3
+  rotate: true
+  xy: 354, 552
+  size: 127, 73
+  orig: 129, 86
+  offset: 2, 13
+  index: -1
+image/jingyu4
+  rotate: true
+  xy: 2, 2
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+image/penquan_1
+  rotate: true
+  xy: 283, 681
+  size: 94, 124
+  orig: 118, 129
+  offset: 6, 0
+  index: -1
+image/penquan_2
+  rotate: false
+  xy: 260, 554
+  size: 92, 125
+  orig: 118, 129
+  offset: 2, 1
+  index: -1
+image/penquan_3
+  rotate: false
+  xy: 349, 10
+  size: 92, 128
+  orig: 118, 129
+  offset: 8, 1
+  index: -1
+image/penquan_4
+  rotate: false
+  xy: 283, 777
+  size: 102, 128
+  orig: 118, 129
+  offset: 4, 0
+  index: -1
+image/penquan_5
+  rotate: true
+  xy: 225, 24
+  size: 114, 122
+  orig: 118, 129
+  offset: 0, 1
+  index: -1
+image/penquan_6
+  rotate: false
+  xy: 283, 907
+  size: 112, 122
+  orig: 118, 129
+  offset: 6, 1
+  index: -1

@@ -1,0 +1,111 @@
+
+ui_FFL_icon_04.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX_00000
+  rotate: true
+  xy: 259, 133
+  size: 123, 127
+  orig: 195, 195
+  offset: 36, 34
+  index: -1
+FX_00001
+  rotate: true
+  xy: 2, 2
+  size: 121, 127
+  orig: 195, 195
+  offset: 37, 34
+  index: -1
+FX_00002
+  rotate: false
+  xy: 388, 254
+  size: 121, 127
+  orig: 195, 195
+  offset: 37, 34
+  index: -1
+FX_00003
+  rotate: false
+  xy: 2, 125
+  size: 125, 127
+  orig: 195, 195
+  offset: 35, 34
+  index: -1
+FX_00004
+  rotate: false
+  xy: 2, 383
+  size: 126, 127
+  orig: 195, 195
+  offset: 35, 34
+  index: -1
+FX_00005
+  rotate: true
+  xy: 2, 254
+  size: 127, 126
+  orig: 195, 195
+  offset: 34, 34
+  index: -1
+FX_00006
+  rotate: false
+  xy: 259, 385
+  size: 127, 125
+  orig: 195, 195
+  offset: 34, 35
+  index: -1
+FX_00007
+  rotate: false
+  xy: 130, 257
+  size: 127, 125
+  orig: 195, 195
+  offset: 34, 35
+  index: -1
+FX_00008
+  rotate: true
+  xy: 388, 383
+  size: 127, 122
+  orig: 195, 195
+  offset: 34, 36
+  index: -1
+FX_00009
+  rotate: true
+  xy: 388, 125
+  size: 127, 119
+  orig: 195, 195
+  offset: 34, 38
+  index: -1
+FX_00010
+  rotate: false
+  xy: 130, 132
+  size: 127, 123
+  orig: 195, 195
+  offset: 34, 36
+  index: -1
+FX_00011
+  rotate: false
+  xy: 259, 258
+  size: 127, 125
+  orig: 195, 195
+  offset: 34, 35
+  index: -1
+FX_00012
+  rotate: false
+  xy: 130, 384
+  size: 127, 126
+  orig: 195, 195
+  offset: 34, 34
+  index: -1
+FX_00013
+  rotate: false
+  xy: 131, 3
+  size: 125, 127
+  orig: 195, 195
+  offset: 35, 34
+  index: -1
+FX_00014
+  rotate: true
+  xy: 259, 6
+  size: 125, 127
+  orig: 195, 195
+  offset: 35, 34
+  index: -1

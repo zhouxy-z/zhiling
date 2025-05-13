@@ -1,0 +1,83 @@
+
+cj_108.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_00000
+  rotate: false
+  xy: 743, 668
+  size: 83, 335
+  orig: 256, 512
+  offset: 77, 81
+  index: -1
+1_00001
+  rotate: false
+  xy: 653, 668
+  size: 88, 335
+  orig: 256, 512
+  offset: 77, 81
+  index: -1
+1_00002
+  rotate: false
+  xy: 2, 666
+  size: 94, 337
+  orig: 256, 512
+  offset: 77, 81
+  index: -1
+1_00003
+  rotate: false
+  xy: 376, 667
+  size: 89, 336
+  orig: 256, 512
+  offset: 82, 82
+  index: -1
+1_00004
+  rotate: false
+  xy: 191, 667
+  size: 90, 336
+  orig: 256, 512
+  offset: 81, 82
+  index: -1
+1_00005
+  rotate: false
+  xy: 98, 667
+  size: 91, 336
+  orig: 256, 512
+  offset: 80, 82
+  index: -1
+1_00006
+  rotate: false
+  xy: 561, 671
+  size: 90, 332
+  orig: 256, 512
+  offset: 80, 82
+  index: -1
+1_00007
+  rotate: false
+  xy: 283, 672
+  size: 91, 331
+  orig: 256, 512
+  offset: 79, 82
+  index: -1
+1_00008
+  rotate: false
+  xy: 467, 678
+  size: 92, 325
+  orig: 256, 512
+  offset: 78, 81
+  index: -1
+1_00009
+  rotate: false
+  xy: 915, 722
+  size: 88, 281
+  orig: 256, 512
+  offset: 78, 81
+  index: -1
+pb07
+  rotate: false
+  xy: 828, 676
+  size: 85, 327
+  orig: 86, 327
+  offset: 1, 0
+  index: -1

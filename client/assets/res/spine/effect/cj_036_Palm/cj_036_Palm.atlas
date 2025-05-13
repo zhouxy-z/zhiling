@@ -1,0 +1,27 @@
+
+cj_036_Palm.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SG
+  rotate: true
+  xy: 2, 368
+  size: 82, 192
+  orig: 85, 194
+  offset: 0, 0
+  index: -1
+Y1
+  rotate: false
+  xy: 196, 312
+  size: 211, 138
+  orig: 211, 138
+  offset: 0, 0
+  index: -1
+Y2
+  rotate: false
+  xy: 2, 2
+  size: 418, 308
+  orig: 418, 308
+  offset: 0, 0
+  index: -1

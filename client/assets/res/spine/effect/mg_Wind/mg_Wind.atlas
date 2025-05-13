@@ -1,0 +1,209 @@
+
+mg_Wind.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/1_00000
+  rotate: true
+  xy: 1856, 1886
+  size: 159, 163
+  orig: 512, 512
+  offset: 171, 193
+  index: -1
+image/1_00001
+  rotate: false
+  xy: 1202, 1704
+  size: 227, 189
+  orig: 512, 512
+  offset: 121, 179
+  index: -1
+image/1_00002
+  rotate: false
+  xy: 2, 1541
+  size: 249, 239
+  orig: 512, 512
+  offset: 126, 169
+  index: -1
+image/1_00003
+  rotate: false
+  xy: 1624, 1382
+  size: 274, 263
+  orig: 512, 512
+  offset: 133, 156
+  index: -1
+image/1_00004
+  rotate: false
+  xy: 2, 1242
+  size: 305, 265
+  orig: 512, 512
+  offset: 119, 154
+  index: -1
+image/1_00005
+  rotate: false
+  xy: 1193, 1130
+  size: 299, 268
+  orig: 512, 512
+  offset: 120, 145
+  index: -1
+image/1_00006
+  rotate: false
+  xy: 2, 961
+  size: 282, 279
+  orig: 512, 512
+  offset: 118, 146
+  index: -1
+image/1_00007
+  rotate: false
+  xy: 1494, 1107
+  size: 273, 273
+  orig: 512, 512
+  offset: 129, 151
+  index: -1
+image/1_00008
+  rotate: false
+  xy: 1044, 1445
+  size: 272, 257
+  orig: 512, 512
+  offset: 120, 150
+  index: -1
+image/1_00009
+  rotate: false
+  xy: 911, 1176
+  size: 280, 267
+  orig: 512, 512
+  offset: 105, 154
+  index: -1
+image/1_00010
+  rotate: true
+  xy: 1769, 1099
+  size: 281, 276
+  orig: 512, 512
+  offset: 76, 153
+  index: -1
+image/1_00011
+  rotate: false
+  xy: 309, 1224
+  size: 301, 266
+  orig: 512, 512
+  offset: 54, 152
+  index: -1
+image/1_00012
+  rotate: false
+  xy: 1318, 1400
+  size: 304, 260
+  orig: 512, 512
+  offset: 65, 155
+  index: -1
+image/1_00013
+  rotate: false
+  xy: 612, 1207
+  size: 297, 266
+  orig: 512, 512
+  offset: 77, 148
+  index: -1
+image/1_00014
+  rotate: true
+  xy: 253, 1509
+  size: 250, 268
+  orig: 512, 512
+  offset: 110, 153
+  index: -1
+image/1_00015
+  rotate: true
+  xy: 781, 1475
+  size: 252, 261
+  orig: 512, 512
+  offset: 125, 151
+  index: -1
+image/1_00016
+  rotate: true
+  xy: 523, 1492
+  size: 250, 256
+  orig: 512, 512
+  offset: 133, 147
+  index: -1
+image/1_00017
+  rotate: true
+  xy: 1431, 1662
+  size: 225, 248
+  orig: 512, 512
+  offset: 143, 154
+  index: -1
+image/1_00018
+  rotate: false
+  xy: 1681, 1647
+  size: 242, 237
+  orig: 512, 512
+  offset: 126, 153
+  index: -1
+image/1_00019
+  rotate: true
+  xy: 329, 1761
+  size: 183, 225
+  orig: 512, 512
+  offset: 179, 160
+  index: -1
+image/yanwu04_1
+  rotate: false
+  xy: 915, 1899
+  size: 309, 146
+  orig: 333, 218
+  offset: 10, 11
+  index: -1
+image/yanwu04_2
+  rotate: false
+  xy: 1226, 1895
+  size: 304, 150
+  orig: 333, 218
+  offset: 11, 7
+  index: -1
+image/yanwu04_3
+  rotate: false
+  xy: 1532, 1889
+  size: 322, 156
+  orig: 333, 218
+  offset: 6, 12
+  index: -1
+image/yanwu04_4
+  rotate: false
+  xy: 2, 1782
+  size: 325, 162
+  orig: 333, 218
+  offset: 6, 11
+  index: -1
+image/yanwu04_5
+  rotate: false
+  xy: 883, 1729
+  size: 317, 168
+  orig: 333, 218
+  offset: 11, 17
+  index: -1
+image/yanwu04_6
+  rotate: false
+  xy: 556, 1744
+  size: 325, 163
+  orig: 333, 218
+  offset: 7, 16
+  index: -1
+image/yanwu04_7
+  rotate: false
+  xy: 601, 1909
+  size: 312, 136
+  orig: 333, 218
+  offset: 21, 21
+  index: -1
+image/yanwu04_8
+  rotate: false
+  xy: 298, 1946
+  size: 301, 99
+  orig: 333, 218
+  offset: 21, 20
+  index: -1
+image/yanwu04_9
+  rotate: false
+  xy: 2, 1953
+  size: 294, 92
+  orig: 333, 218
+  offset: 28, 18
+  index: -1

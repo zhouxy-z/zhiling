@@ -1,0 +1,288 @@
+{
+"skeleton": {
+	"hash": "zacAegxYgm6VyvzAXmF3mZeGWm8",
+	"spine": "3.8.99",
+	"x": -486,
+	"y": -362.5,
+	"width": 972,
+	"height": 758.2,
+	"images": "./image/",
+	"audio": "I:/端点游戏项目/动效/spine/新游戏/UI特效/ui_bossrankbg"
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "result", "parent": "root", "y": -157 },
+	{ "name": "dd", "parent": "result", "y": 157.33 },
+	{ "name": "tw", "parent": "result", "y": 147.5 },
+	{ "name": "hg", "parent": "result", "y": 198.7 },
+	{ "name": "js", "parent": "result", "y": 256.31 },
+	{ "name": "q1", "parent": "tw" },
+	{ "name": "q2", "parent": "tw" },
+	{ "name": "x1", "parent": "tw", "x": 209.7, "y": 207.19 },
+	{ "name": "x2", "parent": "tw", "x": -208.79, "y": 205.7 },
+	{ "name": "wenzi", "parent": "result", "y": 157.33 }
+],
+"slots": [
+	{ "name": "tuwen", "bone": "q1", "color": "ffffff00", "attachment": "tuwen1" },
+	{ "name": "tuwen2", "bone": "q2", "color": "ffffff00", "attachment": "tuwen2" },
+	{ "name": "x1", "bone": "x1", "color": "ffffff00", "attachment": "x1" },
+	{ "name": "x2", "bone": "x2", "color": "ffffff00", "attachment": "x2" },
+	{ "name": "hg", "bone": "hg", "color": "ffffff00", "attachment": "hg" },
+	{ "name": "dd", "bone": "dd", "color": "ffffff00", "attachment": "dd" },
+	{ "name": "战斗结算", "bone": "js", "color": "ffffff00", "attachment": "战斗结算" },
+	{ "name": "战斗结算2", "bone": "js", "color": "ffffff00", "attachment": "战斗结算", "blend": "screen" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"dd": {
+				"dd": { "y": 0.5, "width": 972, "height": 105 }
+			},
+			"hg": {
+				"hg": { "x": 0.5, "width": 967, "height": 708 }
+			},
+			"tuwen": {
+				"tuwen1": { "x": 0.5, "y": 0.5, "width": 719, "height": 707 }
+			},
+			"tuwen2": {
+				"tuwen2": { "x": 0.5, "y": 0.5, "width": 719, "height": 707 }
+			},
+			"x1": {
+				"x1": { "x": 20.93, "y": 20.25, "width": 49, "height": 47 }
+			},
+			"x2": {
+				"x2": { "x": -19.44, "y": 16.7, "width": 48, "height": 43 }
+			},
+			"战斗结算": {
+				"战斗结算": { "width": 480, "height": 160 }
+			},
+			"战斗结算2": {
+				"战斗结算": { "width": 480, "height": 160 }
+			}
+		}
+	}
+],
+"animations": {
+	"loop": {
+		"slots": {
+			"dd": {
+				"color": [
+					{ "color": "ffffffff" }
+				]
+			},
+			"hg": {
+				"color": [
+					{ "color": "ffffffff" }
+				]
+			},
+			"tuwen": {
+				"color": [
+					{ "color": "ffffffff" }
+				]
+			},
+			"tuwen2": {
+				"color": [
+					{ "color": "ffffffff" }
+				]
+			},
+			"x1": {
+				"color": [
+					{ "color": "ffffffff" }
+				]
+			},
+			"x2": {
+				"color": [
+					{ "color": "ffffffff" }
+				]
+			},
+			"战斗结算": {
+				"color": [
+					{ "color": "ffffffff" }
+				]
+			},
+			"战斗结算2": {
+				"color": [
+					{ "color": "ffffffcc" },
+					{ "time": 1, "color": "ffffff00" },
+					{ "time": 2, "color": "ffffffcc" }
+				]
+			}
+		},
+		"bones": {
+			"x1": {
+				"scale": [
+					{},
+					{ "time": 0.5, "x": 1.2, "y": 1.2 },
+					{ "time": 1 },
+					{ "time": 1.5, "x": 1.2, "y": 1.2 },
+					{ "time": 2 }
+				]
+			},
+			"dd": {
+				"scale": [
+					{}
+				]
+			},
+			"x2": {
+				"scale": [
+					{ "x": 1.133, "y": 1.133 },
+					{ "time": 0.3333 },
+					{ "time": 0.8333, "x": 1.2, "y": 1.2 },
+					{ "time": 1.3333 },
+					{ "time": 1.8333, "x": 1.2, "y": 1.2 },
+					{ "time": 2, "x": 1.133, "y": 1.133 }
+				]
+			},
+			"q1": {
+				"scale": [
+					{}
+				]
+			},
+			"js": {
+				"scale": [
+					{}
+				]
+			},
+			"tw": {
+				"scale": [
+					{}
+				]
+			},
+			"q2": {
+				"scale": [
+					{ "x": 1.04, "y": 1.04, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2, "x": 1.04, "y": 1.04 }
+				]
+			},
+			"wenzi": {
+				"scale": [
+					{}
+				]
+			}
+		}
+	},
+	"start": {
+		"slots": {
+			"dd": {
+				"color": [
+					{ "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1.5, "color": "ffffffff" }
+				]
+			},
+			"hg": {
+				"color": [
+					{ "color": "ffffff00" },
+					{ "time": 0.5, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1.5, "color": "ffffffff" }
+				]
+			},
+			"tuwen": {
+				"color": [
+					{ "color": "ffffff00", "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.1667, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1.5, "color": "ffffffff" }
+				]
+			},
+			"tuwen2": {
+				"color": [
+					{ "color": "ffffff00", "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.1667, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1.5, "color": "ffffffff" }
+				]
+			},
+			"x1": {
+				"color": [
+					{ "color": "ffffffff" }
+				]
+			},
+			"x2": {
+				"color": [
+					{ "color": "ffffffff" }
+				]
+			},
+			"战斗结算": {
+				"color": [
+					{ "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1.5, "color": "ffffffff" }
+				]
+			},
+			"战斗结算2": {
+				"color": [
+					{ "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.5, "color": "ffffff00" },
+					{ "time": 1.5, "color": "ffffffff" }
+				]
+			}
+		},
+		"bones": {
+			"dd": {
+				"scale": [
+					{ "x": 0, "curve": "stepped" },
+					{ "time": 0.2333, "x": 0 },
+					{ "time": 0.4, "x": 1.1 },
+					{ "time": 0.5, "x": 0.9 },
+					{ "time": 0.5667, "curve": "stepped" },
+					{ "time": 1.5 }
+				]
+			},
+			"js": {
+				"translate": [
+					{}
+				],
+				"scale": [
+					{ "x": 0, "y": 0 },
+					{ "time": 0.2333, "x": 1.1, "y": 1.1 },
+					{ "time": 0.4, "x": 0.9, "y": 0.9 },
+					{ "time": 0.5, "curve": "stepped" },
+					{ "time": 1.5 }
+				]
+			},
+			"tw": {
+				"scale": [
+					{ "x": 0, "y": 0, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.5, "curve": "stepped" },
+					{ "time": 1.5 }
+				]
+			},
+			"q1": {
+				"scale": [
+					{ "time": 0.5, "curve": "stepped" },
+					{ "time": 1.5 }
+				]
+			},
+			"q2": {
+				"scale": [
+					{ "time": 0.5, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.5, "x": 1.04, "y": 1.04 }
+				]
+			},
+			"x1": {
+				"scale": [
+					{ "time": 0.5 },
+					{ "time": 1, "x": 1.2, "y": 1.2 },
+					{ "time": 1.5 }
+				]
+			},
+			"x2": {
+				"scale": [
+					{ "time": 0.8333 },
+					{ "time": 1.3333, "x": 1.2, "y": 1.2 },
+					{ "time": 1.5, "x": 1.133, "y": 1.133 }
+				]
+			},
+			"wenzi": {
+				"scale": [
+					{ "x": 0, "curve": "stepped" },
+					{ "time": 0.2333, "x": 0 },
+					{ "time": 0.4, "x": 1.1 },
+					{ "time": 0.5, "x": 0.9 },
+					{ "time": 0.5667, "curve": "stepped" },
+					{ "time": 1.5 }
+				]
+			}
+		}
+	}
+}
+}

@@ -1,0 +1,62 @@
+
+ef4_007_01.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_00000
+  rotate: false
+  xy: 2, 386
+  size: 132, 61
+  orig: 256, 128
+  offset: 44, 33
+  index: -1
+1_00001
+  rotate: false
+  xy: 2, 449
+  size: 124, 59
+  orig: 256, 128
+  offset: 44, 34
+  index: -1
+1_00002
+  rotate: false
+  xy: 128, 449
+  size: 115, 59
+  orig: 256, 128
+  offset: 43, 34
+  index: -1
+1_00003
+  rotate: false
+  xy: 136, 386
+  size: 117, 61
+  orig: 256, 128
+  offset: 40, 33
+  index: -1
+1_00004
+  rotate: false
+  xy: 255, 386
+  size: 138, 61
+  orig: 256, 128
+  offset: 38, 33
+  index: -1
+1_00005
+  rotate: false
+  xy: 245, 449
+  size: 130, 59
+  orig: 256, 128
+  offset: 38, 34
+  index: -1
+1_00006
+  rotate: false
+  xy: 377, 449
+  size: 118, 59
+  orig: 256, 128
+  offset: 40, 34
+  index: -1
+1_00007
+  rotate: false
+  xy: 395, 386
+  size: 113, 61
+  orig: 256, 128
+  offset: 44, 33
+  index: -1

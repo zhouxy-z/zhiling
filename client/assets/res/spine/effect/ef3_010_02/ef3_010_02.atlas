@@ -1,0 +1,20 @@
+
+ef3_010_02.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/ghnc
+  rotate: true
+  xy: 2, 2
+  size: 34, 37
+  orig: 48, 48
+  offset: 7, 6
+  index: -1
+image/ghwc
+  rotate: false
+  xy: 2, 38
+  size: 44, 44
+  orig: 48, 48
+  offset: 2, 2
+  index: -1

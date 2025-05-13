@@ -1,0 +1,20 @@
+
+ui_breed_Success.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GX
+  rotate: false
+  xy: 2, 2
+  size: 757, 724
+  orig: 960, 960
+  offset: 125, 120
+  index: -1
+GY
+  rotate: false
+  xy: 2, 728
+  size: 766, 739
+  orig: 960, 960
+  offset: 120, 116
+  index: -1

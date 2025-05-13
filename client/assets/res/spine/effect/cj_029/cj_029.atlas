@@ -1,0 +1,27 @@
+
+cj_029.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light2
+  rotate: true
+  xy: 222, 231
+  size: 144, 153
+  orig: 211, 216
+  offset: 52, 32
+  index: -1
+light3
+  rotate: true
+  xy: 71, 259
+  size: 116, 149
+  orig: 211, 216
+  offset: 57, 36
+  index: -1
+lizi2
+  rotate: false
+  xy: 2, 319
+  size: 67, 56
+  orig: 68, 56
+  offset: 1, 0
+  index: -1

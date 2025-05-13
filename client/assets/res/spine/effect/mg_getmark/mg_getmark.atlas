@@ -1,0 +1,13 @@
+
+mg_getmark.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tips
+  rotate: false
+  xy: 2, 10
+  size: 132, 124
+  orig: 132, 124
+  offset: 0, 0
+  index: -1

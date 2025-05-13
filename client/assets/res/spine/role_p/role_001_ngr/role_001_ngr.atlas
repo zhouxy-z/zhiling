@@ -1,0 +1,132 @@
+
+role_001_ngr.png
+size: 988,602
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 143
+  size: 500, 457
+  orig: 500, 457
+  offset: 0, 0
+  index: -1
+Body_1
+  rotate: false
+  xy: 2, 32
+  size: 463, 109
+  orig: 463, 119
+  offset: 0, 10
+  index: -1
+Body_1_tm
+  rotate: true
+  xy: 820, 140
+  size: 121, 50
+  orig: 121, 51
+  offset: 0, 0
+  index: -1
+Body_1_yz
+  rotate: true
+  xy: 893, 257
+  size: 99, 66
+  orig: 99, 66
+  offset: 0, 0
+  index: -1
+Le
+  rotate: true
+  xy: 853, 428
+  size: 29, 27
+  orig: 31, 29
+  offset: 1, 1
+  index: -1
+Re
+  rotate: true
+  xy: 853, 428
+  size: 29, 27
+  orig: 31, 29
+  offset: 1, 1
+  index: -1
+Leaf_1
+  rotate: true
+  xy: 853, 459
+  size: 141, 133
+  orig: 141, 133
+  offset: 0, 0
+  index: -1
+Leaf_2
+  rotate: true
+  xy: 893, 358
+  size: 99, 84
+  orig: 99, 84
+  offset: 0, 0
+  index: -1
+Lf
+  rotate: false
+  xy: 605, 3
+  size: 125, 127
+  orig: 125, 127
+  offset: 0, 0
+  index: -1
+Lh
+  rotate: false
+  xy: 733, 263
+  size: 158, 163
+  orig: 158, 177
+  offset: 0, 0
+  index: -1
+Lh_qt
+  rotate: true
+  xy: 732, 12
+  size: 120, 113
+  orig: 123, 113
+  offset: 1, 0
+  index: -1
+Lh_sz
+  rotate: false
+  xy: 467, 20
+  size: 136, 110
+  orig: 136, 110
+  offset: 0, 0
+  index: -1
+Lh_yz
+  rotate: false
+  xy: 872, 218
+  size: 71, 37
+  orig: 71, 37
+  offset: 0, 0
+  index: -1
+M_2
+  rotate: false
+  xy: 504, 428
+  size: 347, 172
+  orig: 347, 172
+  offset: 0, 0
+  index: -1
+Rf
+  rotate: true
+  xy: 691, 134
+  size: 123, 127
+  orig: 123, 127
+  offset: 0, 0
+  index: -1
+Rh
+  rotate: true
+  xy: 504, 132
+  size: 125, 185
+  orig: 125, 185
+  offset: 0, 0
+  index: -1
+Rh_sz
+  rotate: false
+  xy: 847, 2
+  size: 131, 136
+  orig: 134, 139
+  offset: 2, 2
+  index: -1
+b5c822af7ab913e06170572a38865e6ebff091cb1d823-Y2BjRv
+  rotate: false
+  xy: 504, 259
+  size: 227, 167
+  orig: 237, 167
+  offset: 5, 0
+  index: -1

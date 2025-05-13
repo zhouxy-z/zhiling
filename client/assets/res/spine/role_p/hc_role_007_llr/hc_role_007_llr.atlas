@@ -1,0 +1,181 @@
+
+hc_role_007_llr.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body_2
+  rotate: true
+  xy: 2, 906
+  size: 459, 339
+  orig: 459, 339
+  offset: 0, 0
+  index: -1
+E_L
+  rotate: true
+  xy: 2, 2
+  size: 102, 85
+  orig: 102, 85
+  offset: 0, 0
+  index: -1
+E_R
+  rotate: true
+  xy: 448, 234
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+F_L
+  rotate: false
+  xy: 779, 285
+  size: 124, 147
+  orig: 124, 147
+  offset: 0, 0
+  index: -1
+F_R
+  rotate: true
+  xy: 249, 107
+  size: 118, 148
+  orig: 119, 148
+  offset: 0, 0
+  index: -1
+H_L
+  rotate: false
+  xy: 399, 4
+  size: 141, 221
+  orig: 141, 222
+  offset: 0, 0
+  index: -1
+H_R
+  rotate: false
+  xy: 650, 434
+  size: 137, 176
+  orig: 137, 176
+  offset: 0, 0
+  index: -1
+Ku_L
+  rotate: false
+  xy: 542, 41
+  size: 238, 198
+  orig: 238, 198
+  offset: 0, 0
+  index: -1
+Ku_R
+  rotate: false
+  xy: 650, 270
+  size: 127, 162
+  orig: 127, 162
+  offset: 0, 0
+  index: -1
+Leaf_1
+  rotate: true
+  xy: 89, 8
+  size: 96, 131
+  orig: 97, 131
+  offset: 0, 0
+  index: -1
+Leaf_2
+  rotate: true
+  xy: 448, 323
+  size: 287, 200
+  orig: 287, 200
+  offset: 0, 0
+  index: -1
+Leaf_3
+  rotate: true
+  xy: 343, 906
+  size: 148, 172
+  orig: 148, 172
+  offset: 0, 0
+  index: -1
+Leaf_4
+  rotate: false
+  xy: 526, 241
+  size: 72, 80
+  orig: 72, 80
+  offset: 0, 0
+  index: -1
+Leaf_5
+  rotate: true
+  xy: 782, 27
+  size: 108, 106
+  orig: 108, 106
+  offset: 0, 0
+  index: -1
+T_f
+  rotate: false
+  xy: 2, 1367
+  size: 522, 679
+  orig: 522, 679
+  offset: 0, 0
+  index: -1
+Wu_1
+  rotate: false
+  xy: 183, 565
+  size: 260, 339
+  orig: 260, 339
+  offset: 0, 0
+  index: -1
+Wu_2
+  rotate: false
+  xy: 453, 1069
+  size: 166, 296
+  orig: 166, 296
+  offset: 0, 0
+  index: -1
+pf2
+  rotate: false
+  xy: 2, 106
+  size: 245, 389
+  orig: 245, 389
+  offset: 0, 0
+  index: -1
+pf21
+  rotate: false
+  xy: 2, 497
+  size: 179, 407
+  orig: 179, 407
+  offset: 0, 0
+  index: -1
+tz_f_jl1
+  rotate: true
+  xy: 445, 612
+  size: 292, 233
+  orig: 292, 233
+  offset: 0, 0
+  index: -1
+tz_f_jl2
+  rotate: false
+  xy: 222, 17
+  size: 116, 87
+  orig: 116, 87
+  offset: 0, 0
+  index: -1
+tz_f_jr1
+  rotate: true
+  xy: 517, 915
+  size: 152, 225
+  orig: 152, 225
+  offset: 0, 0
+  index: -1
+tz_f_jr2
+  rotate: false
+  xy: 782, 137
+  size: 134, 146
+  orig: 134, 146
+  offset: 0, 0
+  index: -1
+tz_f_t
+  rotate: true
+  xy: 249, 227
+  size: 336, 197
+  orig: 336, 197
+  offset: 0, 0
+  index: -1
+tz_f_tl
+  rotate: true
+  xy: 343, 1056
+  size: 309, 108
+  orig: 309, 108
+  offset: 0, 0
+  index: -1

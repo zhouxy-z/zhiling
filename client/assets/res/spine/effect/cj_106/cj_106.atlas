@@ -1,0 +1,83 @@
+
+cj_106.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_00000
+  rotate: true
+  xy: 255, 927
+  size: 93, 252
+  orig: 256, 512
+  offset: 87, 123
+  index: -1
+1_00001
+  rotate: true
+  xy: 509, 926
+  size: 94, 256
+  orig: 256, 512
+  offset: 87, 123
+  index: -1
+1_00002
+  rotate: true
+  xy: 261, 729
+  size: 97, 258
+  orig: 256, 512
+  offset: 84, 123
+  index: -1
+1_00003
+  rotate: true
+  xy: 521, 729
+  size: 97, 258
+  orig: 256, 512
+  offset: 84, 124
+  index: -1
+1_00004
+  rotate: true
+  xy: 767, 926
+  size: 94, 253
+  orig: 256, 512
+  offset: 83, 129
+  index: -1
+1_00005
+  rotate: true
+  xy: 2, 833
+  size: 95, 251
+  orig: 256, 512
+  offset: 83, 130
+  index: -1
+1_00006
+  rotate: true
+  xy: 510, 828
+  size: 96, 252
+  orig: 256, 512
+  offset: 83, 130
+  index: -1
+1_00007
+  rotate: true
+  xy: 764, 828
+  size: 96, 255
+  orig: 256, 512
+  offset: 83, 126
+  index: -1
+1_00008
+  rotate: true
+  xy: 2, 732
+  size: 96, 257
+  orig: 256, 512
+  offset: 84, 125
+  index: -1
+1_00009
+  rotate: true
+  xy: 255, 830
+  size: 94, 253
+  orig: 256, 512
+  offset: 86, 124
+  index: -1
+pb05
+  rotate: true
+  xy: 2, 930
+  size: 90, 251
+  orig: 90, 251
+  offset: 0, 0
+  index: -1

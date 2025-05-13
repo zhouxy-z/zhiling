@@ -1,0 +1,13 @@
+
+ef4_z03_01.png
+size: 32,32
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+s
+  rotate: false
+  xy: 2, 9
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1

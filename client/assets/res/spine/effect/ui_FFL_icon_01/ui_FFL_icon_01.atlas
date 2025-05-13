@@ -1,0 +1,111 @@
+
+ui_FFL_icon_01.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX_00000
+  rotate: false
+  xy: 216, 114
+  size: 107, 107
+  orig: 205, 205
+  offset: 49, 49
+  index: -1
+FX_00001
+  rotate: false
+  xy: 325, 114
+  size: 107, 107
+  orig: 205, 205
+  offset: 49, 49
+  index: -1
+FX_00002
+  rotate: false
+  xy: 2, 7
+  size: 107, 107
+  orig: 205, 205
+  offset: 49, 49
+  index: -1
+FX_00003
+  rotate: false
+  xy: 2, 223
+  size: 105, 105
+  orig: 205, 205
+  offset: 50, 50
+  index: -1
+FX_00004
+  rotate: false
+  xy: 109, 223
+  size: 105, 105
+  orig: 205, 205
+  offset: 50, 50
+  index: -1
+FX_00005
+  rotate: false
+  xy: 216, 223
+  size: 105, 105
+  orig: 205, 205
+  offset: 50, 50
+  index: -1
+FX_00006
+  rotate: false
+  xy: 2, 330
+  size: 103, 102
+  orig: 205, 205
+  offset: 51, 51
+  index: -1
+FX_00007
+  rotate: false
+  xy: 107, 330
+  size: 103, 102
+  orig: 205, 205
+  offset: 51, 51
+  index: -1
+FX_00008
+  rotate: false
+  xy: 212, 330
+  size: 103, 102
+  orig: 205, 205
+  offset: 51, 51
+  index: -1
+FX_00009
+  rotate: false
+  xy: 317, 330
+  size: 103, 102
+  orig: 205, 205
+  offset: 51, 51
+  index: -1
+FX_00010
+  rotate: false
+  xy: 323, 223
+  size: 105, 105
+  orig: 205, 205
+  offset: 50, 50
+  index: -1
+FX_00011
+  rotate: false
+  xy: 2, 116
+  size: 105, 105
+  orig: 205, 205
+  offset: 50, 50
+  index: -1
+FX_00012
+  rotate: false
+  xy: 109, 116
+  size: 105, 105
+  orig: 205, 205
+  offset: 50, 50
+  index: -1
+FX_00013
+  rotate: false
+  xy: 111, 5
+  size: 107, 107
+  orig: 205, 205
+  offset: 49, 49
+  index: -1
+FX_00014
+  rotate: false
+  xy: 220, 5
+  size: 107, 107
+  orig: 205, 205
+  offset: 49, 49
+  index: -1

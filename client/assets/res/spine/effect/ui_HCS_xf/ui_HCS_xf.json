@@ -1,0 +1,140 @@
+{
+"skeleton": {
+	"hash": "CGZsdgttxn1z3KkcKTvE/y8eFFQ",
+	"spine": "3.8.99",
+	"x": -725.23,
+	"y": -782.46,
+	"width": 1462.32,
+	"height": 1536.71,
+	"images": "./images/",
+	"audio": "E:/项目文件/场景/建筑/分级建筑/合成工坊/3D宝石spine"
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "LS", "parent": "root" },
+	{ "name": "FX_GROW_B", "parent": "LS", "rotation": -5, "x": 9.07, "y": -17.13 },
+	{ "name": "effect", "parent": "FX_GROW_B", "scaleX": 2, "scaleY": 2, "color": "ffffff80" },
+	{ "name": "grow", "parent": "FX_GROW_B", "scaleX": 0.7, "scaleY": 0.7 },
+	{
+		"name": "effect2",
+		"parent": "FX_GROW_B",
+		"rotation": -109.03,
+		"x": -2.91,
+		"y": 4.15,
+		"scaleX": 3,
+		"scaleY": 3
+	}
+],
+"slots": [
+	{ "name": "effect", "bone": "effect", "color": "ffffff74", "attachment": "effect" },
+	{ "name": "effect2", "bone": "effect2", "color": "ffffff5f", "attachment": "effect" },
+	{ "name": "LS", "bone": "LS", "attachment": "LS" },
+	{ "name": "grow", "bone": "grow", "color": "ffffff89", "attachment": "grow", "blend": "screen" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"LS": {
+				"LS": { "scaleX": 1.2, "scaleY": 1.2, "width": 256, "height": 256 }
+			},
+			"effect": {
+				"effect": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 202, -177, -201, -177, -201, 177, 202, 177 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 403,
+					"height": 354
+				}
+			},
+			"effect2": {
+				"effect": { "x": 0.5, "width": 403, "height": 354 }
+			},
+			"grow": {
+				"grow": { "width": 1024, "height": 1024 }
+			}
+		}
+	}
+],
+"animations": {
+	"Idle": {
+		"slots": {
+			"effect": {
+				"color": [
+					{ "color": "ffffff38", "curve": 0.379, "c2": 0.53, "c3": 0.746 },
+					{ "time": 0.6667, "color": "ffffff00", "curve": 0.25, "c3": 0.75 },
+					{ "time": 2.1667, "color": "ffffff85", "curve": 0.25, "c3": 0.75 },
+					{ "time": 3.6667, "color": "ffffff00", "curve": 0.25, "c3": 0.75 },
+					{ "time": 5.1667, "color": "ffffff85", "curve": 0.247, "c3": 0.631, "c4": 0.53 },
+					{ "time": 6, "color": "ffffff38" }
+				]
+			},
+			"effect2": {
+				"color": [
+					{ "color": "ffffff73", "curve": 0.348, "c2": 0.39, "c3": 0.757 },
+					{ "time": 1, "color": "ffffffff", "curve": 0.25, "c3": 0.75 },
+					{ "time": 2.5333, "color": "ffffff23", "curve": 0.25, "c3": 0.75 },
+					{ "time": 4, "color": "ffffffb4", "curve": 0.25, "c3": 0.75 },
+					{ "time": 5.5333, "color": "ffffff41", "curve": 0.267, "c3": 0.618, "c4": 0.42 },
+					{ "time": 6, "color": "ffffff73" }
+				]
+			},
+			"grow": {
+				"attachment": [
+					{ "name": "grow" }
+				]
+			}
+		},
+		"bones": {
+			"effect2": {
+				"rotate": [
+					{ "curve": 0.25, "c3": 0.75 },
+					{ "time": 3, "angle": -22.81, "curve": 0.25, "c3": 0.75 },
+					{ "time": 6 }
+				],
+				"scale": [
+					{ "x": 0.472, "y": 0.472, "curve": 0.382, "c2": 0.57, "c3": 0.735 },
+					{ "time": 1, "x": 0.5, "y": 0.5, "curve": 0.25, "c3": 0.75 },
+					{ "time": 4, "x": 0.4, "y": 0.4, "curve": 0.243, "c3": 0.649, "c4": 0.6 },
+					{ "time": 6, "x": 0.472, "y": 0.472 }
+				]
+			},
+			"effect": {
+				"rotate": [
+					{ "angle": -28.6 }
+				],
+				"scale": [
+					{ "x": 0.7, "y": 0.7, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.5, "x": 0.8, "y": 0.8, "curve": 0.25, "c3": 0.75 },
+					{ "time": 3, "curve": 0.25, "c3": 0.75 },
+					{ "time": 4.5, "x": 0.8, "y": 0.8, "curve": 0.25, "c3": 0.75 },
+					{ "time": 6, "x": 0.7, "y": 0.7 }
+				]
+			},
+			"FX_GROW_B": {
+				"translate": [
+					{ "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.6, "y": 18.56, "curve": 0.25, "c3": 0.75 },
+					{ "time": 3, "curve": 0.25, "c3": 0.75 },
+					{ "time": 4.6, "y": 18.56, "curve": 0.25, "c3": 0.75 },
+					{ "time": 6 }
+				]
+			},
+			"LS": {
+				"translate": [
+					{ "curve": 0.25, "c3": 0.75 },
+					{ "time": 1, "y": 11.78, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2, "curve": 0.25, "c3": 0.75 },
+					{ "time": 3, "y": 11.78, "curve": 0.25, "c3": 0.75 },
+					{ "time": 4, "curve": 0.25, "c3": 0.75 },
+					{ "time": 5, "y": 11.78, "curve": 0.25, "c3": 0.75 },
+					{ "time": 6 }
+				]
+			}
+		}
+	}
+}
+}

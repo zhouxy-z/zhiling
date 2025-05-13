@@ -1,0 +1,76 @@
+
+hc_ef3_007_02.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_00000
+  rotate: false
+  xy: 148, 48
+  size: 74, 63
+  orig: 1024, 1024
+  offset: 467, 482
+  index: -1
+1_00001
+  rotate: false
+  xy: 2, 58
+  size: 71, 61
+  orig: 1024, 1024
+  offset: 468, 483
+  index: -1
+1_00002
+  rotate: false
+  xy: 2, 123
+  size: 70, 55
+  orig: 1024, 1024
+  offset: 468, 483
+  index: -1
+1_00003
+  rotate: false
+  xy: 74, 121
+  size: 70, 55
+  orig: 1024, 1024
+  offset: 468, 483
+  index: -1
+1_00004
+  rotate: false
+  xy: 2, 182
+  size: 51, 46
+  orig: 1024, 1024
+  offset: 486, 490
+  index: -1
+1_00005
+  rotate: false
+  xy: 55, 180
+  size: 53, 48
+  orig: 1024, 1024
+  offset: 483, 489
+  index: -1
+1_00006
+  rotate: false
+  xy: 110, 178
+  size: 56, 50
+  orig: 1024, 1024
+  offset: 480, 490
+  index: -1
+1_00007
+  rotate: false
+  xy: 168, 174
+  size: 60, 54
+  orig: 1024, 1024
+  offset: 477, 488
+  index: -1
+1_00008
+  rotate: false
+  xy: 146, 113
+  size: 65, 59
+  orig: 1024, 1024
+  offset: 474, 486
+  index: -1
+1_00009
+  rotate: false
+  xy: 75, 50
+  size: 71, 61
+  orig: 1024, 1024
+  offset: 470, 484
+  index: -1

@@ -1,0 +1,20 @@
+
+cj_034_Flag.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qg
+  rotate: false
+  xy: 2, 78
+  size: 68, 221
+  orig: 78, 221
+  offset: 1, 0
+  index: -1
+qz
+  rotate: true
+  xy: 2, 2
+  size: 74, 55
+  orig: 74, 55
+  offset: 0, 0
+  index: -1

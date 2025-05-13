@@ -1,0 +1,76 @@
+
+ef4_013_01.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_00000
+  rotate: false
+  xy: 2, 84
+  size: 80, 193
+  orig: 128, 256
+  offset: 22, 34
+  index: -1
+1_00001
+  rotate: true
+  xy: 2, 2
+  size: 80, 193
+  orig: 128, 256
+  offset: 22, 34
+  index: -1
+1_00002
+  rotate: false
+  xy: 84, 84
+  size: 80, 193
+  orig: 128, 256
+  offset: 22, 34
+  index: -1
+1_00003
+  rotate: false
+  xy: 86, 279
+  size: 80, 193
+  orig: 128, 256
+  offset: 22, 34
+  index: -1
+1_00004
+  rotate: false
+  xy: 166, 84
+  size: 80, 193
+  orig: 128, 256
+  offset: 22, 34
+  index: -1
+1_00005
+  rotate: false
+  xy: 168, 279
+  size: 80, 193
+  orig: 128, 256
+  offset: 22, 34
+  index: -1
+1_00006
+  rotate: true
+  xy: 197, 2
+  size: 80, 193
+  orig: 128, 256
+  offset: 22, 34
+  index: -1
+1_00007
+  rotate: false
+  xy: 248, 84
+  size: 80, 193
+  orig: 128, 256
+  offset: 22, 34
+  index: -1
+1_00008
+  rotate: false
+  xy: 2, 279
+  size: 82, 193
+  orig: 128, 256
+  offset: 22, 34
+  index: -1
+1_00009
+  rotate: false
+  xy: 250, 279
+  size: 80, 193
+  orig: 128, 256
+  offset: 22, 34
+  index: -1

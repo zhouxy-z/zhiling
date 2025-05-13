@@ -1,0 +1,27 @@
+
+ef3_000_Vertigo.png
+size: 214,122
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/yun_1
+  rotate: false
+  xy: 118, 2
+  size: 40, 37
+  orig: 44, 41
+  offset: 2, 2
+  index: -1
+image/yun_2
+  rotate: false
+  xy: 2, 7
+  size: 114, 113
+  orig: 115, 115
+  offset: 0, 1
+  index: -1
+image/yun_3
+  rotate: false
+  xy: 118, 41
+  size: 94, 79
+  orig: 115, 115
+  offset: 10, 20
+  index: -1

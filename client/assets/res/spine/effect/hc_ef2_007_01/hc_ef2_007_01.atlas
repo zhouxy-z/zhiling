@@ -1,0 +1,69 @@
+
+hc_ef2_007_01.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_00000
+  rotate: true
+  xy: 728, 707
+  size: 314, 293
+  orig: 512, 512
+  offset: 75, 92
+  index: -1
+1_00001
+  rotate: false
+  xy: 367, 719
+  size: 359, 302
+  orig: 512, 512
+  offset: 36, 83
+  index: -1
+1_00002
+  rotate: false
+  xy: 2, 715
+  size: 363, 306
+  orig: 512, 512
+  offset: 32, 79
+  index: -1
+1_00003
+  rotate: false
+  xy: 2, 404
+  size: 360, 309
+  orig: 512, 512
+  offset: 31, 72
+  index: -1
+1_00004
+  rotate: false
+  xy: 367, 435
+  size: 345, 282
+  orig: 512, 512
+  offset: 33, 77
+  index: -1
+1_00005
+  rotate: false
+  xy: 2, 113
+  size: 345, 289
+  orig: 512, 512
+  offset: 29, 73
+  index: -1
+1_00006
+  rotate: false
+  xy: 364, 160
+  size: 321, 273
+  orig: 512, 512
+  offset: 38, 74
+  index: -1
+1_00007
+  rotate: false
+  xy: 714, 422
+  size: 305, 283
+  orig: 512, 512
+  offset: 45, 69
+  index: -1
+1_00008
+  rotate: false
+  xy: 687, 174
+  size: 260, 246
+  orig: 512, 512
+  offset: 54, 82
+  index: -1

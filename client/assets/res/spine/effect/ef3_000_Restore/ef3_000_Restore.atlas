@@ -1,0 +1,20 @@
+
+ef3_000_Restore.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_00000
+  rotate: false
+  xy: 2, 2
+  size: 95, 95
+  orig: 128, 128
+  offset: 17, 16
+  index: -1
+2_00002
+  rotate: false
+  xy: 2, 99
+  size: 179, 189
+  orig: 256, 256
+  offset: 39, 27
+  index: -1

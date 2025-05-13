@@ -1,0 +1,160 @@
+
+ef3_000_Bleed.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_00000
+  rotate: true
+  xy: 76, 46
+  size: 71, 63
+  orig: 256, 256
+  offset: 86, 92
+  index: -1
+1_00001
+  rotate: true
+  xy: 331, 117
+  size: 71, 66
+  orig: 256, 256
+  offset: 86, 87
+  index: -1
+1_00002
+  rotate: false
+  xy: 331, 190
+  size: 71, 72
+  orig: 256, 256
+  offset: 86, 83
+  index: -1
+1_00003
+  rotate: false
+  xy: 76, 119
+  size: 72, 80
+  orig: 256, 256
+  offset: 87, 75
+  index: -1
+1_00004
+  rotate: false
+  xy: 2, 114
+  size: 72, 85
+  orig: 256, 256
+  offset: 87, 70
+  index: -1
+1_00005
+  rotate: true
+  xy: 324, 264
+  size: 72, 99
+  orig: 256, 256
+  offset: 87, 65
+  index: -1
+1_00006
+  rotate: true
+  xy: 324, 338
+  size: 69, 103
+  orig: 256, 256
+  offset: 91, 60
+  index: -1
+1_00007
+  rotate: true
+  xy: 221, 173
+  size: 69, 108
+  orig: 256, 256
+  offset: 91, 54
+  index: -1
+1_00008
+  rotate: true
+  xy: 224, 99
+  size: 72, 57
+  orig: 256, 256
+  offset: 88, 106
+  index: -1
+1_00009
+  rotate: true
+  xy: 2, 40
+  size: 72, 60
+  orig: 256, 256
+  offset: 88, 102
+  index: -1
+1_00010
+  rotate: false
+  xy: 150, 85
+  size: 72, 61
+  orig: 256, 256
+  offset: 88, 99
+  index: -1
+1_00011
+  rotate: true
+  xy: 150, 148
+  size: 74, 69
+  orig: 256, 256
+  offset: 86, 95
+  index: -1
+1_00012
+  rotate: false
+  xy: 409, 409
+  size: 74, 74
+  orig: 256, 256
+  offset: 86, 90
+  index: -1
+1_00013
+  rotate: true
+  xy: 328, 409
+  size: 74, 79
+  orig: 256, 256
+  offset: 86, 85
+  index: -1
+1_00014
+  rotate: true
+  xy: 240, 333
+  size: 74, 82
+  orig: 256, 256
+  offset: 86, 81
+  index: -1
+1_00015
+  rotate: false
+  xy: 221, 244
+  size: 74, 87
+  orig: 256, 256
+  offset: 86, 76
+  index: -1
+1_00016
+  rotate: true
+  xy: 148, 409
+  size: 74, 91
+  orig: 256, 256
+  offset: 86, 71
+  index: -1
+1_00017
+  rotate: true
+  xy: 241, 409
+  size: 74, 85
+  orig: 256, 256
+  offset: 85, 75
+  index: -1
+1_00018
+  rotate: true
+  xy: 148, 333
+  size: 74, 90
+  orig: 256, 256
+  offset: 85, 69
+  index: -1
+1_00019
+  rotate: true
+  xy: 124, 224
+  size: 74, 95
+  orig: 256, 256
+  offset: 85, 62
+  index: -1
+2_00000
+  rotate: false
+  xy: 2, 300
+  size: 144, 183
+  orig: 256, 256
+  offset: 56, 37
+  index: -1
+3_00000
+  rotate: true
+  xy: 2, 201
+  size: 97, 120
+  orig: 128, 128
+  offset: 14, 4
+  index: -1

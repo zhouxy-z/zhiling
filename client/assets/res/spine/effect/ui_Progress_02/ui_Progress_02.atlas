@@ -1,0 +1,62 @@
+
+ui_Progress_02.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX2_00000
+  rotate: false
+  xy: 371, 408
+  size: 82, 126
+  orig: 400, 400
+  offset: 157, 141
+  index: -1
+FX3_00000
+  rotate: false
+  xy: 2, 498
+  size: 246, 246
+  orig: 512, 512
+  offset: 133, 133
+  index: -1
+FX3_00001
+  rotate: false
+  xy: 2, 746
+  size: 249, 251
+  orig: 512, 512
+  offset: 127, 131
+  index: -1
+FX3_00002
+  rotate: false
+  xy: 2, 251
+  size: 237, 245
+  orig: 512, 512
+  offset: 127, 134
+  index: -1
+FX3_00003
+  rotate: true
+  xy: 2, 12
+  size: 237, 235
+  orig: 512, 512
+  offset: 124, 139
+  index: -1
+FX3_00004
+  rotate: true
+  xy: 239, 2
+  size: 247, 225
+  orig: 512, 512
+  offset: 122, 144
+  index: -1
+FX3_00005
+  rotate: true
+  xy: 241, 276
+  size: 220, 128
+  orig: 512, 512
+  offset: 147, 188
+  index: -1
+FX3_00006
+  rotate: true
+  xy: 250, 536
+  size: 208, 135
+  orig: 512, 512
+  offset: 154, 183
+  index: -1

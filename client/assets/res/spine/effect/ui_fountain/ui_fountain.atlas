@@ -1,0 +1,111 @@
+
+ui_fountain.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_00000
+  rotate: false
+  xy: 1528, 1653
+  size: 376, 251
+  orig: 480, 360
+  offset: 59, 39
+  index: -1
+1_00001
+  rotate: false
+  xy: 2, 1402
+  size: 376, 251
+  orig: 480, 360
+  offset: 59, 39
+  index: -1
+1_00002
+  rotate: false
+  xy: 380, 1402
+  size: 377, 251
+  orig: 480, 360
+  offset: 59, 39
+  index: -1
+1_00003
+  rotate: false
+  xy: 759, 1401
+  size: 380, 251
+  orig: 480, 360
+  offset: 59, 39
+  index: -1
+1_00004
+  rotate: false
+  xy: 2, 1655
+  size: 380, 249
+  orig: 480, 360
+  offset: 59, 39
+  index: -1
+1_00005
+  rotate: false
+  xy: 384, 1655
+  size: 380, 249
+  orig: 480, 360
+  offset: 59, 39
+  index: -1
+1_00006
+  rotate: false
+  xy: 766, 1654
+  size: 379, 250
+  orig: 480, 360
+  offset: 59, 39
+  index: -1
+1_00007
+  rotate: false
+  xy: 1147, 1654
+  size: 379, 250
+  orig: 480, 360
+  offset: 59, 39
+  index: -1
+1_00008
+  rotate: false
+  xy: 1141, 1401
+  size: 379, 251
+  orig: 480, 360
+  offset: 59, 39
+  index: -1
+1_00009
+  rotate: false
+  xy: 1522, 1400
+  size: 378, 251
+  orig: 480, 360
+  offset: 59, 39
+  index: -1
+1_00010
+  rotate: false
+  xy: 2, 1149
+  size: 377, 251
+  orig: 480, 360
+  offset: 59, 39
+  index: -1
+1_00011
+  rotate: false
+  xy: 381, 1148
+  size: 378, 251
+  orig: 480, 360
+  offset: 59, 39
+  index: -1
+1_00012
+  rotate: false
+  xy: 761, 1148
+  size: 377, 251
+  orig: 480, 360
+  offset: 59, 39
+  index: -1
+1_00013
+  rotate: false
+  xy: 1140, 1148
+  size: 377, 251
+  orig: 480, 360
+  offset: 59, 39
+  index: -1
+1_00014
+  rotate: false
+  xy: 1519, 1147
+  size: 377, 251
+  orig: 480, 360
+  offset: 59, 39
+  index: -1

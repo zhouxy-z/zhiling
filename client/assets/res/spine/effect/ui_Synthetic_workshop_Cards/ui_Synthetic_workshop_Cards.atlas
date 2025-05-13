@@ -1,0 +1,251 @@
+
+ui_Synthetic_workshop_Cards.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX1_00000
+  rotate: true
+  xy: 1309, 630
+  size: 197, 127
+  orig: 512, 1536
+  offset: 160, 752
+  index: -1
+FX1_00001
+  rotate: true
+  xy: 1245, 829
+  size: 202, 138
+  orig: 512, 1536
+  offset: 157, 741
+  index: -1
+FX1_00002
+  rotate: false
+  xy: 1023, 4
+  size: 211, 174
+  orig: 512, 1536
+  offset: 151, 705
+  index: -1
+FX1_00003
+  rotate: true
+  xy: 1022, 709
+  size: 216, 221
+  orig: 512, 1536
+  offset: 148, 658
+  index: -1
+FX1_00004
+  rotate: false
+  xy: 1113, 1431
+  size: 218, 284
+  orig: 512, 1536
+  offset: 147, 595
+  index: -1
+FX1_00005
+  rotate: false
+  xy: 890, 1699
+  size: 219, 336
+  orig: 512, 1536
+  offset: 147, 543
+  index: -1
+FX1_00006
+  rotate: false
+  xy: 890, 400
+  size: 219, 307
+  orig: 512, 1536
+  offset: 147, 572
+  index: -1
+FX1_00007
+  rotate: false
+  xy: 803, 72
+  size: 218, 317
+  orig: 512, 1536
+  offset: 147, 561
+  index: -1
+FX1_00008
+  rotate: false
+  xy: 1111, 1717
+  size: 223, 318
+  orig: 512, 1536
+  offset: 147, 560
+  index: -1
+FX1_00009
+  rotate: false
+  xy: 1099, 1033
+  size: 220, 299
+  orig: 512, 1536
+  offset: 151, 578
+  index: -1
+FX1_00010
+  rotate: false
+  xy: 665, 391
+  size: 223, 316
+  orig: 512, 1536
+  offset: 148, 560
+  index: -1
+FX1_00011
+  rotate: false
+  xy: 884, 1334
+  size: 227, 334
+  orig: 512, 1536
+  offset: 144, 542
+  index: -1
+FX1_00012
+  rotate: true
+  xy: 444, 62
+  size: 227, 357
+  orig: 512, 1536
+  offset: 143, 519
+  index: -1
+FX1_00013
+  rotate: false
+  xy: 444, 1654
+  size: 227, 381
+  orig: 512, 1536
+  offset: 143, 495
+  index: -1
+FX1_00014
+  rotate: false
+  xy: 438, 670
+  size: 224, 404
+  orig: 512, 1536
+  offset: 143, 471
+  index: -1
+FX1_00015
+  rotate: false
+  xy: 219, 125
+  size: 223, 431
+  orig: 512, 1536
+  offset: 144, 444
+  index: -1
+FX1_00016
+  rotate: false
+  xy: 220, 1076
+  size: 221, 458
+  orig: 512, 1536
+  offset: 145, 419
+  index: -1
+FX1_00017
+  rotate: false
+  xy: 2, 40
+  size: 215, 490
+  orig: 512, 1536
+  offset: 149, 395
+  index: -1
+FX1_00018
+  rotate: false
+  xy: 2, 532
+  size: 213, 500
+  orig: 512, 1536
+  offset: 147, 384
+  index: -1
+FX1_00019
+  rotate: false
+  xy: 2, 1034
+  size: 216, 500
+  orig: 512, 1536
+  offset: 145, 384
+  index: -1
+FX1_00020
+  rotate: false
+  xy: 664, 926
+  size: 217, 357
+  orig: 512, 1536
+  offset: 144, 526
+  index: -1
+FX1_00021
+  rotate: true
+  xy: 664, 709
+  size: 215, 356
+  orig: 512, 1536
+  offset: 146, 527
+  index: -1
+FX1_00022
+  rotate: false
+  xy: 883, 927
+  size: 214, 356
+  orig: 512, 1536
+  offset: 147, 529
+  index: -1
+FX1_00023
+  rotate: false
+  xy: 673, 1670
+  size: 215, 365
+  orig: 512, 1536
+  offset: 148, 518
+  index: -1
+FX1_00024
+  rotate: false
+  xy: 664, 1285
+  size: 218, 367
+  orig: 512, 1536
+  offset: 147, 515
+  index: -1
+FX1_00025
+  rotate: false
+  xy: 444, 291
+  size: 219, 377
+  orig: 512, 1536
+  offset: 147, 504
+  index: -1
+FX1_00026
+  rotate: false
+  xy: 443, 1187
+  size: 219, 407
+  orig: 512, 1536
+  offset: 147, 475
+  index: -1
+FX1_00027
+  rotate: false
+  xy: 223, 1596
+  size: 219, 439
+  orig: 512, 1536
+  offset: 147, 444
+  index: -1
+FX1_00028
+  rotate: false
+  xy: 217, 558
+  size: 219, 474
+  orig: 512, 1536
+  offset: 147, 410
+  index: -1
+FX1_00029
+  rotate: false
+  xy: 2, 1536
+  size: 219, 499
+  orig: 512, 1536
+  offset: 147, 384
+  index: -1
+TD
+  rotate: false
+  xy: 2, 2
+  size: 674, 36
+  orig: 674, 36
+  offset: 0, 0
+  index: -1
+zy_1
+  rotate: false
+  xy: 1023, 180
+  size: 196, 218
+  orig: 196, 218
+  offset: 0, 0
+  index: -1
+zy_2
+  rotate: false
+  xy: 1111, 489
+  size: 196, 218
+  orig: 196, 218
+  offset: 0, 0
+  index: -1
+zy_3
+  rotate: false
+  xy: 1221, 269
+  size: 196, 218
+  orig: 196, 218
+  offset: 0, 0
+  index: -1
+zy_4
+  rotate: false
+  xy: 1236, 49
+  size: 196, 218
+  orig: 196, 218
+  offset: 0, 0
+  index: -1

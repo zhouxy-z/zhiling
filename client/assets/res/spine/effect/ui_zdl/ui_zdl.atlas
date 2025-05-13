@@ -1,0 +1,48 @@
+
+ui_zdl.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gq
+  rotate: false
+  xy: 649, 268
+  size: 192, 191
+  orig: 196, 195
+  offset: 2, 2
+  index: -1
+zdlbg
+  rotate: false
+  xy: 2, 542
+  size: 911, 371
+  orig: 1013, 540
+  offset: 87, 80
+  index: -1
+zdlbg1
+  rotate: false
+  xy: 2, 169
+  size: 404, 371
+  orig: 1013, 540
+  offset: 87, 80
+  index: -1
+zdljt
+  rotate: false
+  xy: 408, 311
+  size: 239, 148
+  orig: 247, 152
+  offset: 6, 2
+  index: -1
+zdlwz
+  rotate: false
+  xy: 2, 13
+  size: 245, 154
+  orig: 1013, 540
+  offset: 252, 209
+  index: -1
+zdlwz1
+  rotate: false
+  xy: 408, 461
+  size: 447, 79
+  orig: 1013, 540
+  offset: 503, 229
+  index: -1

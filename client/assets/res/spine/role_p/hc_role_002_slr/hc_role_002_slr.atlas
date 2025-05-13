@@ -1,0 +1,139 @@
+
+hc_role_002_slr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 716, 778
+  size: 172, 153
+  orig: 172, 153
+  offset: 0, 0
+  index: -1
+Bullet_1
+  rotate: false
+  xy: 669, 546
+  size: 132, 124
+  orig: 134, 126
+  offset: 1, 1
+  index: -1
+E_2
+  rotate: false
+  xy: 703, 753
+  size: 64, 23
+  orig: 66, 25
+  offset: 1, 1
+  index: -1
+E_3
+  rotate: true
+  xy: 669, 787
+  size: 33, 32
+  orig: 36, 35
+  offset: 2, 1
+  index: -1
+E_4
+  rotate: true
+  xy: 669, 752
+  size: 33, 32
+  orig: 36, 35
+  offset: 1, 1
+  index: -1
+E_5
+  rotate: false
+  xy: 658, 486
+  size: 65, 58
+  orig: 67, 60
+  offset: 1, 1
+  index: -1
+E_6
+  rotate: true
+  xy: 541, 521
+  size: 124, 115
+  orig: 127, 125
+  offset: 2, 9
+  index: -1
+Head_fix1
+  rotate: false
+  xy: 2, 479
+  size: 393, 471
+  orig: 393, 471
+  offset: 0, 0
+  index: -1
+Head_zs1
+  rotate: true
+  xy: 541, 647
+  size: 173, 126
+  orig: 173, 126
+  offset: 0, 0
+  index: -1
+Head_zs2
+  rotate: false
+  xy: 669, 672
+  size: 183, 78
+  orig: 183, 78
+  offset: 0, 0
+  index: -1
+Head_zs4
+  rotate: true
+  xy: 317, 299
+  size: 178, 408
+  orig: 178, 408
+  offset: 0, 0
+  index: -1
+Head_zs5
+  rotate: true
+  xy: 803, 598
+  size: 72, 147
+  orig: 72, 147
+  offset: 0, 0
+  index: -1
+Lf
+  rotate: true
+  xy: 397, 494
+  size: 84, 127
+  orig: 102, 128
+  offset: 18, 1
+  index: -1
+Lh_1
+  rotate: false
+  xy: 871, 871
+  size: 66, 79
+  orig: 68, 81
+  offset: 1, 1
+  index: -1
+Lh_2
+  rotate: true
+  xy: 854, 706
+  size: 70, 76
+  orig: 72, 78
+  offset: 1, 1
+  index: -1
+Lh_qt
+  rotate: false
+  xy: 727, 421
+  size: 102, 123
+  orig: 104, 126
+  offset: 1, 1
+  index: -1
+M_1
+  rotate: false
+  xy: 2, 279
+  size: 313, 198
+  orig: 313, 198
+  offset: 0, 0
+  index: -1
+hua
+  rotate: false
+  xy: 397, 822
+  size: 317, 128
+  orig: 393, 166
+  offset: 37, 19
+  index: -1
+weijin
+  rotate: true
+  xy: 397, 580
+  size: 240, 142
+  orig: 240, 142
+  offset: 0, 0
+  index: -1

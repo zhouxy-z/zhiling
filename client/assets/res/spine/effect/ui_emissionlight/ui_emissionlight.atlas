@@ -1,0 +1,27 @@
+
+ui_emissionlight.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ui_grow_01
+  rotate: false
+  xy: 2, 753
+  size: 970, 980
+  orig: 1080, 1080
+  offset: 55, 50
+  index: -1
+ui_grow_02
+  rotate: false
+  xy: 2, 2
+  size: 750, 749
+  orig: 796, 796
+  offset: 23, 24
+  index: -1
+ui_star
+  rotate: false
+  xy: 754, 637
+  size: 116, 114
+  orig: 128, 128
+  offset: 5, 5
+  index: -1

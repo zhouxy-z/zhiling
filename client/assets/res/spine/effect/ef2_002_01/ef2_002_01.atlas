@@ -1,0 +1,104 @@
+
+ef2_002_01.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_00000
+  rotate: true
+  xy: 76, 47
+  size: 27, 28
+  orig: 64, 64
+  offset: 17, 20
+  index: -1
+1_00001
+  rotate: true
+  xy: 97, 129
+  size: 40, 41
+  orig: 64, 64
+  offset: 13, 13
+  index: -1
+1_00002
+  rotate: true
+  xy: 2, 32
+  size: 44, 41
+  orig: 64, 64
+  offset: 9, 13
+  index: -1
+1_00003
+  rotate: true
+  xy: 2, 78
+  size: 46, 43
+  orig: 64, 64
+  offset: 9, 12
+  index: -1
+1_00004
+  rotate: true
+  xy: 52, 122
+  size: 47, 43
+  orig: 64, 64
+  offset: 8, 12
+  index: -1
+1_00005
+  rotate: false
+  xy: 2, 126
+  size: 48, 43
+  orig: 64, 64
+  offset: 7, 12
+  index: -1
+1_00006
+  rotate: true
+  xy: 92, 76
+  size: 44, 41
+  orig: 64, 64
+  offset: 9, 13
+  index: -1
+1_00007
+  rotate: false
+  xy: 45, 45
+  size: 29, 30
+  orig: 64, 64
+  offset: 17, 13
+  index: -1
+1_00008
+  rotate: false
+  xy: 45, 14
+  size: 24, 29
+  orig: 64, 64
+  offset: 22, 13
+  index: -1
+1_00009
+  rotate: false
+  xy: 134, 45
+  size: 20, 29
+  orig: 64, 64
+  offset: 26, 13
+  index: -1
+slsp_1
+  rotate: false
+  xy: 71, 16
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+slsp_2
+  rotate: true
+  xy: 106, 42
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+slsp_3
+  rotate: true
+  xy: 2, 2
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: -1
+slsp_4
+  rotate: false
+  xy: 47, 77
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1

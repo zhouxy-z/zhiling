@@ -1,0 +1,13 @@
+
+mg_BalloonSelect_2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+G1_00001
+  rotate: false
+  xy: 2, 2
+  size: 504, 739
+  orig: 620, 868
+  offset: 58, 65
+  index: -1

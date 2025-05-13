@@ -1,0 +1,81 @@
+{
+"skeleton": {
+	"hash": "AlfNMSswBBBNNszRuNHoEwYbf9k",
+	"spine": "3.8.99",
+	"x": -1280,
+	"y": -1280,
+	"width": 2560,
+	"height": 2560,
+	"images": "./images/",
+	"audio": ""
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "fx", "parent": "root", "scaleX": 5, "scaleY": 5 }
+],
+"slots": [
+	{ "name": "1", "bone": "fx", "attachment": "1_00000" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"1": {
+				"1_00000": { "width": 512, "height": 512 },
+				"1_00001": { "width": 512, "height": 512 },
+				"1_00002": { "width": 512, "height": 512 },
+				"1_00003": { "width": 512, "height": 512 },
+				"1_00004": { "width": 512, "height": 512 },
+				"1_00005": { "width": 512, "height": 512 },
+				"1_00006": { "width": 512, "height": 512 },
+				"1_00007": { "width": 512, "height": 512 },
+				"1_00008": { "width": 512, "height": 512 },
+				"1_00009": { "width": 512, "height": 512 },
+				"1_00010": { "width": 512, "height": 512 }
+			}
+		}
+	}
+],
+"animations": {
+	"Back": {
+		"slots": {
+			"1": {
+				"attachment": [
+					{ "name": "1_00000" },
+					{ "time": 0.0667, "name": "1_00001" },
+					{ "time": 0.1333, "name": "1_00002" },
+					{ "time": 0.2, "name": "1_00003" },
+					{ "time": 0.2667, "name": "1_00004" },
+					{ "time": 0.3333, "name": "1_00005" },
+					{ "time": 0.4, "name": "1_00006" },
+					{ "time": 0.4667, "name": "1_00007" },
+					{ "time": 0.5333, "name": "1_00008" },
+					{ "time": 0.6, "name": "1_00009" },
+					{ "time": 0.6667, "name": "1_00010" },
+					{ "time": 0.7333, "name": null }
+				]
+			}
+		}
+	},
+	"Front": {
+		"slots": {
+			"1": {
+				"attachment": [
+					{ "name": "1_00000" },
+					{ "time": 0.0667, "name": "1_00001" },
+					{ "time": 0.1333, "name": "1_00002" },
+					{ "time": 0.2, "name": "1_00003" },
+					{ "time": 0.2667, "name": "1_00004" },
+					{ "time": 0.3333, "name": "1_00005" },
+					{ "time": 0.4, "name": "1_00006" },
+					{ "time": 0.4667, "name": "1_00007" },
+					{ "time": 0.5333, "name": "1_00008" },
+					{ "time": 0.6, "name": "1_00009" },
+					{ "time": 0.6667, "name": "1_00010" },
+					{ "time": 0.7333, "name": null }
+				]
+			}
+		}
+	}
+}
+}

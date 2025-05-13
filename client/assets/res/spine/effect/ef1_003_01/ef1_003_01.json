@@ -1,0 +1,116 @@
+{
+"skeleton": {
+	"hash": "6hm4eAbxkm1w4GNviQvbtbEpTwo",
+	"spine": "3.8.99",
+	"x": -1072.95,
+	"y": -234.51,
+	"width": 3803.03,
+	"height": 1024,
+	"images": "./images/",
+	"audio": "C:/Users/Administrator/Desktop/仓音【动作，特效】梨子外包需求/仓音【动作，特效】梨子外包需求/lz/images"
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "Attack", "parent": "root", "rotation": 2.66, "x": -292.7, "y": 142.04 },
+	{ "name": "A", "parent": "Attack", "x": -257.58, "y": -7.76 }
+],
+"slots": [
+	{ "name": "Attack", "bone": "A", "attachment": "A1_00000" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"Attack": {
+				"A1_00000": { "width": 1024, "height": 512 },
+				"A1_00001": { "width": 1024, "height": 512 },
+				"A1_00002": { "width": 1024, "height": 512 },
+				"A1_00003": { "width": 1024, "height": 512 },
+				"A1_00004": { "width": 1024, "height": 512 },
+				"A1_00005": { "width": 1024, "height": 512 },
+				"A1_00006": { "width": 1024, "height": 512 }
+			}
+		}
+	}
+],
+"animations": {
+	"Back": {
+		"slots": {
+			"Attack": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.0667, "name": "A1_00000" },
+					{ "time": 0.1, "name": "A1_00001" },
+					{ "time": 0.1333, "name": "A1_00002" },
+					{ "time": 0.1667, "name": "A1_00003" },
+					{ "time": 0.2, "name": "A1_00004" },
+					{ "time": 0.2333, "name": "A1_00005" },
+					{ "time": 0.2667, "name": "A1_00006" }
+				]
+			}
+		},
+		"bones": {
+			"Attack": {
+				"rotate": [
+					{ "angle": -167.06 },
+					{ "time": 0.0667, "angle": -13.38 },
+					{ "time": 0.1, "angle": -46.92 }
+				],
+				"translate": [
+					{ "x": 484.56, "y": 4.6 },
+					{ "time": 0.0667, "x": 113.35, "y": -0.09 },
+					{ "time": 0.1, "x": -20.44, "y": 108.82 }
+				],
+				"scale": [
+					{ "x": 0.55, "y": -1 },
+					{ "time": 0.0667, "x": 0.55 },
+					{ "time": 0.1, "x": 0.8 }
+				]
+			},
+			"root": {
+				"translate": [
+					{ "time": 0.3333 }
+				]
+			}
+		}
+	},
+	"Front": {
+		"slots": {
+			"Attack": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.1, "name": "A1_00000" },
+					{ "time": 0.1333, "name": "A1_00001" },
+					{ "time": 0.1667, "name": "A1_00002" },
+					{ "time": 0.2, "name": "A1_00003" },
+					{ "time": 0.2333, "name": "A1_00004" },
+					{ "time": 0.2667, "name": "A1_00005" },
+					{ "time": 0.3, "name": "A1_00006" },
+					{ "time": 0.3333, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"A": {
+				"translate": [
+					{ "time": 0.0667, "x": 127.64, "y": 14.46 },
+					{ "time": 0.1, "x": 125.97, "y": -4.77 }
+				]
+			},
+			"Attack": {
+				"rotate": [
+					{ "angle": 36.78, "curve": "stepped" },
+					{ "time": 0.0667, "angle": 36.78 },
+					{ "time": 0.1, "angle": 34.7 }
+				],
+				"translate": [
+					{ "x": 149.43, "y": 29.55, "curve": "stepped" },
+					{ "time": 0.0667, "x": 149.43, "y": 29.55 },
+					{ "time": 0.1, "x": -220.26, "y": -125.07 },
+					{ "time": 0.2333, "x": -68.52, "y": -13.35 }
+				]
+			}
+		}
+	}
+}
+}

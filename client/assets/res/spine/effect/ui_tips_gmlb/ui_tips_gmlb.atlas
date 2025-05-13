@@ -1,0 +1,13 @@
+
+ui_tips_gmlb.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/qipao4
+  rotate: false
+  xy: 2, 100
+  size: 176, 78
+  orig: 178, 78
+  offset: 1, 0
+  index: -1

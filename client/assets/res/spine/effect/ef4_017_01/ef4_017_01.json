@@ -1,0 +1,68 @@
+{
+"skeleton": {
+	"hash": "SCcfV6aJ10MROumJTgQx1ZMZTMM",
+	"spine": "3.8.99",
+	"x": -2560,
+	"y": -2560,
+	"width": 5120,
+	"height": 5120,
+	"images": "./images/",
+	"audio": ""
+},
+"bones": [
+	{ "name": "root", "rotation": 90, "scaleX": 5, "scaleY": 5 },
+	{ "name": "0", "parent": "root", "scaleX": -1 },
+	{ "name": "1_00000", "parent": "0" }
+],
+"slots": [
+	{ "name": "1_00000", "bone": "1_00000", "attachment": "1_00000" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"1_00000": {
+				"1_00000": { "width": 1024, "height": 1024 }
+			}
+		}
+	}
+],
+"animations": {
+	"Back": {
+		"bones": {
+			"1_00000": {
+				"rotate": [
+					{},
+					{ "time": 0.0667, "angle": 90 },
+					{ "time": 0.1667, "angle": 180 },
+					{ "time": 0.2333, "angle": -90 },
+					{ "time": 0.3333 }
+				]
+			},
+			"0": {
+				"scale": [
+					{ "y": 0.581 }
+				]
+			}
+		}
+	},
+	"Front": {
+		"bones": {
+			"1_00000": {
+				"rotate": [
+					{},
+					{ "time": 0.0667, "angle": 90 },
+					{ "time": 0.1667, "angle": 180 },
+					{ "time": 0.2333, "angle": -90 },
+					{ "time": 0.3333 }
+				]
+			},
+			"0": {
+				"scale": [
+					{ "y": 0.581 }
+				]
+			}
+		}
+	}
+}
+}

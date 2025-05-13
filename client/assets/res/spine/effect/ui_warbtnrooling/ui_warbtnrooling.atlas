@@ -1,0 +1,13 @@
+
+ui_warbtnrooling.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+预合成 1_00021
+  rotate: false
+  xy: 2, 36
+  size: 280, 246
+  orig: 400, 400
+  offset: 60, 77
+  index: -1

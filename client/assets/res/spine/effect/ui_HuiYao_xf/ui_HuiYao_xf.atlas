@@ -1,0 +1,13 @@
+
+ui_HuiYao_xf.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+HYS
+  rotate: false
+  xy: 2, 5
+  size: 127, 124
+  orig: 134, 134
+  offset: 3, 7
+  index: -1

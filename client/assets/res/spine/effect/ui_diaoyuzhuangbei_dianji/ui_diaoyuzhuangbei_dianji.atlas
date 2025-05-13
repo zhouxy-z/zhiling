@@ -1,0 +1,104 @@
+
+ui_diaoyuzhuangbei_dianji.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX2_00000
+  rotate: true
+  xy: 140, 866
+  size: 141, 144
+  orig: 256, 256
+  offset: 57, 56
+  index: -1
+FX2_00001
+  rotate: true
+  xy: 286, 855
+  size: 152, 154
+  orig: 256, 256
+  offset: 52, 51
+  index: -1
+FX2_00002
+  rotate: true
+  xy: 442, 845
+  size: 162, 166
+  orig: 256, 256
+  offset: 47, 45
+  index: -1
+FX2_00003
+  rotate: true
+  xy: 610, 836
+  size: 171, 174
+  orig: 256, 256
+  offset: 42, 41
+  index: -1
+FX2_00004
+  rotate: true
+  xy: 786, 826
+  size: 181, 184
+  orig: 256, 256
+  offset: 37, 36
+  index: -1
+FX2_00005
+  rotate: true
+  xy: 190, 662
+  size: 191, 194
+  orig: 256, 256
+  offset: 32, 31
+  index: -1
+FX2_00006
+  rotate: true
+  xy: 386, 644
+  size: 199, 202
+  orig: 256, 256
+  offset: 28, 27
+  index: -1
+FX2_00007
+  rotate: true
+  xy: 797, 619
+  size: 205, 210
+  orig: 256, 256
+  offset: 25, 23
+  index: -1
+FX2_00008
+  rotate: true
+  xy: 218, 430
+  size: 212, 216
+  orig: 256, 256
+  offset: 22, 20
+  index: -1
+FX2_00009
+  rotate: true
+  xy: 436, 404
+  size: 216, 222
+  orig: 256, 256
+  offset: 20, 17
+  index: -1
+FX2_00010
+  rotate: true
+  xy: 2, 449
+  size: 211, 214
+  orig: 256, 256
+  offset: 22, 21
+  index: -1
+FX2_00011
+  rotate: true
+  xy: 590, 622
+  size: 202, 205
+  orig: 256, 256
+  offset: 27, 25
+  index: -1
+FX2_00012
+  rotate: false
+  xy: 2, 678
+  size: 186, 186
+  orig: 256, 256
+  offset: 35, 35
+  index: -1
+FX2_00013
+  rotate: true
+  xy: 2, 873
+  size: 134, 136
+  orig: 256, 256
+  offset: 61, 60
+  index: -1

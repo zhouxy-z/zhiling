@@ -1,0 +1,241 @@
+{
+"skeleton": {
+	"hash": "n3NNEtCv1Q0yL6O9row0+FXgHZU",
+	"spine": "3.8.99",
+	"x": -101,
+	"y": -55,
+	"width": 203,
+	"height": 110,
+	"images": "",
+	"audio": ""
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "z1", "parent": "root", "x": -92 },
+	{ "name": "y1", "parent": "root", "x": 92 },
+	{ "name": "x1", "parent": "root", "y": -47 },
+	{ "name": "s1", "parent": "root", "y": 47 },
+	{ "name": "fg", "parent": "root" }
+],
+"slots": [
+	{ "name": "image/gezi1", "bone": "root", "attachment": "image/gezi1" },
+	{ "name": "image/gezi8", "bone": "root", "attachment": "image/gezi1", "blend": "additive" },
+	{ "name": "image/gezi2", "bone": "root", "attachment": "image/gezi2" },
+	{ "name": "image/gezi3", "bone": "fg", "attachment": "image/gezi3" },
+	{ "name": "image/gezi4", "bone": "x1", "attachment": "image/gezi4" },
+	{ "name": "image/gezi5", "bone": "s1", "attachment": "image/gezi5" },
+	{ "name": "image/gezi6", "bone": "z1", "attachment": "image/gezi6" },
+	{ "name": "image/gezi7", "bone": "y1", "attachment": "image/gezi7" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"image/gezi1": {
+				"image/gezi1": { "x": 0.5, "width": 203, "height": 110 },
+				"image/gezi9": { "x": 0.5, "width": 203, "height": 110 }
+			},
+			"image/gezi2": {
+				"image/gezi2": { "x": 0.5, "width": 203, "height": 110 }
+			},
+			"image/gezi3": {
+				"image/gezi3": { "x": 0.5, "width": 203, "height": 110 }
+			},
+			"image/gezi4": {
+				"image/gezi4": { "x": 0.5, "y": 47, "width": 203, "height": 110 }
+			},
+			"image/gezi5": {
+				"image/gezi5": { "x": 0.5, "y": -47, "width": 203, "height": 110 }
+			},
+			"image/gezi6": {
+				"image/gezi6": { "x": 92.5, "width": 203, "height": 110 }
+			},
+			"image/gezi7": {
+				"image/gezi7": { "x": -91.5, "width": 203, "height": 110 }
+			},
+			"image/gezi8": {
+				"image/gezi1": { "x": 0.5, "width": 203, "height": 110 },
+				"image/gezi9": { "x": 0.5, "width": 203, "height": 110 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {
+		"slots": {
+			"image/gezi1": {
+				"color": [
+					{ "color": "ffffffff" }
+				]
+			},
+			"image/gezi2": {
+				"color": [
+					{ "color": "ffffff00" },
+					{ "time": 1, "color": "ffffffff" },
+					{ "time": 2, "color": "ffffff00" }
+				]
+			},
+			"image/gezi3": {
+				"color": [
+					{ "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.5, "color": "ffffff00" },
+					{ "time": 0.6667, "color": "ffffff95" },
+					{ "time": 1.6667, "color": "ffffff00" }
+				]
+			},
+			"image/gezi4": {
+				"color": [
+					{ "color": "ffffff00" },
+					{ "time": 0.3333, "color": "ffffffff" },
+					{ "time": 0.6667, "color": "ffffff95" },
+					{ "time": 1, "color": "ffffff00" }
+				]
+			},
+			"image/gezi5": {
+				"color": [
+					{ "color": "ffffff00" },
+					{ "time": 0.3333, "color": "ffffffff" },
+					{ "time": 0.6667, "color": "ffffff95" },
+					{ "time": 1, "color": "ffffff00" }
+				]
+			},
+			"image/gezi6": {
+				"color": [
+					{ "color": "ffffff00" },
+					{ "time": 0.3333, "color": "ffffffff" },
+					{ "time": 0.6667, "color": "ffffff95" },
+					{ "time": 1, "color": "ffffff00" }
+				]
+			},
+			"image/gezi7": {
+				"color": [
+					{ "color": "ffffff00" },
+					{ "time": 0.3333, "color": "ffffffff" },
+					{ "time": 0.6667, "color": "ffffff95" },
+					{ "time": 1, "color": "ffffff00" }
+				]
+			},
+			"image/gezi8": {
+				"color": [
+					{ "color": "ffffff00" },
+					{ "time": 1, "color": "ffffff32" },
+					{ "time": 2, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"fg": {
+				"translate": [
+					{ "curve": "stepped" },
+					{ "time": 0.5 },
+					{ "time": 1.6667, "y": 20 }
+				]
+			},
+			"s1": {
+				"translate": [
+					{},
+					{ "time": 1, "y": 10 }
+				]
+			},
+			"x1": {
+				"translate": [
+					{},
+					{ "time": 1, "y": -10 }
+				]
+			},
+			"y1": {
+				"translate": [
+					{},
+					{ "time": 1, "x": 18 }
+				]
+			},
+			"z1": {
+				"translate": [
+					{},
+					{ "time": 1, "x": -18 }
+				]
+			}
+		}
+	},
+	"animation2": {
+		"slots": {
+			"image/gezi1": {
+				"color": [
+					{ "color": "ffffffff" }
+				],
+				"attachment": [
+					{ "name": "image/gezi9" }
+				]
+			},
+			"image/gezi2": {
+				"color": [
+					{ "color": "ffffff00", "curve": "stepped" },
+					{ "time": 2, "color": "ffffff00" }
+				]
+			},
+			"image/gezi3": {
+				"color": [
+					{ "color": "ffffff00" }
+				]
+			},
+			"image/gezi4": {
+				"color": [
+					{ "color": "ffffff00" }
+				]
+			},
+			"image/gezi5": {
+				"color": [
+					{ "color": "ffffff00" }
+				]
+			},
+			"image/gezi6": {
+				"color": [
+					{ "color": "ffffff00" }
+				]
+			},
+			"image/gezi7": {
+				"color": [
+					{ "color": "ffffff00" }
+				]
+			},
+			"image/gezi8": {
+				"color": [
+					{ "color": "ffffff00" },
+					{ "time": 1, "color": "ffffff32" },
+					{ "time": 2, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "name": "image/gezi9" }
+				]
+			}
+		},
+		"bones": {
+			"fg": {
+				"translate": [
+					{}
+				]
+			},
+			"s1": {
+				"translate": [
+					{}
+				]
+			},
+			"x1": {
+				"translate": [
+					{}
+				]
+			},
+			"y1": {
+				"translate": [
+					{}
+				]
+			},
+			"z1": {
+				"translate": [
+					{}
+				]
+			}
+		}
+	}
+}
+}

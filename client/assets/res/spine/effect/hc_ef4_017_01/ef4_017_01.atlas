@@ -1,0 +1,13 @@
+
+ef4_017_01.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_00000
+  rotate: false
+  xy: 2, 3
+  size: 325, 324
+  orig: 512, 512
+  offset: 93, 95
+  index: -1

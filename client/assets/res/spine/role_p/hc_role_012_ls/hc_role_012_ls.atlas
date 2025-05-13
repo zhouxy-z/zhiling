@@ -1,0 +1,174 @@
+
+hc_role_012_ls.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+E_L
+  rotate: false
+  xy: 1863, 174
+  size: 60, 61
+  orig: 62, 63
+  offset: 1, 1
+  index: -1
+H_L_2
+  rotate: false
+  xy: 2, 67
+  size: 154, 131
+  orig: 154, 131
+  offset: 0, 0
+  index: -1
+H_L_qt_2
+  rotate: true
+  xy: 158, 87
+  size: 111, 112
+  orig: 113, 114
+  offset: 1, 1
+  index: -1
+H_L_sb
+  rotate: false
+  xy: 1925, 405
+  size: 117, 186
+  orig: 117, 186
+  offset: 0, 0
+  index: -1
+H_R_2
+  rotate: true
+  xy: 1925, 170
+  size: 233, 113
+  orig: 233, 113
+  offset: 0, 0
+  index: -1
+H_R_qt_2
+  rotate: false
+  xy: 1925, 593
+  size: 118, 117
+  orig: 123, 119
+  offset: 4, 1
+  index: -1
+H_R_sb
+  rotate: false
+  xy: 585, 143
+  size: 126, 190
+  orig: 126, 190
+  offset: 0, 0
+  index: -1
+Hat
+  rotate: false
+  xy: 1512, 65
+  size: 349, 170
+  orig: 349, 170
+  offset: 0, 0
+  index: -1
+M
+  rotate: true
+  xy: 713, 143
+  size: 159, 67
+  orig: 161, 69
+  offset: 1, 1
+  index: -1
+Qun
+  rotate: false
+  xy: 2, 335
+  size: 711, 236
+  orig: 711, 236
+  offset: 0, 0
+  index: -1
+Wei
+  rotate: false
+  xy: 2, 200
+  size: 310, 133
+  orig: 310, 133
+  offset: 0, 0
+  index: -1
+Wu_1
+  rotate: true
+  xy: 796, 218
+  size: 506, 714
+  orig: 506, 714
+  offset: 0, 0
+  index: -1
+Ye_1
+  rotate: false
+  xy: 715, 367
+  size: 77, 204
+  orig: 77, 204
+  offset: 0, 0
+  index: -1
+Ye_2
+  rotate: true
+  xy: 314, 178
+  size: 155, 269
+  orig: 155, 269
+  offset: 0, 0
+  index: -1
+Ye_4
+  rotate: false
+  xy: 1512, 237
+  size: 370, 92
+  orig: 373, 94
+  offset: 1, 1
+  index: -1
+Ye_5
+  rotate: false
+  xy: 2, 573
+  size: 792, 646
+  orig: 792, 646
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 1512, 331
+  size: 379, 411
+  orig: 379, 411
+  offset: 0, 0
+  index: -1
+hdj
+  rotate: false
+  xy: 1863, 28
+  size: 176, 140
+  orig: 176, 140
+  offset: 0, 0
+  index: -1
+hdj2
+  rotate: false
+  xy: 272, 86
+  size: 110, 90
+  orig: 110, 90
+  offset: 0, 0
+  index: -1
+hdj3
+  rotate: true
+  xy: 158, 2
+  size: 83, 95
+  orig: 83, 95
+  offset: 0, 0
+  index: -1
+ss
+  rotate: false
+  xy: 796, 726
+  size: 747, 493
+  orig: 748, 494
+  offset: 1, 0
+  index: -1
+toufa1
+  rotate: true
+  xy: 1545, 920
+  size: 299, 466
+  orig: 299, 466
+  offset: 0, 0
+  index: -1
+toufa2
+  rotate: true
+  xy: 1545, 712
+  size: 206, 448
+  orig: 206, 448
+  offset: 0, 0
+  index: -1
+yanying
+  rotate: true
+  xy: 715, 304
+  size: 61, 75
+  orig: 62, 76
+  offset: 1, 1
+  index: -1
